@@ -1,4 +1,4 @@
-# g- (g Dash) Open Source Intelligence Dashboard
+# gDash ( g- ) Open Source Intelligence Dashboard
 Watching current event's unfold before they are written about in history. gDash is leveraging osint, python, and web framework's to create a modern app for user's to spectate the macro world. g- is a open source project please feel welcomed to build on top of it, or make any changes.
 
 ## Getting Started
