@@ -9,8 +9,8 @@ Open Source Intelligence Dashboard for watching current event's unfold. Leveragi
 ### Running the app locally
 We suggest you to create a separate virtual environment running Python 3 for this app, and install all of the required dependencies there. Run in Terminal/Command Prompt:
 ```
-git clone https://github.com/antonio-hickey/g-/
-cd g-
+git clone https://github.com/antonio-hickey/gDash/
+cd gDash
 python3 -m virtualenv venv
 ```
 In UNIX system: 
