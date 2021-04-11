@@ -1,8 +1,8 @@
 # gDash ( g- ) Open Source Intelligence Dashboard
 
-![alt text](https://i.ibb.co/BrjRjs9/2021-04-11-00-25.png)
+![alt text](https://ibb.co/KWRRDD9)
 
-Watching current event's unfold before they are written about in history. Leveraging osint, python, and web framework's to create a modern app for user's to spectate the macro world. g- is a open source project please feel welcomed to build on top of it, or make any changes.
+Open Source Intelligence Dashboard for watching current event's unfold. Leveraging osint, python, and web framework's to create a modern app for user's to spectate the macro world.
 
 ## Getting Started
 
