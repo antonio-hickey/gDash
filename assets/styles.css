@@ -220,7 +220,7 @@ html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
     font-size: 50%;
-    background-color: #1f2630;
+    background-color: #ffffff;
     max-width: 100% !important;
     width: 100% !important;
     margin: 0;
@@ -231,7 +231,7 @@ body {
     line-height: 1.6;
     font-weight: 400;
     font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #7fafdf;
+    color: #353535;
     margin: 0;
 }
 
@@ -319,7 +319,7 @@ p {
 
 #description {
     font-size: 1.5rem;
-    border-left: #FAFA33 solid 1rem;
+    border-left: #3c6e71 solid 1rem;
     padding-left: 1rem;
     max-width: 100rem;
     margin: 2rem 0 3rem 0;
@@ -490,7 +490,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-    border: 1px solid #33C3F0;
+    border: 1px solid #3c6e71;
     outline: 0;
 }
 
@@ -650,11 +650,11 @@ hr {
 }
 
 .rc-slider-dot-active, .rc-slider-handle {
-    border-color: #2cfec1 !important;
+    border-color: #3c6e71 !important;
 }
 
 .rc-slider-track {
-    background-color: #2cfec1 !important
+    background-color: #3c6e71 !important
 }
 
 .rc-slider-rail {
@@ -663,13 +663,9 @@ hr {
 
 /* Heatmap
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-#map_ {
-    background-color: #252e3f;
-}
-
 #heatmap-title {
     margin: 0;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 #map {
@@ -714,7 +710,7 @@ hr {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 #graph-container {
-    background-color: #252e3f;
+    background-color: #d9d9d9;
     height: 720px;
     padding: 5rem;
     margin-top: 50px;
@@ -786,20 +782,20 @@ hr {
 }
 
 .Select-control {
-    color: #7fafdf !important;
+    color: #353535 !important;
 }
 
 .Select {
-    color: #7fafdf !important;
+    color: #353535 !important;
 }
 
 .Select-menu-outer {
-    background-color: #252e3f !important;
-    border: 1px solid #7fafdf !important;
+    background-color: #ffffff !important;
+    border: 1px solid #353535 !important;
 }
 
 .Select div {
-    background-color: #252e3f !important;
+    background-color: #ffffff !important;
 }
 
 .Select-menu-outer div:hover {
@@ -808,11 +804,11 @@ hr {
 }
 
 .Select-value-label {
-    color: #7fafdf !important;
+    color: #353535 !important;
 }
 
 .Select--single > .Select-control .Select-value, .Select-placeholder {
-    border: 1px solid #7fafdf !important;
+    border: 1px solid #353535 !important;
     border-radius: 4px !important;
 }
 

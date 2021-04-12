@@ -1,4 +1,12 @@
+#-----------------------
+# Free Access Token from https://www.mapbox.com/
+#-----------------------
+token = "pk.eyJ1IjoiYWZoaWNrZXkiLCJhIjoiY2tuOTdrNm12MTU0ejJwcmk0MnQ5ZnR3aCJ9.i0iFm0olBK5Ck93c9Ptktg"
+#-----------------------
+
+#-----------------------
 # Importing Modules
+#-----------------------
 import os
 import pathlib
 import re
@@ -9,8 +17,11 @@ import pandas as pd
 import plotly.express as px
 from dash.dependencies import Input, Output, State
 import cufflinks as cf
+#-----------------------
 
+#-----------------------
 # Initialize App
+#-----------------------
 app = dash.Dash(
     __name__,
     meta_tags=[
@@ -18,23 +29,66 @@ app = dash.Dash(
     ],
 )
 server = app.server
+#-----------------------
 
-# Load data
+#-----------------------
+# Data
+#-----------------------
+# Current Path
 APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data", "dataset.csv")))
+
+# Current Event's
+ce_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data", "dataset.csv")))
+
+#Covid Data
+c19_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data", "world_c19.csv")))
+#-----------------------
+
+#-----------------------
 # Mapping
+#-----------------------
+px.set_mapbox_access_token(token)
 fig = px.scatter_mapbox(
-        df,
-        lat = df['lat'],
-        lon = df['lon'],
-        hover_name="description",
+        ce_df,
+        lat = ce_df['lat'],
+        lon = ce_df['lon'],
+        hover_name=ce_df["description"],
+        color=ce_df['scale'],
+        color_continuous_scale=px.colors.diverging.RdYlGn,
+        size = ce_df['size'],
+        size_max=15,
         zoom=1,
-        mapbox_style="open-street-map",
+        mapbox_style= "light",
     )
 fig["layout"]["height"] = 780
-fig["layout"].update(paper_bgcolor="#252e3f", plot_bgcolor="#252e3f")
+fig["layout"].update(paper_bgcolor="#d9d9d9", plot_bgcolor="#d9d9d9")
+fig.update_layout(title_text='Earth\'s Current Events',title_x=0.5,title_font_color='#353535',
+            yaxis=dict(color='#353535'),xaxis=dict(color='#353535'))
+#-----------------------
 
+#-----------------------
+# Covid 19 Graphing
+#-----------------------
+c19fig = px.area(c19_df,x="date",y="total_deaths",color_discrete_sequence=['#3c6e71'])
+c19fig["layout"][
+    "uirevision"
+] = "The User is always right"
+c19fig["layout"]["height"] = 590
+c19fig["layout"]["yaxis"]["title"] = 'Deaths'
+c19fig["layout"]["xaxis"]["title"] = 'Dates'
+c19fig["layout"]["yaxis"]["gridcolor"] = "#ffffff"
+c19fig["layout"]["xaxis"]["gridcolor"] = "#ffffff"
+c19fig.update_layout(legend=dict(font=dict(color="#353535")))
+c19fig["layout"].update(paper_bgcolor="#ffffff", plot_bgcolor="#d9d9d9")
+c19fig.update_yaxes(title_font=dict(color='#353535'))
+c19fig.update_xaxes(title_font=dict(color='#353535'))
+c19fig.update_layout(title_text='COVID-19 Death\'s Global',title_x=0.5,title_font_color='#353535',
+            yaxis=dict(color='#353535'),xaxis=dict(color='#353535'))
+#-----------------------
+
+#-----------------------
 # App layout
+#-----------------------
 app.layout = html.Div(
     id="root",
     children=[
@@ -73,6 +127,7 @@ app.layout = html.Div(
                 html.Div(
                     id="graph-container",
                     children=[
+                        # Dropdown menu
                         dcc.Dropdown(
                             options=[
                                 {
@@ -95,12 +150,26 @@ app.layout = html.Div(
                             value="covid",
                             id="chart-dropdown",
                         ),
+                        html.Div(
+                            id="data_graph",
+                            children=[
+                                dcc.Graph(
+                                    id="data-graph",
+                                    figure= c19fig
+                                )
+                            ]
+                        )
                     ]
                 )
             ],
         ),
     ],
 )
+#-----------------------
+
+#-----------------------
 # Run Server
+#-----------------------
 if __name__ == "__main__":
     app.run_server(debug=True)
+#-----------------------
