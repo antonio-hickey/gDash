@@ -1,7 +1,7 @@
 #-----------------------
 # Free Access Token from https://www.mapbox.com/
 #-----------------------
-token = "pk.eyJ1IjoiYWZoaWNrZXkiLCJhIjoiY2tuOTdrNm12MTU0ejJwcmk0MnQ5ZnR3aCJ9.i0iFm0olBK5Ck93c9Ptktg"
+token = "*YOUR MAPBOX ACCESS TOKEN*"
 #-----------------------
 
 #-----------------------
@@ -58,7 +58,7 @@ fig = px.scatter_mapbox(
         size = ce_df['size'],
         size_max=15,
         zoom=1,
-        mapbox_style= "light",
+        mapbox_style= "satellite-streets",
     )
 fig["layout"]["height"] = 780
 fig["layout"].update(paper_bgcolor="#d9d9d9", plot_bgcolor="#d9d9d9")
