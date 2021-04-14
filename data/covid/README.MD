@@ -7,7 +7,7 @@ To automate running the python script to collect data daily:
 		- Crontab Job every day at 4:30pm
 			- Open a terminal
 			- `crontab -e`
-			- `30 16 * * * /usr/bin/env python3 /home/sratus/Desktop/gDash/data/covid/covid_miner.py`
+			- `30 16 * * * /usr/bin/env python3 /YOUR PATH/gDash/data/covid/covid_miner.py`
 			- `ctrl + x`
 			
 	- Windows:
