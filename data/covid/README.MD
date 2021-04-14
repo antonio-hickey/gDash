@@ -2,6 +2,7 @@
 ### Collecting data from Our World In Data (https://ourworldindata.org/)
 
 To automate running the python script to collect data daily:
+
 	- UNIX:
 		- Crontab Job every day at 4:30pm
 			- Open a terminal
