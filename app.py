@@ -1,7 +1,7 @@
 #-----------------------
 # Free Access Token from https://www.mapbox.com/
 #-----------------------
-token = "*YOUR MAPBOX ACCESS TOKEN*"
+token = "*YOUR ACCESSS TOKEN*"
 #-----------------------
 
 #-----------------------
@@ -38,10 +38,10 @@ server = app.server
 APP_PATH = str(pathlib.Path(__file__).parent.resolve())
 
 # Current Event's
-ce_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data", "dataset.csv")))
+ce_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data/events", "dataset.csv")))
 
 #Covid Data
-c19_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data", "world_c19.csv")))
+c19_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data/covid", "world_c19.csv")))
 #-----------------------
 
 #-----------------------
@@ -50,12 +50,12 @@ c19_df = pd.read_csv(os.path.join(APP_PATH, os.path.join("data", "world_c19.csv"
 px.set_mapbox_access_token(token)
 fig = px.scatter_mapbox(
         ce_df,
-        lat = ce_df['lat'],
-        lon = ce_df['lon'],
-        hover_name=ce_df["description"],
-        color=ce_df['scale'],
+        lat = ce_df['Lat'],
+        lon = ce_df['Lon'],
+        hover_name=ce_df["Description"],
+        color=ce_df['Scale'],
         color_continuous_scale=px.colors.diverging.RdYlGn,
-        size = ce_df['size'],
+        size = ce_df['Size'],
         size_max=15,
         zoom=1,
         mapbox_style= "satellite-streets",
