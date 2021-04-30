@@ -7,7 +7,7 @@ Unix machines can use crontab jobs:
    
    - Now that we are in crontab we need to create the jobs:
   
-        - The data miner runs every hour and the data handler runs every hour and 1 minute 
+        - Copy and paste the following:
         
          
                #--------------
