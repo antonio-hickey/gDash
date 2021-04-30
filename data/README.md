@@ -3,13 +3,13 @@
 Unix machines can use crontab jobs:
     - First open a terminal and use the following command:
    
-        - `crontab -e`
+        crontab -e
    
    - Now that we are in crontab we need to create the jobs:
   
         - The data miner runs every hour and the data handler runs every hour and 1 minute 
         
-        - ```
+         ```
             #--------------
             # gDash Jobs
             #--------------
@@ -20,4 +20,4 @@ Unix machines can use crontab jobs:
 
 Windows machines can use task scheduler:
 
-    [Tutorial](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
+   [Tutorial](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
