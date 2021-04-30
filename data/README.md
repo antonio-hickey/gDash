@@ -15,6 +15,7 @@ Unix machines can use crontab jobs:
                #--------------
                0 * * * * /usr/bin/env python3 /YOURFILEPATH/gDash/data/events/micro_miner.py
                1 * * * * /usr/bin/env python3 /YOURFILEPATH/gDash/data/events/handler.py
+               51 20 * * * * /usr/bin/env python3 /YOURFILEPATH/gDash/data/covid/covid_miner.py
                #--------------
           
 
