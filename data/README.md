@@ -9,14 +9,14 @@ Unix machines can use crontab jobs:
   
         - The data miner runs every hour and the data handler runs every hour and 1 minute 
         
-         ```
+         
             #--------------
             # gDash Jobs
             #--------------
             0 * * * * /usr/bin/env python3 /YOURFILEPATH/gDash/data/events/micro_miner.py
             1 * * * * /usr/bin/env python3 /YOURFILEPATH/gDash/data/events/handler.py
             #--------------
-          ```
+          
 
 Windows machines can use task scheduler:
 
