@@ -2,8 +2,11 @@
 
 Unix machines can use crontab jobs:
     - First open a terminal and use the following command:
+   
         - `crontab -e`
-    - Now that we are in crontab we need to create the jobs:
+   
+   - Now that we are in crontab we need to create the jobs:
+        
         - ```
             #--------------
             # gDash Jobs
@@ -12,6 +15,7 @@ Unix machines can use crontab jobs:
             1 * * * * /usr/bin/env python3 /YOURFILEPATH/gDash/data/events/handler.py
             #--------------
           ```
+    
     - Our data will now be collected and updated every hour
 
 Windows machines can use task scheduler:
