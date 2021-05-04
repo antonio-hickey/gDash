@@ -1,8 +1,10 @@
 #----------------------------------
 # Import Modules
 import pandas as pd
+import os
 #----------------------------------
 # Import datasets
+os.chdir(os.path.dirname(__file__))
 df = pd.read_csv('geoEvents.csv')
 df2 = pd.read_csv('usEvents.csv')
 #----------------------------------
