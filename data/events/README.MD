@@ -10,6 +10,3 @@
 	+-- dataset.csv = Final output dataset of ALL events
 ```		
 
-
-### [Automation Tutorial](https://github.com/antonio-hickey/gDash/blob/main/data/README.md)
-
