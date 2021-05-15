@@ -1,7 +1,7 @@
+#!/bin/usr/python
 import pandas as pd
 import datetime as dt
 import pathlib
-import json
 import os
 #-----------------------------
 # Covid Data
