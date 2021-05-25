@@ -1,34 +1,34 @@
 Lat,Lon,Description,Link,Scale,Size
-63.880265,-22.540119,Iceland Active Volcano Alert,https://www.mbl.is/promos/elgosid-i-beinni/,3.0,1.0
-23.635006,-102.28643,Mexico Drug War,https://www.vice.com/en/article/wx8m5q/mexican-drug-cartels-have-turned-once-thriving-guadalajara-into-a-war-zone,2.0,2.0
-13.334469,-61.180779,St Vincint Active Volcano Alert,https://twitter.com/i/status/1380629872461103107,3.0,1.0
-7.578066,-66.168934,Instability Growing in Venezuela,https://www.bbc.com/news/world-latin-america-48121148,2.0,2.0
-17.01471,-1.96469,Destabilization of Mali,https://t.co/QRWrVdacWw?amp=1,3.0,1.0
-27.632434,17.33539,Libyan Civil War,https://twitter.com/i/status/1380237803007709186,2.0,2.0
-9.033303,8.222744,Terrorism in Nigeria,https://www.bbc.com/news/topics/c50znx8v132t/nigeria,2.0,2.0
-6.748176,21.274502,Instability Growing in Central African Republic,https://www.hrw.org/africa/central-african-republic,2.0,2.0
--1.221481,23.283774,Military Op’s against Militia in Democratic Republic of Congo,https://nation.africa/kenya/news/africa/33-killed-in-dr-congo-crackdown-on-rebels-3333640,3.0,3.0
-7.038232,30.323407,South Sudanese Civil War,https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,2.0,2.0
-3.303393,45.16022,Terrorism in Somalia,https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group),3.0,3.0
-29.55112,30.72389,Instability Growing in Egypt,https://carnegieendowment.org/sada/81615,2.0,2.0
-39.476588,126.29969,Crisis in North Korea,https://www.newser.com/story/304752/kim-jong-un-calls-for-an-arduous-march.html,1.0,3.0
-26.929515,123.09427,Military Tensions in the East China Sea,https://www.scmp.com/news/china/diplomacy/article/3127813/china-issues-strong-warning-japan-over-negative-moves-east,1.0,3.0
-15.697398,114.250254,Military Tensions in the South China Sea,https://www.9news.com.au/world/south-china-sea-us-and-china-sail-aircraft-carriers-into-disputed-waters/746a8e74-b160-4efd-a44a-7c5af5a715a3,1.0,3.0
-21.789702,96.02095,Military Coup in Myanmar,https://www.bbc.com/news/world-asia-55902070,1.0,3.0
-34.946308,77.37496,Border Dispute India-China,https://en.wikipedia.org/wiki/2020%E2%80%932021_China%E2%80%93India_skirmishes,2.0,2.0
-31.56923,74.673095,Military Conflict India vs Pakistan,https://www.dawn.com/news/1617288,2.0,2.0
-30.22618,71.196591,Terrorism in Pakistan,https://www.brookings.edu/blog/order-from-chaos/2021/01/15/terrorism-in-pakistan-has-declined-but-the-underlying-roots-of-extremism-remain/,2.0,2.0
-34.447325,65.884531,War in Afghanistan,https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%93present),1.0,3.0
-15.621836,41.446617,Attack on Iranian ship off Yemen in Red Sea,https://apnews.com/article/donald-trump-israel-iran-iran-nuclear-united-arab-emirates-9835ba4644959e9cb4584ca999f49002,2.0,2.0
-26.225341,55.554225,Military Tensions in Persian Gulf,https://en.wikipedia.org/wiki/2019%E2%80%932021_Persian_Gulf_crisis,1.0,3.0
-33.125684,44.341708,Instability Growing in Iraq,https://en.wikipedia.org/wiki/Iraqi_conflict_(2003%E2%80%93present),2.0,2.0
-35.239303,38.546542,Syrian Civil War,https://en.wikipedia.org/wiki/Syrian_civil_war,2.0,2.0
-33.913216,35.778599,Destabilization starting in Lebanon,https://microsites-live-backend.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,2.0,2.0
-32.018639,35.097442,Military Conflict Israel-Palestine,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,2.0,2.0
-39.404062,35.3859,Military Conflict Turkey-Kurdish Groups,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict_(1978%E2%80%93present),2.0,2.0
-40.287336,45.93949,Military Conflict Armenia-Azerbaijan,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,3.0,1.0
-45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1.0,3.0
-34.010105,-80.540033,Serial killer wanted for 4 murders spotted in South Carolina,https://t.co/6ODojdWCOa,,
-41.242098,-99.318614,Extremely destructive tornado moving through southwest Nebraska,https://t.co/seHy9OJFFq,,
-42.27003,-71.699885,Police are responding to a mass stabbing incident in South Boston,https://t.co/M75HS3vV9P,,
-32.876795,-83.483814,Large explosion reported at a warehouse in downtown Atlanta,https://t.co/B6rot29s9R,,
+63.880265,-22.540119,Iceland Active Volcano Alert,https://www.mbl.is/promos/elgosid-i-beinni/,3,1
+23.635006,-102.28643,Mexico Drug War,https://www.vice.com/en/article/wx8m5q/mexican-drug-cartels-have-turned-once-thriving-guadalajara-into-a-war-zone,2,2
+13.334469,-61.180779,St Vincint Active Volcano Alert,https://twitter.com/i/status/1380629872461103107,3,1
+7.578066,-66.168934,Instability Growing in Venezuela,https://www.bbc.com/news/world-latin-america-48121148,2,2
+17.01471,-1.96469,Destabilization of Mali,https://t.co/QRWrVdacWw?amp=1,3,1
+27.632434,17.33539,Libyan Civil War,https://twitter.com/i/status/1380237803007709186,2,2
+9.033303,8.222744,Terrorism in Nigeria,https://www.bbc.com/news/topics/c50znx8v132t/nigeria,2,2
+6.748176,21.274502,Instability Growing in Central African Republic,https://www.hrw.org/africa/central-african-republic,2,2
+-1.221481,23.283774,Military Op’s against Militia in Democratic Republic of Congo,https://nation.africa/kenya/news/africa/33-killed-in-dr-congo-crackdown-on-rebels-3333640,3,3
+7.038232,30.323407,South Sudanese Civil War,https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,2,2
+3.303393,45.16022,Terrorism in Somalia,https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group),3,3
+29.55112,30.72389,Instability Growing in Egypt,https://carnegieendowment.org/sada/81615,2,2
+39.476588,126.29969,Crisis in North Korea,https://www.newser.com/story/304752/kim-jong-un-calls-for-an-arduous-march.html,1,3
+26.929515,123.09427,Military Tensions in the East China Sea,https://www.scmp.com/news/china/diplomacy/article/3127813/china-issues-strong-warning-japan-over-negative-moves-east,1,3
+15.697398,114.250254,Military Tensions in the South China Sea,https://www.9news.com.au/world/south-china-sea-us-and-china-sail-aircraft-carriers-into-disputed-waters/746a8e74-b160-4efd-a44a-7c5af5a715a3,1,3
+21.789702,96.02095,Military Coup in Myanmar,https://www.bbc.com/news/world-asia-55902070,1,3
+34.946308,77.37496,Border Dispute India-China,https://en.wikipedia.org/wiki/2020%E2%80%932021_China%E2%80%93India_skirmishes,2,2
+31.56923,74.673095,Military Conflict India vs Pakistan,https://www.dawn.com/news/1617288,2,2
+30.22618,71.196591,Terrorism in Pakistan,https://www.brookings.edu/blog/order-from-chaos/2021/01/15/terrorism-in-pakistan-has-declined-but-the-underlying-roots-of-extremism-remain/,2,2
+34.447325,65.884531,War in Afghanistan,https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%93present),1,3
+15.621836,41.446617,Attack on Iranian ship off Yemen in Red Sea,https://apnews.com/article/donald-trump-israel-iran-iran-nuclear-united-arab-emirates-9835ba4644959e9cb4584ca999f49002,2,2
+26.225341,55.554225,Military Tensions in Persian Gulf,https://en.wikipedia.org/wiki/2019%E2%80%932021_Persian_Gulf_crisis,1,3
+33.125684,44.341708,Instability Growing in Iraq,https://en.wikipedia.org/wiki/Iraqi_conflict_(2003%E2%80%93present),2,2
+35.239303,38.546542,Syrian Civil War,https://en.wikipedia.org/wiki/Syrian_civil_war,2,2
+33.913216,35.778599,Destabilization starting in Lebanon,https://microsites-live-backend.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,2,2
+32.018639,35.097442,Military Conflict Israel-Palestine,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,2,2
+39.404062,35.3859,Military Conflict Turkey-Kurdish Groups,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict_(1978%E2%80%93present),2,2
+40.287336,45.93949,Military Conflict Armenia-Azerbaijan,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,3,1
+45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1,3
+34.010105,-80.540033,Serial killer wanted for 4 murders spotted in South Carolina,https://t.co/6ODojdWCOa,2,2
+41.242098,-99.318614,Extremely destructive tornado moving through southwest Nebraska,https://t.co/seHy9OJFFq,2,2
+42.27003,-71.699885,Police are responding to a mass stabbing incident in South Boston,https://t.co/M75HS3vV9P,2,2
+32.876795,-83.483814,Large explosion reported at a warehouse in downtown Atlanta,https://t.co/B6rot29s9R,2,2
