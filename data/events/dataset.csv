@@ -1,5 +1,4 @@
 Lat,Lon,Description,Link,Scale,Size
-<<<<<<< HEAD
 63.880265,-22.540119,Iceland Active Volcano Alert,https://www.mbl.is/promos/elgosid-i-beinni/,3,1
 23.635006,-102.28643,Mexico Drug War,https://www.vice.com/en/article/wx8m5q/mexican-drug-cartels-have-turned-once-thriving-guadalajara-into-a-war-zone,2,2
 13.334469,-61.180779,St Vincint Active Volcano Alert,https://twitter.com/i/status/1380629872461103107,3,1
@@ -34,7 +33,6 @@ Lat,Lon,Description,Link,Scale,Size
 36.270146,-119.650223,Terminated firefighter shoots up fire station and burns home in California,https://t.co/h9T8Gy27gE,2,2
 31.21155,-99.087012,Dallas Police respond to active shooter situation at NorthPark Center Mall,https://t.co/J7UryZkSBJ,2,2
 27.451115,-81.255174,Massive fire spreading through Florida’s Everglade National Park,https://t.co/lT9S1LHtYE,2,2
-=======
 63.880265,-22.540119,Iceland Active Volcano Alert,https://www.mbl.is/promos/elgosid-i-beinni/,3.0,1.0
 23.635006,-102.28643,Mexico Drug War,https://www.vice.com/en/article/wx8m5q/mexican-drug-cartels-have-turned-once-thriving-guadalajara-into-a-war-zone,2.0,2.0
 13.334469,-61.180779,St Vincint Active Volcano Alert,https://twitter.com/i/status/1380629872461103107,3.0,1.0
@@ -68,4 +66,3 @@ Lat,Lon,Description,Link,Scale,Size
 41.242098,-99.318614,Extremely destructive tornado moving through southwest Nebraska,https://t.co/seHy9OJFFq,2,2
 42.27003,-71.699885,Police are responding to a mass stabbing incident in South Boston,https://t.co/M75HS3vV9P,2,2
 32.876795,-83.483814,Large explosion reported at a warehouse in downtown Atlanta,https://t.co/B6rot29s9R,2,2
->>>>>>> b9b06d23398c8c4d944c204faa2bf57fec44282d
