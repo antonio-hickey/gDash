@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+#!/bin/usr/python
+import pandas as pd
+import datetime as dt
+import pathlib
+>>>>>>> 0aa399242d597fe2aca3be70396a3d072e4a80a4
 import os
 import pathlib
 
@@ -24,3 +31,7 @@ world_c19_df = world_c19_df[['location', 'date', 'total_cases', 'new_cases',
 os.chdir(os.path.dirname(__file__))
 APP_PATH = str(pathlib.Path(__file__).parent.resolve())
 world_c19_df.to_csv(os.path.join(APP_PATH, 'world_c19.csv'))
+<<<<<<< HEAD
+=======
+#-----------------------------
+>>>>>>> 0aa399242d597fe2aca3be70396a3d072e4a80a4
