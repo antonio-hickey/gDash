@@ -90,10 +90,29 @@ Lat,Lon,Description,Link,,
 31.21155,-99.087012,Active shooter confirmed at Lackland Air Force Base in southwest San Antonio,https://t.co/s2tAWU4bPV,,
 31.21155,-99.087012,Police responding to student shot at North Forest Highschool in Houston,https://t.co/49FOxhYVB4,,
 41.242098,-99.318614,Multiple people shot inside vehicle in northwest Omaha,https://t.co/scUVDKBI74,,
+Lat,Lon,Description,Link,,
+36.270146,-119.650223,Los Angeles Fire Department responding to a confirmed explosion,https://t.co/j4RZsZ0rVp,,
+39.356961,-76.9165257,Major fire reported at an Amazon Distribution Facility in north Maryland,https://t.co/VfFh7rOi2j,,
+31.21155,-99.087012,Active shooter confirmed at Lackland Air Force Base in southwest San Antonio,https://t.co/s2tAWU4bPV,,
+31.21155,-99.087012,Police responding to student shot at North Forest Highschool in Houston,https://t.co/49FOxhYVB4,,
+41.242098,-99.318614,Multiple people shot inside vehicle in northwest Omaha,https://t.co/scUVDKBI74,,
+24.5526,102.0142,"On 6/10/2021 11:46:10 AM, an earthquake occurred in China potentially affecting 7820000 people within 100km. The earthquake had Magnitude 5.1M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272509,1.0,1.0
+42.1573,142.9763,"On 6/10/2021 11:35:46 AM, an earthquake occurred in Japan potentially affecting 380000 people within 100km. The earthquake had Magnitude 4.6M, Depth:69.68km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272508,1.0,1.0
+60.176,-74.0098,"On 6/10/2021 11:20:15 AM, an earthquake occurred in Canada potentially affecting No people within 100km. The earthquake had Magnitude 4.6M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272507,1.0,1.0
+-4.8687,102.9221,"On 6/10/2021 10:12:47 AM, an earthquake occurred in Indonesia potentially affecting 260000 people within 100km. The earthquake had Magnitude 5.1M, Depth:67.09km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272503,1.0,1.0
+41.0693,142.2634,"On 6/10/2021 9:56:04 AM, an earthquake occurred in Japan potentially affecting 460000 people within 100km. The earthquake had Magnitude 4.8M, Depth:46.69km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272502,1.0,1.0
+-3.0818,28.2625,"On 6/10/2021 8:54:17 AM, an earthquake occurred in The Democratic Republic of Congo potentially affecting 3580000 people within 100km. The earthquake had Magnitude 5M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272496,1.0,1.0
+5.881,126.2216,"On 6/10/2021 2:42:25 AM, an earthquake occurred in Philippines potentially affecting 360000 people within 100km. The earthquake had Magnitude 4.9M, Depth:70km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272474,1.0,1.0
+38.492,-121.824,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,1.0,1.0
+-3.458,39.49,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,1.0,1.0
+47.659,-101.827,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,1.0,1.0
+34.41,5.578,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,1.0,1.0
+21.999,-101.003,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014149,2.0,2.0
+34.359,60.214,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+-13.599,12.777,The  Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,3.0,3.0
+-18.813,47.771,The  Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,3.0,3.0
+35.253,44.894,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
+-20.823,-52.726,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,1.0,1.0
 -21.6708,-178.903,"On 6/9/2021 10:53:34 PM, an earthquake occurred in Tonga potentially affecting No people within 100km. The earthquake had Magnitude 4.5M, Depth:585.94km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272454,1.0,1.0
 3.3589,126.7077,"On 6/9/2021 10:00:32 PM, an earthquake occurred in Indonesia potentially affecting 140000 people within 100km. The earthquake had Magnitude 4.5M, Depth:35km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272447,1.0,1.0
 5.8088,126.2386,"On 6/9/2021 6:49:35 PM, an earthquake occurred in Philippines potentially affecting 310000 people within 100km. The earthquake had Magnitude 4.5M, Depth:106.79km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272432,1.0,1.0
-40.1851,142.3781,"On 6/9/2021 1:05:56 PM, an earthquake occurred in Japan potentially affecting 530000 people within 100km. The earthquake had Magnitude 5M, Depth:44.1km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272400,1.0,1.0
-35.5418,139.6555,"On 6/9/2021 8:27:23 AM, an earthquake occurred in Japan potentially affecting 39860000 people within 100km. The earthquake had Magnitude 4.5M, Depth:139.82km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272374,1.0,1.0
-9.048,126.1196,"On 6/9/2021 8:11:08 AM, an earthquake occurred in Philippines potentially affecting 2150000 people within 100km. The earthquake had Magnitude 4.5M, Depth:83.22km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272373,1.0,1.0
--4.7694,-105.7437,"On 6/9/2021 6:57:40 AM, an earthquake occurred in [unknown] potentially affecting No people within 100km. The earthquake had Magnitude 4.8M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272364,1.0,1.0
