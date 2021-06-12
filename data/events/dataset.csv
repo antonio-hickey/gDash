@@ -368,16 +368,28 @@ Lat,Lon,Description,Link,,
 31.21155,-99.087012,Several streets in downtown Austin closed following a mass shooting event,https://t.co/qNXt2bfjLk,,
 31.21155,-99.087012,Austin Police responding to an active shooter with several victims,https://t.co/0VugKygqU3,,
 32.876795,-83.483814,"Numerous people shot, including young children, at a Georgia park",https://t.co/4MiMqTphv3,,
-38.492,-121.824,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,1.0,1.0
--18.807,47.77,The  Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,3.0,3.0
-47.786,-100.559,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,1.0,1.0
+Lat,Lon,Description,Link,,
+40.385585,-88.99722,Chicago Police responding to reports of several people shot outside nightclub,https://t.co/XBxQPaX0Ss,,
+31.21155,-99.087012,Several streets in downtown Austin closed following a mass shooting event,https://t.co/qNXt2bfjLk,,
+31.21155,-99.087012,Austin Police responding to an active shooter with several victims,https://t.co/0VugKygqU3,,
+32.876795,-83.483814,"Numerous people shot, including young children, at a Georgia park",https://t.co/4MiMqTphv3,,
+-3.742,131.4954,"On 6/12/2021 11:20:53 AM, an earthquake occurred in Indonesia potentially affecting About 41000 people within 100km. The earthquake had Magnitude 5M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272802,1.0,1.0
+24.999,97.8958,"On 6/12/2021 10:00:49 AM, an earthquake occurred in China potentially affecting 2490000 people within 100km. The earthquake had Magnitude 4.9M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272797,1.0,1.0
+0.3435,126.4036,"On 6/12/2021 8:56:00 AM, an earthquake occurred in Indonesia potentially affecting About 900 people within 100km. The earthquake had Magnitude 4.6M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272793,1.0,1.0
+10.4739,-62.7567,"On 6/12/2021 6:18:28 AM, an earthquake occurred in Venezuela potentially affecting 1150000 people within 100km. The earthquake had Magnitude 5M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272786,1.0,1.0
+19.0,108.8,"From 12/06/2021 to 12/06/2021, a Tropical Depression (maximum wind speed of 74 km/h) FIVE-21 was active in NWPacific. The cyclone affects these countries: Viet Nam, Laos, China (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.",https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000787,2.0,2.0
+-20.843,-68.8175,"On 6/12/2021 5:46:55 AM, an earthquake occurred in Chile potentially affecting About 11000 people within 100km. The earthquake had Magnitude 4.6M, Depth:121.91km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272783,1.0,1.0
+33.2068329,-115.6481705,"On 6/12/2021 4:39:46 AM, an earthquake occurred in United States potentially affecting 1360000 people within 100km. The earthquake had Magnitude 4.32M, Depth:2.21km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272776,1.0,1.0
+-33.7487,-72.2162,"On 6/12/2021 3:36:25 AM, an earthquake occurred in Chile potentially affecting 750000 people within 100km. The earthquake had Magnitude 5.1M, Depth:14.47km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272766,1.0,1.0
 -43.221,-70.476,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014465,1.0,1.0
-35.549,44.727,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
+38.492,-121.824,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,1.0,1.0
+47.786,-100.559,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,1.0,1.0
 35.45,58.013,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+-18.807,47.77,The  Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,3.0,3.0
+35.549,44.727,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -20.037,-53.154,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-23.8731,121.5784,"On 6/11/2021 7:33:25 AM, an earthquake occurred in China potentially affecting 3130000 people within 100km. The earthquake had Magnitude 5.2M, Depth:7.38km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272628,1.0,1.0
--6.0048,146.2707,"On 6/11/2021 7:00:50 AM, an earthquake occurred in Papua New Guinea potentially affecting 750000 people within 100km. The earthquake had Magnitude 5.1M, Depth:107.72km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272625,1.0,1.0
-23.8475,121.6009,"On 6/11/2021 5:12:48 AM, an earthquake occurred in China potentially affecting 2340000 people within 100km. The earthquake had Magnitude 4.9M, Depth:4.26km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272617,1.0,1.0
-0.0496,124.2913,"On 6/11/2021 2:23:43 AM, an earthquake occurred in Indonesia potentially affecting 440000 people within 100km. The earthquake had Magnitude 5.5M, Depth:63.96km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272604,1.0,1.0
-8.961,-85.423,"On 6/10/2021 11:27:02 PM, an earthquake occurred in Costa Rica potentially affecting About 14000 people within 100km. The earthquake had Magnitude 5.7M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272576,1.0,1.0
--28.093,-70.7887,"On 6/10/2021 4:43:52 PM, an earthquake occurred in Chile potentially affecting 240000 people within 100km. The earthquake had Magnitude 4.6M, Depth:52.32km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272542,1.0,1.0
+22.6384,121.177,"On 6/11/2021 9:58:58 PM, an earthquake occurred in China potentially affecting 4100000 people within 100km. The earthquake had Magnitude 4.9M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272725,1.0,1.0
+6.038,126.1934,"On 6/11/2021 9:37:56 PM, an earthquake occurred in Philippines potentially affecting 600000 people within 100km. The earthquake had Magnitude 4.6M, Depth:105.47km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272723,1.0,1.0
+0.1122,100.1558,"On 6/11/2021 9:37:24 PM, an earthquake occurred in Indonesia potentially affecting 3160000 people within 100km. The earthquake had Magnitude 4.7M, Depth:40.58km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272724,1.0,1.0
+3.9428,95.8878,"On 6/11/2021 7:13:46 PM, an earthquake occurred in Indonesia potentially affecting 570000 people within 100km. The earthquake had Magnitude 4.9M, Depth:49.45km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272713,1.0,1.0
+-29.1107,-66.731,"On 6/11/2021 5:04:41 PM, an earthquake occurred in Argentina potentially affecting 300000 people within 100km. The earthquake had Magnitude 4.6M, Depth:29.96km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1272704,1.0,1.0
