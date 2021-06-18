@@ -1107,9 +1107,18 @@ Lat,Lon,Description,Link,,
 41.242098,-99.318614,Man armed with rifle actively firing shots at officers at Nebraska apartment complex,https://t.co/ws3Zxj8POS,,
 40.385585,-88.99722,Chicago emergency personnel responding to a highrise fire in downtown,https://t.co/pOLwlrEYWq,,
 31.21155,-99.087012,Active shooter holding children hostage in northeast Texas,https://t.co/zI0DxiODTt,,
--4.717,-106.2788,"On 6/17/2021 10:32:22 AM, an earthquake occurred in Central East Pacific Rise potentially affecting No people within 100km. The earthquake had Magnitude 4.9M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273488,1.0,1.0
--4.0332,-105.3767,"On 6/17/2021 10:22:07 AM, an earthquake occurred in Central East Pacific Rise potentially affecting No people within 100km. The earthquake had Magnitude 4.5M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273489,1.0,1.0
--24.0325,-66.8913,"On 6/17/2021 2:44:45 AM, an earthquake occurred in Salta Province, Argentina potentially affecting About 13000 people within 100km. The earthquake had Magnitude 4.5M, Depth:202.29km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273445,1.0,1.0
+Lat,Lon,Description,Link,,
+35.777766,-78.912974,Police responding to a confirmed report of a mass shooting in North Carolina,https://t.co/WL00Gxhrxe,,
+34.446561,-86.636516,Multiple people shot by armed man firing from a vehicle in Arizona,https://t.co/CMBEu6Ck6x,,
+41.242098,-99.318614,Man armed with rifle actively firing shots at officers at Nebraska apartment complex,https://t.co/ws3Zxj8POS,,
+40.385585,-88.99722,Chicago emergency personnel responding to a highrise fire in downtown,https://t.co/pOLwlrEYWq,,
+31.21155,-99.087012,Active shooter holding children hostage in northeast Texas,https://t.co/zI0DxiODTt,,
+12.4066,47.3437,"On 6/18/2021 11:29:05 AM, an earthquake occurred in Yemen potentially affecting No people within 100km. The earthquake had Magnitude 4.5M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273620,1.0,1.0
+2.7732,95.7251,"On 6/18/2021 10:18:06 AM, an earthquake occurred in Indonesia potentially affecting About 96000 people within 100km. The earthquake had Magnitude 4.6M, Depth:29.57km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273611,1.0,1.0
+53.3022,-160.326,"On 6/18/2021 10:02:41 AM, an earthquake occurred in United States potentially affecting No people within 100km. The earthquake had Magnitude 5.3M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273609,1.0,1.0
+24.3833,123.3455,"On 6/18/2021 9:40:45 AM, an earthquake occurred in Japan potentially affecting About 51000 people within 100km. The earthquake had Magnitude 4.6M, Depth:35km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273607,1.0,1.0
+14.4,-101.6,"From 18/06/2021 to 18/06/2021, a Tropical Depression (maximum wind speed of 102 km/h) FOUR-E-21 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.",https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000791,1.0,1.0
+-3.8687,-103.2296,"On 6/18/2021 8:59:06 AM, an earthquake occurred in Central East Pacific Rise potentially affecting No people within 100km. The earthquake had Magnitude 4.7M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273605,1.0,1.0
 -43.221,-70.476,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014465,1.0,1.0
 38.492,-121.824,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,1.0,1.0
 47.786,-100.559,The  Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,1.0,1.0
@@ -1118,6 +1127,5 @@ Lat,Lon,Description,Link,,
 35.549,44.727,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 37.748,14.999,Volcano Etna is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000000,1.0,1.0
 -20.037,-53.154,The  Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-10.093,126.084,"On 6/16/2021 10:19:15 PM, an earthquake occurred in Philippine Islands Region potentially affecting 810000 people within 100km. The earthquake had Magnitude 4.6M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273417,1.0,1.0
--33.3449,-71.68,"On 6/16/2021 8:13:26 PM, an earthquake occurred in Chile potentially affecting 6210000 people within 100km. The earthquake had Magnitude 4.7M, Depth:27.77km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273405,1.0,1.0
--6.0013,150.8105,"On 6/16/2021 8:09:45 PM, an earthquake occurred in Papua New Guinea potentially affecting 140000 people within 100km. The earthquake had Magnitude 5M, Depth:62.59km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273407,1.0,1.0
+-0.3416,124.093,"On 6/17/2021 9:31:17 PM, an earthquake occurred in Indonesia potentially affecting About 73000 people within 100km. The earthquake had Magnitude 4.6M, Depth:79.66km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273561,1.0,1.0
+-0.6631,33.4148,"On 6/17/2021 5:49:07 PM, an earthquake occurred in Uganda potentially affecting 640000 people within 100km. The earthquake had Magnitude 4.6M, Depth:10km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1273542,1.0,1.0
