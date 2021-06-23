@@ -25,12 +25,12 @@ Lat,Lon,Description,Link,Scale,Size
 39.404062,35.3859,Military Conflict Turkey-Kurdish Groups,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict_(1978%E2%80%93present),2.0,2.0
 40.287336,45.93949,Military Conflict Armenia-Azerbaijan,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,3.0,1.0
 45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1.0,3.0
-40.711634,-73.936331,"Massive police presence at Galleria Mall in Middleton, NY",https://t.co/BgsUnTuIna,,
-39.026163,105.781686,"Police responding to active shooter situation in Arvada, Colorado",https://t.co/q9UkPn7Lft,,
-32.816427,-86.636516,"Flood Emergency underway in Tuscaloosa, Alabama",https://t.co/rMvMibQ2xf,,
-36.270146,-119.650223,Report of several people shot at Juneteenth Parade in California,https://t.co/TSKNv7Zid2,,
-38.903271,-116.426747,Smoke seen billowing from the famous Las Vegas Strip,https://t.co/gT8S2PlFWU,,
-39.356961,-76.9165257,Child abducted at Baltimore Mall by gunpoint,https://t.co/nXarxudxU0,,
+40.711634,-73.936331,"Massive police presence at Galleria Mall in Middleton, NY",https://t.co/BgsUnTuIna,2.0,2.0
+39.026163,105.781686,"Police responding to active shooter situation in Arvada, Colorado",https://t.co/q9UkPn7Lft,2.0,2.0
+32.816427,-86.636516,"Flood Emergency underway in Tuscaloosa, Alabama",https://t.co/rMvMibQ2xf,2.0,2.0
+36.270146,-119.650223,Report of several people shot at Juneteenth Parade in California,https://t.co/TSKNv7Zid2,2.0,2.0
+38.903271,-116.426747,Smoke seen billowing from the famous Las Vegas Strip,https://t.co/gT8S2PlFWU,2.0,2.0
+39.356961,-76.9165257,Child abducted at Baltimore Mall by gunpoint,https://t.co/nXarxudxU0,2.0,2.0
 10.4522,-86.1914,"On 6/22/2021 10:41:57 AM, an earthquake occurred in Costa Rica potentially affecting 260000 people within 100km. The earthquake had Magnitude 4.5M, Depth:34.29km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1274167,1.0,1.0
 13.2935,-90.1547,"On 6/22/2021 6:26:45 AM, an earthquake occurred in El Salvador potentially affecting 1630000 people within 100km. The earthquake had Magnitude 4.8M, Depth:57.12km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1274150,1.0,1.0
 13.9,142.5,"From 21/06/2021 to 22/06/2021, a Tropical Storm (maximum wind speed of 120 km/h) SIX-21 was active in NWPacific. The cyclone affects these countries: Guam (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.",https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000792,1.0,1.0
