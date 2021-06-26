@@ -27,8 +27,6 @@ Lat,Lon,Description,Link,Scale,Size
 45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1.0,3.0
 39.356961,-76.9165257,"Multiple people shot at Woodmore Town Centre Mall in Glenarden, Maryland",https://t.co/TnD13HF83u,2.0,2.0
 31.21155,-99.087012,"Hostage situation unfolding at Agave Mexican Restaurant in Corpus Christi, Texas",https://t.co/OxRvf69lRf,2.0,2.0
-27.451115,-81.255174,"Mass Casualty Incident declared following highrise collapse in Miami, Florida",https://t.co/xnunN70zn6,2.0,2.0
-40.711634,-73.936331,"Police respond to Mass Shooting at JFK Recreational Center in Buffalo, NY",https://t.co/XRae7z8QQn,2.0,2.0
 15.0,-101.7,"From 25/06/2021 to 25/06/2021, a Tropical Storm (maximum wind speed of 139 km/h) ENRIQUE-21 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.",https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000793,1.0,1.0
 22.1,139.2,"From 21/06/2021 to 25/06/2021, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 167 km/h) CHAMPI-21 was active in NWPacific. The cyclone affects these countries: Guam (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.",https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000792,1.0,1.0
 -24.1439,-67.0518,"On 6/25/2021 3:16:10 AM, an earthquake occurred in Argentina potentially affecting About 10000 people within 100km. The earthquake had Magnitude 4.6M, Depth:226.51km.",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1274555,1.0,1.0
