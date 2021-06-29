@@ -7,21 +7,21 @@ Open Source Intelligence Dashboard for watching current event's unfold. Leveragi
 ## Getting Started
 
 ### Running the app locally
-We suggest you to create a separate virtual environment running Python 3 for this app, and install all of the required dependencies there. Run in Terminal/Command Prompt:
+I suggest creating a separate virtual environment running Python 3 for this app, and install all of the required dependencies there. Run in Terminal/Command Prompt:
 ```
 git clone https://github.com/antonio-hickey/gDash/
 cd gDash
-python3 -m virtualenv venv
+python3 -m venv env
 ```
 In UNIX system: 
 
 ```
-source venv/bin/activate
+source env/bin/activate
 ```
 In Windows: 
 
 ```
-venv\Scripts\activate
+env\Scripts\activate
 ```
 
 To install all of the required packages to this environment, simply run:
