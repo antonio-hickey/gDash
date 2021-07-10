@@ -28,19 +28,19 @@ Lat,Lon,Description,Link,Scale,Size
 31.21155,-99.087012,"Explosion reported at Electrical Substation in Houston, Texas",https://t.co/fFPcSsmKdX,2.0,2.0
 42.27003,-71.699885,"Police responding to active shooter situation in Middleborough, Massachusetts",https://t.co/Vf1M4wsoKn,2.0,2.0
 31.21155,-99.087012,"Multiple people shot at Downtown Aquarium in Houston, Texas",https://t.co/dD5fEw618M,2.0,2.0
--6.3366,150.1035,earthquake occurred in Papua New Guinea (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276492,3.0,3.0
--15.9937,-173.1384,earthquake occurred in Samoa (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276481,3.0,3.0
-39.4,-74.3,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000795,3.0,3.0
-8.6424,123.2506,"earthquake occurred in Mindanao, Philippines (4.6M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276466,3.0,3.0
--29.0171,-69.8141,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276454,3.0,3.0
--57.8767,-26.3779,earthquake occurred in South Georgia and the South Sandwich Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276450,3.0,3.0
-38.5638351,-119.4814987,earthquake occurred in United States (4.34M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276446,3.0,3.0
--20.3145,-68.7305,earthquake occurred in Chile (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276445,3.0,3.0
--7.2604,126.1619,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276428,3.0,3.0
-38.5136681,-119.526001,earthquake occurred in United States (4.55M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276426,3.0,3.0
--56.2254,-143.217,earthquake occurred in Pacific-Antarctic Ridge (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276425,3.0,3.0
-45.3772,150.2185,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276424,3.0,3.0
-25.1204,95.2427,earthquake occurred in Myanmar (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276402,3.0,3.0
+12.5979,-59.3719,earthquake occurred in Barbados (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276653,3.0,3.0
+2.8926,126.646,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276648,3.0,3.0
+39.0291,70.6068,earthquake occurred in Tajikistan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276633,3.0,3.0
+-5.1655,128.592,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276620,3.0,3.0
+2.8018,126.5902,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276616,3.0,3.0
+49.4467,155.0765,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276615,3.0,3.0
+1.854,96.9944,earthquake occurred in Indonesia (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276606,3.0,3.0
+3.0234,126.8,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276605,3.0,3.0
+38.9587,70.5722,earthquake occurred in Tajikistan (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276602,3.0,3.0
+2.891,126.5454,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276591,3.0,3.0
+2.957,126.5967,earthquake occurred in Indonesia (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276574,3.0,3.0
+2.9401,126.4954,earthquake occurred in Indonesia (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276572,3.0,3.0
+-22.9382,-66.2062,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276568,3.0,3.0
 24.613,95.202,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 8.976,3.946,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
 23.68,120.941,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014875,3.0,3.0
@@ -54,11 +54,11 @@ Lat,Lon,Description,Link,Scale,Size
 -19.893,47.028,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 34.887,46.574,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -19.968,-53.217,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-38.537,-119.524,earthquake occurred in United States (4.24M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276394,3.0,3.0
--5.0454,150.3843,earthquake occurred in Papua New Guinea (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276396,3.0,3.0
-38.4801667,-119.544,earthquake occurred in United States (4.63M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276389,3.0,3.0
-38.5075,-119.4998333,earthquake occurred in United States (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276375,3.0,3.0
-59.1641,-136.2587,earthquake occurred in United States (4.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276358,3.0,3.0
--28.695,-71.7197,earthquake occurred in Chile (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276357,3.0,3.0
-13.0749,-90.0906,earthquake occurred in El Salvador (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276356,3.0,3.0
--34.7412,-71.8923,earthquake occurred in Near Coast Of Central Chile (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276349,3.0,3.0
+-25.6902,-71.2015,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276562,3.0,3.0
+17.0369,-96.0421,earthquake occurred in Mexico (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276559,3.0,3.0
+43.0,-69.5,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000795,3.0,3.0
+37.237,143.8847,earthquake occurred in Japan (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276552,3.0,3.0
+-25.7346,-176.9297,earthquake occurred in South Of Fiji Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276549,3.0,3.0
+51.8482,-175.3077,earthquake occurred in United States (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276547,3.0,3.0
+-12.7475,-73.9044,earthquake occurred in Peru (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276530,3.0,3.0
+36.8492,45.1396,earthquake occurred in Islamic Republic of Iran (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276527,3.0,3.0
