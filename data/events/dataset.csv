@@ -29,9 +29,14 @@ Lat,Lon,Description,Link,Scale,Size
 38.885778,-77.013282,DC Police responding to an armed man in crisis at Judiciary Square Metro Station,https://t.co/SQAdJ6aNj4,2.0,2.0
 31.21155,-99.087012,"Major delays due to SWAT incident unfolding along Austin, Texas highway",https://t.co/nctIs1uvPz,2.0,2.0
 40.708446,-77.797431,"Police responding to a confirmed mass shooting in Philadelphia, Pennsylvania",https://t.co/6NvOAJ7fWd,2.0,2.0
--6.1844,106.1963,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276939,3.0,3.0
--5.1627,68.442,earthquake occurred in British Indian Ocean Territory (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276937,3.0,3.0
-3.2537,127.9101,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276888,3.0,3.0
+-23.3109,172.2593,earthquake occurred in Vanuatu (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277084,3.0,3.0
+29.8664,50.8405,earthquake occurred in Islamic Republic of Iran (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277081,3.0,3.0
+-6.2691,104.4058,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277068,3.0,3.0
+14.1573,-92.0616,earthquake occurred in Guatemala (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277067,3.0,3.0
+52.4265,160.4835,earthquake occurred in Russian Federation (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277045,3.0,3.0
+46.1902,151.5869,earthquake occurred in Russian Federation (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277022,3.0,3.0
+66.38047058409158,163.20524750697552,forest fire started in Russian Federation,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1000647,3.0,3.0
+61.99459601068957,165.15217458051413,forest fire started in Russian Federation,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1000587,3.0,3.0
 24.613,95.202,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 8.976,3.946,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
 23.68,120.941,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014875,3.0,3.0
@@ -41,11 +46,11 @@ Lat,Lon,Description,Link,Scale,Size
 -1.061,40.364,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,3.0,3.0
 47.672,-100.079,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
 38.046,59.947,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+14.002,120.993,Volcano Taal is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000012,2.0,2.0
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -19.893,47.028,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 34.887,46.574,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -19.968,-53.217,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-46.5661,151.6643,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276877,3.0,3.0
-51.7697,-175.9523,earthquake occurred in United States (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276849,3.0,3.0
-2.9529,126.5962,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276844,3.0,3.0
--15.6468,-71.5711,earthquake occurred in Peru (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1276838,3.0,3.0
+11.6299,-86.449,earthquake occurred in Nicaragua (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277018,3.0,3.0
+52.6599,160.4359,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277017,3.0,3.0
+48.3825,154.5396,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277013,3.0,3.0
