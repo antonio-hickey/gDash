@@ -26,14 +26,12 @@ Lat,Lon,Description,Link,Scale,Size
 40.287336,45.93949,Military Conflict Armenia-Azerbaijan,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,3.0,1.0
 45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1.0,3.0
 31.21155,-99.087012,"5th police officer shot during ongoing standoff in Levelland, Texas",https://t.co/EIwfUYSpFK,2.0,2.0
--17.772,-173.0408,earthquake occurred in Tonga (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277431,3.0,3.0
--5.5686,146.0222,earthquake occurred in Papua New Guinea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277430,3.0,3.0
-15.1,-121.0,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000798,3.0,3.0
--8.2167,120.0428,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277422,3.0,3.0
-6.1662,-82.4999,earthquake occurred in Panama (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277427,3.0,3.0
--4.6406,153.2501,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277423,3.0,3.0
-17.5,134.6,Tropical Storm( 167 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000799,3.0,3.0
-33.3082,139.4983,earthquake occurred in Japan (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277400,3.0,3.0
+-22.1261,169.8389,earthquake occurred in New Caledonia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277560,3.0,3.0
+14.5,-123.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000798,3.0,3.0
+21.3,133.0,Tropical Storm( 157 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000799,3.0,3.0
+-20.6238,-178.3804,earthquake occurred in Tonga (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277527,3.0,3.0
+-21.7288,-68.5571,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277516,3.0,3.0
+-56.1042,-27.8533,earthquake occurred in South Sandwich Islands Region (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277502,3.0,3.0
 25.176,94.778,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 8.786,4.608,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
 24.53,121.397,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014875,3.0,3.0
@@ -47,5 +45,6 @@ Lat,Lon,Description,Link,Scale,Size
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 35.412,46.212,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -18.885,-54.255,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-23.9509,121.6932,earthquake occurred in China (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277372,3.0,3.0
-23.901,121.6771,earthquake occurred in China (4.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277369,3.0,3.0
+14.1622,128.2172,earthquake occurred in Philippines (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277496,3.0,3.0
+-3.6034,-77.229,earthquake occurred in Peru (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277486,3.0,3.0
+-29.3301,-176.2026,earthquake occurred in Kermadec Islands Region (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277464,3.0,3.0
