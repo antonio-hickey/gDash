@@ -27,11 +27,11 @@ Lat,Lon,Description,Link,Scale,Size
 45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1.0,3.0
 31.21155,-99.087012,"Manhunt underway after family found dead at home in Cherokee County, Texas",https://t.co/Fix86kYuCs,2.0,2.0
 31.21155,-99.087012,"Several injuries reported following large neighborhood explosion in Plano, Texas",https://t.co/emmHIXRjON,2.0,2.0
-19.0,-123.4,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000800,3.0,3.0
-15.9,-136.3,Tropical Storm( 231 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000798,3.0,3.0
-21.4,112.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000801,2.0,2.0
-24.7,129.7,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000799,2.0,2.0
--5.4782,153.8915,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277937,3.0,3.0
+22.1,110.9,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000801,2.0,2.0
+24.2,127.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000799,2.0,2.0
+-7.4255,128.3409,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278052,3.0,3.0
+14.9,-140.9,Tropical Storm( 231 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000798,3.0,3.0
+-35.4796,-15.7759,earthquake occurred in Tristan Da Cunha Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278044,3.0,3.0
 -5.605,-49.864,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
 25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 9.22,5.151,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
@@ -43,12 +43,8 @@ Lat,Lon,Description,Link,Scale,Size
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 35.725,46.27,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
-37.748,14.999,Volcano Etna is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000000,3.0,3.0
 -18.843,-54.149,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-26.5548,129.9109,earthquake occurred in Japan (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277897,3.0,3.0
--5.0304,152.1383,earthquake occurred in Papua New Guinea (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277896,3.0,3.0
-56.0017,113.5694,"earthquake occurred in East Of Lake Baykal, Russia (4.6M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277887,3.0,3.0
--3.3183,146.5397,earthquake occurred in Papua New Guinea (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277880,3.0,3.0
--3.2125,146.6993,earthquake occurred in Bismarck Sea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277876,3.0,3.0
-7.1083,-82.6779,earthquake occurred in Panama (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277859,3.0,3.0
--3.259,146.9916,earthquake occurred in Papua New Guinea (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277851,3.0,3.0
+29.3151,70.0216,earthquake occurred in Pakistan (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278026,3.0,3.0
+18.7,-126.5,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000800,3.0,3.0
+5.6032,126.7768,earthquake occurred in Philippines (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278009,3.0,3.0
+-33.0289,-178.9693,earthquake occurred in South Of Kermadec Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1277991,3.0,3.0
