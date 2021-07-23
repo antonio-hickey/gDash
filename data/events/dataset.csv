@@ -1,53 +1,52 @@
 Lat,Lon,Description,Link,Scale,Size
-23.635006,-102.28643,Mexico Drug War,https://www.vice.com/en/article/wx8m5q/mexican-drug-cartels-have-turned-once-thriving-guadalajara-into-a-war-zone,2.0,2.0
-7.578066,-66.168934,Instability Growing in Venezuela,https://www.bbc.com/news/world-latin-america-48121148,2.0,2.0
-17.01471,-1.96469,Destabilization of Mali,https://t.co/QRWrVdacWw?amp=1,3.0,1.0
-27.632434,17.33539,Libyan Civil War,https://twitter.com/i/status/1380237803007709186,2.0,2.0
-9.033303,8.222744,Terrorism in Nigeria,https://www.bbc.com/news/topics/c50znx8v132t/nigeria,2.0,2.0
-6.748176,21.274502,Instability Growing in Central African Republic,https://www.hrw.org/africa/central-african-republic,2.0,2.0
--1.221481,23.283774,Military Op’s against Militia in Democratic Republic of Congo,https://nation.africa/kenya/news/africa/33-killed-in-dr-congo-crackdown-on-rebels-3333640,3.0,3.0
-7.038232,30.323407,South Sudanese Civil War,https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,2.0,2.0
-3.303393,45.16022,Terrorism in Somalia,https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group),3.0,3.0
-29.55112,30.72389,Instability Growing in Egypt,https://carnegieendowment.org/sada/81615,2.0,2.0
-39.476588,126.29969,Crisis in North Korea,https://www.newser.com/story/304752/kim-jong-un-calls-for-an-arduous-march.html,1.0,3.0
-26.929515,123.09427,Military Tensions in the East China Sea,https://www.scmp.com/news/china/diplomacy/article/3127813/china-issues-strong-warning-japan-over-negative-moves-east,1.0,3.0
-15.697398,114.250254,Military Tensions in the South China Sea,https://www.9news.com.au/world/south-china-sea-us-and-china-sail-aircraft-carriers-into-disputed-waters/746a8e74-b160-4efd-a44a-7c5af5a715a3,1.0,3.0
-21.789702,96.02095,Military Coup in Myanmar,https://www.bbc.com/news/world-asia-55902070,1.0,3.0
-34.946308,77.37496,Border Dispute India-China,https://en.wikipedia.org/wiki/2020%E2%80%932021_China%E2%80%93India_skirmishes,2.0,2.0
-31.56923,74.673095,Military Conflict India vs Pakistan,https://www.dawn.com/news/1617288,2.0,2.0
-30.22618,71.196591,Terrorism in Pakistan,https://www.brookings.edu/blog/order-from-chaos/2021/01/15/terrorism-in-pakistan-has-declined-but-the-underlying-roots-of-extremism-remain/,2.0,2.0
-34.447325,65.884531,War in Afghanistan,https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%93present),1.0,3.0
-26.225341,55.554225,Military Tensions in Persian Gulf,https://en.wikipedia.org/wiki/2019%E2%80%932021_Persian_Gulf_crisis,1.0,3.0
-33.125684,44.341708,Instability Growing in Iraq,https://en.wikipedia.org/wiki/Iraqi_conflict_(2003%E2%80%93present),2.0,2.0
-35.239303,38.546542,Syrian Civil War,https://en.wikipedia.org/wiki/Syrian_civil_war,2.0,2.0
-33.913216,35.778599,Destabilization starting in Lebanon,https://microsites-live-backend.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,2.0,2.0
-32.018639,35.097442,Military Conflict Israel-Palestine,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,2.0,2.0
-39.404062,35.3859,Military Conflict Turkey-Kurdish Groups,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict_(1978%E2%80%93present),2.0,2.0
-40.287336,45.93949,Military Conflict Armenia-Azerbaijan,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,3.0,1.0
-45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1.0,3.0
-31.21155,-99.087012,"Evacuations underway due to ‘chemical incident’ in La Porte, Texas",https://t.co/seziWvfc3J,2.0,2.0
-22.6,108.3,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000801,3.0,3.0
-23.5,125.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000799,2.0,2.0
-7.1888,-83.0177,earthquake occurred in Panama (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278194,3.0,3.0
--14.9034,166.9396,earthquake occurred in Vanuatu (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278191,3.0,3.0
-30.0468,70.4377,earthquake occurred in Pakistan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278189,3.0,3.0
-11.4815,-86.9149,earthquake occurred in Nicaragua (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278176,3.0,3.0
--5.605,-49.864,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
-25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
-9.22,5.151,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
--2.0,28.25,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014756,3.0,3.0
-38.984,-121.986,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
--0.471,41.007,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
-46.212,-100.788,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
-48.982,61.363,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
--13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
--18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
-35.725,46.27,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
--18.843,-54.149,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--3.1763,146.7156,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278147,3.0,3.0
-7.4178,-82.746,earthquake occurred in Panama (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278143,3.0,3.0
-7.7518,-82.8241,earthquake occurred in Panama (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278136,3.0,3.0
-7.4162,-82.7894,earthquake occurred in Panama (6.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278135,3.0,3.0
--2.9269,119.381,earthquake occurred in Indonesia (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278110,3.0,3.0
--21.7051,-68.6885,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278103,3.0,3.0
--5.2247,-78.9922,earthquake occurred in Peru (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278099,3.0,3.0
+23.635006,-102.28643,Mexico Drug War,https://www.vice.com/en/article/wx8m5q/mexican-drug-cartels-have-turned-once-thriving-guadalajara-into-a-war-zone,2,2
+7.578066,-66.168934,Instability Growing in Venezuela,https://www.bbc.com/news/world-latin-america-48121148,2,2
+17.01471,-1.96469,Destabilization of Mali,https://t.co/QRWrVdacWw?amp=1,3,1
+27.632434,17.33539,Libyan Civil War,https://twitter.com/i/status/1380237803007709186,2,2
+9.033303,8.222744,Terrorism in Nigeria,https://www.bbc.com/news/topics/c50znx8v132t/nigeria,2,2
+6.748176,21.274502,Instability Growing in Central African Republic,https://www.hrw.org/africa/central-african-republic,2,2
+-1.221481,23.283774,Military Op’s against Militia in Democratic Republic of Congo,https://nation.africa/kenya/news/africa/33-killed-in-dr-congo-crackdown-on-rebels-3333640,3,3
+7.038232,30.323407,South Sudanese Civil War,https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,2,2
+3.303393,45.16022,Terrorism in Somalia,https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group),3,3
+29.55112,30.72389,Instability Growing in Egypt,https://carnegieendowment.org/sada/81615,2,2
+39.476588,126.29969,Crisis in North Korea,https://www.newser.com/story/304752/kim-jong-un-calls-for-an-arduous-march.html,1,3
+26.929515,123.09427,Military Tensions in the East China Sea,https://www.scmp.com/news/china/diplomacy/article/3127813/china-issues-strong-warning-japan-over-negative-moves-east,1,3
+15.697398,114.250254,Military Tensions in the South China Sea,https://www.9news.com.au/world/south-china-sea-us-and-china-sail-aircraft-carriers-into-disputed-waters/746a8e74-b160-4efd-a44a-7c5af5a715a3,1,3
+21.789702,96.02095,Military Coup in Myanmar,https://www.bbc.com/news/world-asia-55902070,1,3
+34.946308,77.37496,Border Dispute India-China,https://en.wikipedia.org/wiki/2020%E2%80%932021_China%E2%80%93India_skirmishes,2,2
+31.56923,74.673095,Military Conflict India vs Pakistan,https://www.dawn.com/news/1617288,2,2
+30.22618,71.196591,Terrorism in Pakistan,https://www.brookings.edu/blog/order-from-chaos/2021/01/15/terrorism-in-pakistan-has-declined-but-the-underlying-roots-of-extremism-remain/,2,2
+34.447325,65.884531,War in Afghanistan,https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%93present),1,3
+26.225341,55.554225,Military Tensions in Persian Gulf,https://en.wikipedia.org/wiki/2019%E2%80%932021_Persian_Gulf_crisis,1,3
+33.125684,44.341708,Instability Growing in Iraq,https://en.wikipedia.org/wiki/Iraqi_conflict_(2003%E2%80%93present),2,2
+35.239303,38.546542,Syrian Civil War,https://en.wikipedia.org/wiki/Syrian_civil_war,2,2
+33.913216,35.778599,Destabilization starting in Lebanon,https://microsites-live-backend.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,2,2
+32.018639,35.097442,Military Conflict Israel-Palestine,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,2,2
+39.404062,35.3859,Military Conflict Turkey-Kurdish Groups,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict_(1978%E2%80%93present),2,2
+40.287336,45.93949,Military Conflict Armenia-Azerbaijan,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,3,1
+45.408867,34.560095,Military Conflict Ukraine-Russia,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,1,3
+22.6,108.3,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000801,3,3
+23.5,125.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000799,2,2
+7.1888,-83.0177,earthquake occurred in Panama (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278194,3,3
+-14.9034,166.9396,earthquake occurred in Vanuatu (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278191,3,3
+30.0468,70.4377,earthquake occurred in Pakistan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278189,3,3
+11.4815,-86.9149,earthquake occurred in Nicaragua (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278176,3,3
+-5.605,-49.864,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
+25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
+9.22,5.151,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
+-2.0,28.25,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014756,3,3
+38.984,-121.986,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
+-0.471,41.007,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
+46.212,-100.788,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
+48.982,61.363,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
+-13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
+-18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
+35.725,46.27,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-18.843,-54.149,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
+-3.1763,146.7156,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278147,3,3
+7.4178,-82.746,earthquake occurred in Panama (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278143,3,3
+7.7518,-82.8241,earthquake occurred in Panama (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278136,3,3
+7.4162,-82.7894,earthquake occurred in Panama (6.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278135,3,3
+-2.9269,119.381,earthquake occurred in Indonesia (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278110,3,3
+-21.7051,-68.6885,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278103,3,3
+-5.2247,-78.9922,earthquake occurred in Peru (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278099,3,3
