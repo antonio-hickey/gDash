@@ -28,27 +28,23 @@ Lat,Lon,Description,Link,Scale,Size
 36.270146,-119.650223,"Emerging reports of an evacuation underway in southeast Los Angeles, California",https://t.co/HWkyfd3oZc,2.0,2.0
 34.446561,-86.636516,Flood Emergency underway in parts of Southern Arizona,https://t.co/AMJnB90CKF,2.0,2.0
 42.86629,-84.514843,"Dangerous tornado moving towards the town of Port Austin, Michigan",https://t.co/itVU9MuqSw,2.0,2.0
--56.7177,-25.5656,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278797,3.0,3.0
-25.452,142.8921,"Volcano Islands, Japan Region potentially af",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278802,3.0,3.0
-85.0551,115.8009,"earthquake occurred in Volcano Islands, Japan Region (4.7M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278793,3.0,3.0
-35.8,142.3,earthquake occurred in Russian Federation (4.8M),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000802,3.0,3.0
--23.5606,179.2847,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278792,3.0,3.0
--5.605,-49.864,earthquake occurred in South Of Fiji Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
+-41.9931,-15.9114,earthquake occurred in Tristan Da Cunha Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278932,3.0,3.0
+40.2,140.3,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000802,3.0,3.0
+42.7093,46.7172,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278886,3.0,3.0
+-5.605,-49.864,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
 25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 9.22,5.151,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
 -2.0,28.25,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014756,3.0,3.0
 38.984,-121.986,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
--0.471,41.007,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
-46.212,-100.788,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
-48.982,61.363,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+-0.471,41.007,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
+46.212,-100.788,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
+48.982,61.363,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
--18.506,48.505,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
-35.725,46.27,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
+-18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
+35.725,46.27,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -18.843,-54.149,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--33.4348,-71.846,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278749,3.0,3.0
--22.6392,179.3673,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278742,3.0,3.0
-11.7597,-87.5533,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278735,3.0,3.0
--0.6973,121.9272,earthquake occurred in Nicaragua (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278726,3.0,3.0
-53.1229,158.6011,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278721,3.0,3.0
-44.4674,148.1933,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278712,3.0,3.0
--21.8169,-178.9902,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278715,3.0,3.0
+64.501,-17.8498,earthquake occurred in Iceland (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278875,3.0,3.0
+-14.4175,-171.9732,earthquake occurred in Samoa (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278866,3.0,3.0
+-13.6524,-76.3614,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278851,3.0,3.0
+-29.6974,-176.9346,earthquake occurred in Kermadec Islands Region (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278852,3.0,3.0
+-8.9325,111.4171,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1278849,3.0,3.0
