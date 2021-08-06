@@ -31,17 +31,20 @@ Lat,Lon,Description,Link,Scale,Size
 35.843349,-86.584571,"Workplace shooting reported at Smile Direct Club in Antioch, Tennessee",https://t.co/DqSbNbkhzo,2.0,2.0
 40.011891,-74.505838,"Massive explosion reported near Atlantic City, New Jersey",https://t.co/6KYojWA32w,2.0,2.0
 30.632183,-92.039792,"Multiple people shot on historic Bourbon Street in New Orleans, Louisiana",https://t.co/6PH0BwT0Bg,2.0,2.0
--23.0878,-179.3909,earthquake occurred in Tonga (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280263,3.0,3.0
-15.5,-136.6,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000804,3.0,3.0
-20.1,-129.2,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000803,3.0,3.0
-37.6,21.44,earthquake occurred in Greece (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280255,3.0,3.0
-26.8,127.8,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000808,3.0,3.0
-29.3,137.9,Tropical Storm( 56 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000806,3.0,3.0
--7.5986,122.7999,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280237,3.0,3.0
-50.17,12.52,earthquake occurred in Czech Republic (2.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280243,3.0,3.0
+19.3047,119.8302,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280408,3.0,3.0
+23.1041,121.3535,earthquake occurred in China (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280404,3.0,3.0
+-6.2751,104.7024,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280405,3.0,3.0
+17.2,-138.2,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000804,3.0,3.0
+22.6,-133.3,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000803,3.0,3.0
+8.7804,93.9797,earthquake occurred in India (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280383,3.0,3.0
+24.7316,122.2536,earthquake occurred in China (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280380,3.0,3.0
+-57.4812,-147.9426,earthquake occurred in Pacific-Antarctic Ridge (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280375,3.0,3.0
+36.2,151.3,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000809,3.0,3.0
+27.3,133.3,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000808,3.0,3.0
+24.7,118.9,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000807,3.0,3.0
+6.0221,127.5739,earthquake occurred in Philippines (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280359,3.0,3.0
 45.641,17.566,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
-31.6,147.4,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000809,3.0,3.0
-23.1,116.9,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000807,3.0,3.0
+31.1,135.0,Tropical Storm( 56 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000806,3.0,3.0
 -5.499,-49.719,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
 25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 9.289,5.216,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
@@ -54,8 +57,6 @@ Lat,Lon,Description,Link,Scale,Size
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 35.717,46.161,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -18.872,-54.189,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-24.7369,122.2745,earthquake occurred in China (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280181,3.0,3.0
-24.7938,122.2791,earthquake occurred in China (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280180,3.0,3.0
-4.8687,127.5007,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280167,3.0,3.0
-8.8472,94.085,earthquake occurred in India (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280159,3.0,3.0
-5.0517,125.2578,earthquake occurred in Philippines (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280155,3.0,3.0
+36.2572,141.6327,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280320,3.0,3.0
+-3.51,145.36,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280317,3.0,3.0
+55.1165,-157.0836,earthquake occurred in United States (4.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280308,3.0,3.0
