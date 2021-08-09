@@ -30,13 +30,20 @@ Lat,Lon,Description,Link,Scale,Size
 40.385585,-88.99722,"Multiple police officers down following shooting in Chicago, Illinois",https://t.co/wRkHd2LFJv,2.0,2.0
 27.451115,-81.255174,Miami Dade College currently on lockdown due to active police incident,https://t.co/iBbegYyqEF,2.0,2.0
 42.86629,-84.514843,"Hostage situation unfolding at Mobil Gas Station in Woodland, Michigan",https://t.co/xDn8thtSAk,2.0,2.0
-15.8,-108.7,Tropical Storm( 130 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000810,3.0,3.0
-35.2,142.1,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000808,3.0,3.0
-30.4,128.4,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000807,3.0,3.0
--31.11,-67.58,earthquake occurred in Argentina (4.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280659,3.0,3.0
--56.0535,-27.6298,earthquake occurred in South Georgia and the South Sandwich Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280647,3.0,3.0
-3.0974,96.082,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280640,3.0,3.0
-2.2487,-101.4034,earthquake occurred in Galapagos Triple Jungtion Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280623,3.0,3.0
+40.0312,76.0512,earthquake occurred in China (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280788,3.0,3.0
+-38.08,-73.99,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280787,3.0,3.0
+53.3078,170.1143,earthquake occurred in United States (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280784,3.0,3.0
+17.3018,-99.8797,earthquake occurred in Mexico (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280783,3.0,3.0
+16.3,-110.9,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000810,3.0,3.0
+38.2,150.0,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000808,3.0,3.0
+36.4,135.1,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000807,3.0,3.0
+-56.355,-4.3556,earthquake occurred in Southern Mid-Atlantic Ridge (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280779,3.0,3.0
+-59.55,-25.78,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280781,3.0,3.0
+-17.296,-174.2072,earthquake occurred in Tonga (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280770,3.0,3.0
+-21.5841,-176.555,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280768,3.0,3.0
+-56.6273,-6.1341,earthquake occurred in Southern Mid-Atlantic Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280758,3.0,3.0
+18.9698,145.5045,earthquake occurred in Northern Mariana Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280753,3.0,3.0
+-7.54,110.446,Volcano Merapi is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000030,3.0,3.0
 45.641,17.566,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -5.499,-49.719,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
 25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
@@ -49,11 +56,14 @@ Lat,Lon,Description,Link,Scale,Size
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 35.717,46.161,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
+37.748,14.999,Volcano Etna is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000000,3.0,3.0
 -18.872,-54.189,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--16.8904,-173.3297,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280618,3.0,3.0
-39.1057,70.6271,earthquake occurred in Tajikistan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280612,3.0,3.0
--17.2677,167.8068,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280608,3.0,3.0
--21.8466,-68.4127,earthquake occurred in Chile (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280602,3.0,3.0
-85.2313,86.1695,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280600,3.0,3.0
--17.5926,-174.1419,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280603,3.0,3.0
--10.041,161.0914,earthquake occurred in Solomon Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280589,3.0,3.0
+-56.7029,-6.0284,earthquake occurred in Southern Mid-Atlantic Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280738,3.0,3.0
+40.89,83.8082,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280765,3.0,3.0
+-59.8008,159.6208,earthquake occurred in Macquarie Island Region (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280734,3.0,3.0
+44.86,17.27,earthquake occurred in Bosnia and Herzegovina (4.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280728,3.0,3.0
+-36.04,-100.69,earthquake occurred in Southeast Of Easter Island (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280780,3.0,3.0
+-14.838,-76.1829,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280709,3.0,3.0
+-12.0649,166.7579,earthquake occurred in Solomon Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280710,3.0,3.0
+51.6319,175.7874,earthquake occurred in United States (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280702,3.0,3.0
+-19.1454,168.7147,earthquake occurred in Vanuatu (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280706,3.0,3.0
