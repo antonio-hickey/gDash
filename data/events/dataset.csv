@@ -30,11 +30,13 @@ Lat,Lon,Description,Link,Scale,Size
 35.843349,-86.584571,"Active shooter reported at Walmart in Nashville, Tennessee",https://t.co/WQJNUI4Uws,2.0,2.0
 37.55795,-84.475312,"Shots fired at Jefferson Mall in Louisville, Kentucky",https://t.co/fPXCHhUzCS,2.0,2.0
 40.708446,-77.797431,"Multiple people shot at Target in Easton, Pennsylvania",https://t.co/0G4pIq5Djf,2.0,2.0
-13.0,-100.8,Tropical Storm( 148 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000812,3.0,3.0
-18.1,-113.3,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000810,3.0,3.0
-13.4145,-89.4831,earthquake occurred in El Salvador (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280896,3.0,3.0
-22.4138,95.8591,earthquake occurred in Myanmar (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280877,3.0,3.0
--7.2211,129.2885,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280875,3.0,3.0
+18.0,-68.2,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000811,3.0,3.0
+14.2,-104.4,Tropical Storm( 157 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000812,3.0,3.0
+19.8,-116.4,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000810,3.0,3.0
+-5.6486,147.6783,earthquake occurred in Papua New Guinea (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281047,3.0,3.0
+40.5355,63.353,earthquake occurred in Uzbekistan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281045,3.0,3.0
+12.4,176.6,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
+1.3438,99.36,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281033,3.0,3.0
 45.641,17.566,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -5.499,-49.719,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
 25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
@@ -48,7 +50,10 @@ Lat,Lon,Description,Link,Scale,Size
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 35.717,46.161,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -18.872,-54.189,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--56.8299,-6.3154,earthquake occurred in Southern Mid-Atlantic Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280857,3.0,3.0
--14.7215,-76.0995,earthquake occurred in Peru (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280848,3.0,3.0
-38.7,138.0,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000807,3.0,3.0
--8.1194,108.9784,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280821,3.0,3.0
+34.7331,98.0956,earthquake occurred in China (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280988,3.0,3.0
+-23.3707,171.4833,earthquake occurred in Vanuatu (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280981,3.0,3.0
+28.2041,-43.702,earthquake occurred in Northern Mid-Atlantic Ridge (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280971,3.0,3.0
+47.6648,154.3764,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280957,3.0,3.0
+13.3038,49.5696,earthquake occurred in Yemen (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280951,3.0,3.0
+-14.7296,-76.2185,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280952,3.0,3.0
+-14.8212,-76.237,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1280945,3.0,3.0
