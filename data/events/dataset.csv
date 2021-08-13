@@ -29,34 +29,98 @@ Lat,Lon,Description,Link,Scale,Size
 44.238824,-89.492394,Large and dangerous tornado on the ground in central Wisconsin,https://t.co/rovPTvRu6d,2.0,2.0
 40.14073,-82.799507,"Multiple police officers struck by vehicle in Cleveland, Ohio",https://t.co/HzkZq9CKLf,2.0,2.0
 40.385585,-88.99722,Chicago’s O’Hare International Airport control tower evacuated due to possible tornado,https://t.co/mj1Rx8njBk,2.0,2.0
--9.7662,159.6355,earthquake occurred in Solomon Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281243,3.0,3.0
-20.2,-73.5,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000811,3.0,3.0
-14.1,-107.1,Tropical Storm( 157 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000812,3.0,3.0
-22.3,-119.3,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000810,3.0,3.0
--31.6637,-69.2253,earthquake occurred in Argentina (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281221,3.0,3.0
-12.8,172.7,Tropical Storm( 56 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
--19.9231,-71.296,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281203,3.0,3.0
--24.3271,-177.4218,earthquake occurred in Tonga (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281195,3.0,3.0
--18.3851,-177.8996,earthquake occurred in Fiji (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281188,3.0,3.0
-6.1616,127.2883,earthquake occurred in Philippines (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281177,3.0,3.0
--29.73,-176.9646,earthquake occurred in Kermadec Islands Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281184,3.0,3.0
-45.641,17.566,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
--5.499,-49.719,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
-25.166,94.886,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
-9.289,5.216,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
--2.0,28.25,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014756,3.0,3.0
-38.984,-121.986,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
--0.283,41.171,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
-46.321,-100.927,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
-48.928,61.504,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+-57.2854,-25.5576,earthquake occurred in South Georgia and the South Sandwich Islands (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281474,3.0,3.0
+-60.4912,-27.1773,earthquake occurred in South Georgia and the South Sandwich Islands (6.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281464,3.0,3.0
+-57.8127,-23.8529,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281462,3.0,3.0
+29.8516,50.7253,earthquake occurred in Islamic Republic of Iran (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281461,3.0,3.0
+12.1149,-87.7203,earthquake occurred in Nicaragua (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281458,3.0,3.0
+-57.0971,-25.5483,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281465,3.0,3.0
+22.0,-76.7,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000811,3.0,3.0
+16.4,-110.6,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000812,3.0,3.0
+-57.3278,-25.4541,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281456,3.0,3.0
+-59.311,-24.7519,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281451,3.0,3.0
+-58.334,-24.9981,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281452,3.0,3.0
+-58.6806,-25.3181,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281449,3.0,3.0
+-57.6976,-24.0048,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281447,3.0,3.0
+-58.8118,-24.6925,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281442,3.0,3.0
+-58.3236,-25.071,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281439,3.0,3.0
+-58.2593,-23.9139,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281438,3.0,3.0
+-59.5133,-24.382,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281435,3.0,3.0
+12.8,167.0,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
+-57.3223,-25.3761,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281432,3.0,3.0
+-59.4096,-25.143,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281431,3.0,3.0
+-59.8317,-26.5459,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281425,3.0,3.0
+-57.8787,-23.9743,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281419,3.0,3.0
+34.5982,97.4276,earthquake occurred in China (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281415,3.0,3.0
+-57.6944,-23.8428,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281412,3.0,3.0
+-57.2506,-24.9523,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281416,3.0,3.0
+-58.0552,-25.4129,earthquake occurred in South Georgia and the South Sandwich Islands (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281407,3.0,3.0
+-58.8469,-24.5967,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281408,3.0,3.0
+-24.1299,-66.9263,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281399,3.0,3.0
+-60.3469,-25.1571,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281402,3.0,3.0
+-57.7694,-23.8414,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281394,3.0,3.0
+-58.6818,-25.3131,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281397,3.0,3.0
+29.5485,141.0321,"earthquake occurred in Southeast Of Honshu, Japan (4.6M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281391,3.0,3.0
+-58.3554,-24.287,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281389,3.0,3.0
+-57.8601,-25.325,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281388,3.0,3.0
+-58.6193,-25.089,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281387,3.0,3.0
+-59.027,-24.5891,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281384,3.0,3.0
+-59.9261,-25.058,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281380,3.0,3.0
+25.8471,143.7145,"Volcano Islands, Japan Region potentially af",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281386,3.0,3.0
+-58.966,-27.1903,"earthquake occurred in Volcano Islands, Japan Region (4.6M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281383,3.0,3.0
+-59.2501,-25.149,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281377,3.0,3.0
+-40.159,-72.957,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014726,3.0,3.0
+44.428,17.508,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
+-5.5,-49.948,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
+26.263,95.104,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
+9.347,6.461,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
+-2.5,28.0,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014756,3.0,3.0
+39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
+-0.266,41.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
+46.873,-101.314,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
+48.226,61.181,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
--18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
-35.717,46.161,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
--18.872,-54.189,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-63.4953,-24.2401,earthquake occurred in Iceland (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281143,3.0,3.0
-6.1435,126.8924,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281134,3.0,3.0
-6.4547,126.7421,earthquake occurred in Philippines (7.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281117,3.0,3.0
--55.9895,-28.1805,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281119,3.0,3.0
-11.5392,-86.7441,earthquake occurred in Nicaragua (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281115,3.0,3.0
--19.737,-173.6992,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281154,3.0,3.0
-15.8906,147.2585,earthquake occurred in Northern Mariana Islands (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281107,3.0,3.0
+-18.506,48.505,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
+37.602,42.576,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
+-18.383,-54.738,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
+-58.3652,-24.2885,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281374,3.0,3.0
+-58.6797,-25.3186,earthquake occurred in South Georgia and the South Sandwich Islands (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281376,3.0,3.0
+-58.8192,-25.2659,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281369,3.0,3.0
+-58.7915,-25.196,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281372,3.0,3.0
+-50.2888,114.0345,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281375,3.0,3.0
+-59.4957,-26.229,earthquake occurred in Western Indian-Antarctic Ridge (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281366,3.0,3.0
+-59.9126,-26.7391,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281390,3.0,3.0
+-59.8617,-26.0907,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281360,3.0,3.0
+-59.8036,-26.4656,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281356,3.0,3.0
+-58.0913,-25.1546,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281354,3.0,3.0
+-60.5539,-26.4027,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281350,3.0,3.0
+-57.9775,-25.1803,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281358,3.0,3.0
+-58.7509,-25.5219,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281355,3.0,3.0
+37.1734,-3.7469,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281344,3.0,3.0
+-60.1549,-26.4962,earthquake occurred in Spain (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281345,3.0,3.0
+-59.8324,-26.6292,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281340,3.0,3.0
+6.0302,127.0987,earthquake occurred in South Georgia and the South Sandwich Islands (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281338,3.0,3.0
+-59.8816,-26.5036,earthquake occurred in Philippines (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281337,3.0,3.0
+54.3264,86.97,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281333,3.0,3.0
+-59.5381,-26.019,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281335,3.0,3.0
+-59.9341,-26.4784,earthquake occurred in South Georgia and the South Sandwich Islands (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281331,3.0,3.0
+-59.9346,-26.2774,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281330,3.0,3.0
+6.0894,127.1711,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281329,3.0,3.0
+5.9785,127.1119,earthquake occurred in Philippines (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281324,3.0,3.0
+-59.5445,-25.9291,earthquake occurred in Philippines (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281323,3.0,3.0
+-58.5768,-25.0784,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281320,3.0,3.0
+-55.6521,-34.2125,earthquake occurred in South Georgia and the South Sandwich Islands (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281341,3.0,3.0
+-60.4273,-26.9304,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281319,3.0,3.0
+-59.8212,-26.376,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281317,3.0,3.0
+-59.9635,-26.4679,earthquake occurred in South Georgia and the South Sandwich Islands (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281316,3.0,3.0
+-59.1436,-25.0195,earthquake occurred in South Georgia and the South Sandwich Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281332,3.0,3.0
+-14.5473,-73.8058,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281312,3.0,3.0
+-59.8447,-26.481,earthquake occurred in Peru (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281311,3.0,3.0
+-57.0193,-25.2516,earthquake occurred in South Georgia and the South Sandwich Islands (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281305,3.0,3.0
+-57.0812,-25.3489,earthquake occurred in South Georgia and the South Sandwich Islands (5.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281301,3.0,3.0
+-57.5959,-25.1874,earthquake occurred in South Georgia and the South Sandwich Islands (5.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281295,3.0,3.0
+6.1876,127.0478,earthquake occurred in South Georgia and the South Sandwich Islands (7.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281291,3.0,3.0
+6.2859,127.3787,earthquake occurred in Philippines (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281275,3.0,3.0
+6.096,127.0816,earthquake occurred in Philippines (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281274,3.0,3.0
+23.2,-120.6,earthquake occurred in Philippines (5.1M),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000810,3.0,3.0
+6.0497,127.1159,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281270,3.0,3.0
