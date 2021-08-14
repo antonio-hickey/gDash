@@ -27,8 +27,7 @@ APP_PATH = str(pathlib.Path(__file__).parent.resolve())
 ce_df = pd.read_csv('https://raw.githubusercontent.com/antonio-hickey/gDash/main/data/events/dataset.csv')
 c19_df = pd.read_csv('https://raw.githubusercontent.com/antonio-hickey/gDash/main/data/covid/world_c19.csv')
 gdp_df = pd.read_csv('https://raw.githubusercontent.com/antonio-hickey/gDash/main/data/economic/GDP/dataset.csv')
-pop_df_link = "https://raw.githubusercontent.com/antonio-hickey/gDash/main/data/demographics/population_by_country_2020.csv"
-pop_df = pd.read_csv(pop_df_link)
+pop_df = pd.read_csv("https://raw.githubusercontent.com/antonio-hickey/gDash/main/data/demographics/population_by_country_2020.csv")
 
 
 # Mapping
