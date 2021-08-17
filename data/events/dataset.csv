@@ -29,22 +29,24 @@ Lat,Lon,Description,Link,Scale,Size
 36.270146,-119.650223,"Emerging reports of shots fired at Fashion Center Mall near Los Angeles, California",https://t.co/1FmCJHeFwY,2.0,2.0
 35.843349,-86.584571,"Several people shot at Kroger Grocery in Nashville, Tennessee",https://t.co/jQ6kw4zUxu,2.0,2.0
 38.885778,-77.013282,Shots fired at Anacostia-Bolling Military Base in Washington DC,https://t.co/T2Aysyz2TF,2.0,2.0
--58.8269,-23.6582,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282073,3.0,3.0
--58.3645,-23.3384,earthquake occurred in South Georgia and the South Sandwich Islands (6.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282068,3.0,3.0
--59.8892,-26.7758,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282064,3.0,3.0
-32.4,-62.9,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000815,3.0,3.0
-17.4,-70.2,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000814,3.0,3.0
-27.9,-86.0,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000811,3.0,3.0
-18.2,-122.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000812,3.0,3.0
--59.6708,-26.5513,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282060,3.0,3.0
--23.7701,-69.8728,earthquake occurred in Chile (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282053,3.0,3.0
--4.9942,-80.702,earthquake occurred in Peru-Ecuador Border Region (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282054,3.0,3.0
--60.6614,-26.868,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282055,3.0,3.0
-13.6,149.8,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
--56.9067,-25.6749,earthquake occurred in South Georgia and the South Sandwich Islands (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282046,3.0,3.0
-7.5233,-82.7585,earthquake occurred in Panama (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282038,3.0,3.0
-41.2081,43.9815,earthquake occurred in Georgia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282021,3.0,3.0
+30.6,-63.7,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000815,3.0,3.0
+18.2,-75.4,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000814,3.0,3.0
+32.3,-85.0,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000811,3.0,3.0
+17.6,-126.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000812,3.0,3.0
+-58.7145,-24.613,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282203,3.0,3.0
+32.7399,141.8988,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282201,3.0,3.0
+-17.4415,-174.0108,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282200,3.0,3.0
+13.4,143.9,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
+-58.043,-24.0227,earthquake occurred in South Georgia and the South Sandwich Islands (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282185,3.0,3.0
+-24.2715,-67.284,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282183,3.0,3.0
+-44.3804,-81.2509,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282179,3.0,3.0
+38.127820166065455,23.32448362420921,forest fire started in Greece,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1001979,3.0,3.0
+43.298395194618855,6.444082345753105,forest fire started in France,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1001978,3.0,3.0
+37.24633124645256,-7.593407661048176,forest fire started in Portugal,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1001977,3.0,3.0
+60.54849770284446,133.36498020976123,forest fire started in Russian Federation,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1001956,3.0,3.0
+40.50259785543389,-4.858683026609969,forest fire started in Spain,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1001952,3.0,3.0
 -40.159,-72.957,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014726,3.0,3.0
+42.64766973354417,18.830141631408456,forest fire started in Montenegro,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1001926,3.0,3.0
 44.428,17.508,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -5.5,-49.948,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
 26.263,95.104,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
@@ -58,11 +60,9 @@ Lat,Lon,Description,Link,Scale,Size
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -18.383,-54.738,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-56.4856,117.7166,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282003,3.0,3.0
--58.4986,-25.1286,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281999,3.0,3.0
--59.5503,-26.3448,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281994,3.0,3.0
--59.8806,-26.9659,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281979,3.0,3.0
--58.6127,-25.1042,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281974,3.0,3.0
--60.3616,-28.1546,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281967,3.0,3.0
--21.3276,-68.708,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281957,3.0,3.0
--58.5764,-25.541,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1281955,3.0,3.0
+45.4381,16.277,earthquake occurred in Croatia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282153,3.0,3.0
+-59.5636,-26.2299,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282152,3.0,3.0
+-60.2523,-24.9043,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282135,3.0,3.0
+-60.2237,-26.7679,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282123,3.0,3.0
+-16.0415,167.8753,earthquake occurred in Vanuatu (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282117,3.0,3.0
+-57.793,-25.3838,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282110,3.0,3.0
