@@ -5,7 +5,7 @@ Source:
     - Council on Foriegn Relations
 
 Targeted output data:
-    - [Lat, Lon, Description, Link, Scale, Size]
+    - [Lat, Lon, Title, Link, Condition, Impact]
 
 """
 
@@ -46,7 +46,7 @@ for dp in data:
     rows.append([lat, lon, title, link, condition, impact])
 
 filename = "geoConflicts.csv"
-cols = ['Lat', 'Lon', 'Title', 'Link', 'condition', 'impact']
+cols = ['Lat', 'Lon', 'Title', 'Link', 'Condition', 'Impact']
 with open(filename, 'a') as csvfile:
     csvwriter = csv.writer(csvfile)
     csvwriter.writerow(cols)
