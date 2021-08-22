@@ -13,12 +13,12 @@ git clone https://github.com/antonio-hickey/gDash/
 cd gDash
 python3 -m venv env
 ```
-In UNIX system: 
+In UNIX system:
 
 ```
 source env/bin/activate
 ```
-In Windows: 
+In Windows:
 
 ```
 env\Scripts\activate
