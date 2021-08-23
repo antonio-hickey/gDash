@@ -59,11 +59,31 @@ Lat,Lon,Title,Link,Condition,Impact
 45.726258,-94.483332,Explosion reported near Concordia University Field in Minnesota,https://t.co/gN5TVGTh3d,2.0,2.0
 31.21155,-99.087012,Armed man holding several children hostage in southeast Houston,https://t.co/PXkoNfrzBr,2.0,2.0
 31.21155,-99.087012,"Evacuations underway following large chemical fire near Houston, Texas",https://t.co/276Gh3CO5m,2.0,2.0
+20.0,-111.0,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000816,3,3
+-30.3004,-176.4499,earthquake occurred in Kermadec Islands Region (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283007,3,3
+-11.2076,119.0427,earthquake occurred in [unknown] (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283006,3,3
+34.0881,26.1665,earthquake occurred in Greece (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283000,3,3
+-60.4336,-24.9028,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282998,3,3
+31.3,125.6,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3,3
+10.5463,92.1946,earthquake occurred in India (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282999,3,3
+-22.6427,-174.2104,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282994,3,3
 -60.4798,-25.0005,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282988,3,3
 41.9,-73.2,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000815,3,3
 40.8085,144.9825,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282980,3,3
 -58.3215,-23.5008,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282979,3,3
-28.9,125.5,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3,3
+-33.694,-70.093,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
+44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
+-6.099,-50.359,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
+26.229,95.357,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
+8.487,7.754,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
+39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
+-0.266,41.459,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
+47.946,-103.82,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
+48.41,61.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
+-13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
+-18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
+37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-18.184,-55.449,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
 18.5645,-73.6105,earthquake occurred in Haiti (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282960,3,3
 -60.3106,-24.8864,earthquake occurred in South Georgia and the South Sandwich Islands (7.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282946,3,3
 -58.3602,-24.8848,earthquake occurred in South Georgia and the South Sandwich Islands (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282944,3,3
@@ -74,15 +94,3 @@ Lat,Lon,Title,Link,Condition,Impact
 16.0125,-96.8504,earthquake occurred in Mexico (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282927,3,3
 -8.3756,-79.9383,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282923,3,3
 -58.2703,-25.0345,earthquake occurred in South Georgia and the South Sandwich Islands (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282920,3,3
--58.3876,-25.5276,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282913,3,3
-79.5554,3.224,earthquake occurred in Svalbard and Jan Mayen (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282915,3,3
--57.483,-24.8395,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282910,3,3
--57.1095,-25.2969,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282890,3,3
-22.2735,94.7112,earthquake occurred in Myanmar (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282889,3,3
-51.4741,-178.3473,earthquake occurred in United States (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282885,3,3
--57.4948,-25.1606,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282878,3,3
-1.3847,120.827,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282874,3,3
--29.4251,-175.1621,earthquake occurred in Kermadec Islands Region (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282876,3,3
-1.8863,97.8125,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282865,3,3
--40.4844,-91.7856,earthquake occurred in West Chile Rise (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282863,3,3
--8.3539,-74.3764,earthquake occurred in Peru (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282858,3,3
