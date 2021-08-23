@@ -34,7 +34,7 @@ and all of the required `pip` packages, will be installed, and the app will be a
 
 To run the app:
 ```
-flask run
+python3 application.py
 ```
 which will output:
 
