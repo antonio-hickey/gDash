@@ -27,7 +27,7 @@ env\Scripts\activate
 To install all of the required packages to this environment, simply run:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 and all of the required `pip` packages, will be installed, and the app will be able to run.
