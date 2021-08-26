@@ -110,6 +110,34 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+Lat,Lon,Title,Link,Condition,Impact
+34.307143856288,66.181640625,War in Afghanistan,https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan,3,1
+35.317366329238,38.49609375,Civil War in Syria,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-syria,2,2
+12.811801316583,112.67578125,Territorial Disputes in the South China Sea,https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea,2,1
+25.800133,123.595626,Tensions in the East China Sea,https://www.cfr.org/global-conflict-tracker/conflict/tensions-east-china-sea,2,1
+39.038212,125.756281,North Korea Crisis,https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis,2,1
+33.284619968888,42.1875,Political Instability in Iraq,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-iraq,2,2
+30.448673679288,70.13671875,Islamist Militancy in Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/islamist-militancy-pakistan,2,2
+34.23451236237,36.045112609863,Political Instability in Lebanon,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,3,2
+27.449790329784,31.201171875,Instability in Egypt,https://www.cfr.org/global-conflict-tracker/conflict/instability-egypt,2,2
+49.410973199696,30.673828125,Conflict in Ukraine,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine,2,2
+39.6018419,34.5562563,Conflict Between Turkey and Armed Kurdish Groups,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups,2,2
+23.885837699862,-102.3046875,Criminal Violence in Mexico,https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico,2,2
+31.674212,34.795588,Israeli-Palestinian Conflict,https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict,2,2
+10.833305983642,8.0859375,Boko Haram in Nigeria,https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria,2,2
+29.190533,17.27051,Civil War in Libya,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya,2,3
+32.768800484882,74.70703125,Conflict Between India and Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan,2,2
+15.961329081597,46.40625,War in Yemen,https://www.cfr.org/global-conflict-tracker/conflict/war-yemen,3,3
+39.8153,46.7519,Nagorno-Karabakh Conflict,https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict,2,3
+17.978733095556,-2.4609375,Destabilization of Mali,https://www.cfr.org/global-conflict-tracker/conflict/destabilization-mali,2,3
+6.8391696263428,19.3359375,Violence in the Central African Republic,https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic,2,3
+26.688647,56.502372,Confrontation Between the United States and Iran,https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran,2,1
+10.480594,-66.903603,Instability in Venezuela ,https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela,2,2
+-1.9332268264771,22.641792297363,Violence in the Democratic Republic of Congo,https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo,2,3
+21.77990534253,96.328125,Rohingya Crisis in Myanmar,https://www.cfr.org/global-conflict-tracker/conflict/rohingya-crisis-myanmar,3,3
+4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
+5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
+8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
 40.385585,-88.99722,Shots fired inside Downtown Chicago’s Central Station,https://t.co/F5PUinDctg,2.0,2.0
 40.708446,-77.797431,Two officers down following shootout in North Philadelphia,https://t.co/tACh8TP1xn,2.0,2.0
 43.655112,-120.709186,"Active shooter reported near protest in Portland, Oregon",https://t.co/DSUDH68DA1,2.0,2.0
