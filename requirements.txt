@@ -3,4 +3,4 @@ plotly==4.7.1
 cufflinks1==0.17.4
 gunicorn==20.0.4
 numpy==1.18.4
-pandas==1.0.3
+pandas==1.3.1
