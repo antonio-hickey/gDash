@@ -227,16 +227,14 @@ Lat,Lon,Title,Link,Condition,Impact
 44.238824,-89.492394,Milwaukee Police confirm a ‘critical incident’ is underway,https://t.co/VFPnIIT6yC,2.0,2.0
 40.385585,-88.99722,Shots fired inside Downtown Chicago’s Central Station,https://t.co/F5PUinDctg,2.0,2.0
 40.708446,-77.797431,Two officers down following shootout in North Philadelphia,https://t.co/tACh8TP1xn,2.0,2.0
-35.4965,-3.5428,earthquake occurred in Morocco (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283621,3,3
--9.8054,120.1424,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283620,3,3
--59.8335,-25.4897,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283618,3,3
--6.6209,129.7327,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283617,3,3
-14.0,-49.9,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000819,3,3
-24.0,-85.2,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000818,1,1
-17.1,-105.2,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000817,2,2
--58.8006,-25.3192,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283594,3,3
--59.6456,-26.2169,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283562,3,3
--6.0243,147.8674,earthquake occurred in Papua New Guinea (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283561,3,3
+28.5,-89.6,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000818,1,1
+-21.7486,-173.517,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283773,3,3
+34.0,-48.6,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000820,3,3
+17.3,-49.8,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000819,3,3
+22.5,-105.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000817,2,2
+-18.759,-173.1711,earthquake occurred in Tonga (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283763,3,3
+-52.3271,13.6254,earthquake occurred in [unknown] (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283745,3,3
+36.5005,141.1747,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283739,3,3
 -33.694,-70.093,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
 44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
 -6.099,-50.359,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
@@ -250,12 +248,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
 37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
 -18.184,-55.449,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
--60.2598,-25.1039,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283556,3,3
--59.7064,-26.2161,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283554,3,3
--2.8284,128.155,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283552,3,3
--58.7646,-25.0622,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283551,3,3
--15.883,-70.6734,earthquake occurred in Peru (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283549,3,3
--57.4257,-23.9146,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283537,3,3
--4.7359,136.7918,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283530,3,3
--11.2984,118.585,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283524,3,3
--5.3499,151.9471,earthquake occurred in Papua New Guinea (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283597,3,3
+-62.37,-57.9958,earthquake occurred in Antarctica (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283716,3,3
+30.2191,69.7498,earthquake occurred in Pakistan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283712,3,3
+-3.6076,140.1744,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283701,3,3
+-59.4735,-25.8378,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283697,3,3
+-59.4176,-25.4705,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283675,3,3
