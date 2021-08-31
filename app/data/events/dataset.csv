@@ -26,15 +26,23 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2.0,3.0
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
+30.632183,-92.039792,Confirmed reports of an ongoing fire inside New Orleans’ City Hall,https://t.co/GSeTCk4ItW,2.0,2.0
 30.632183,-92.039792,Emerging report of 200+ people trapped following overtopping of levee in Lafitte,https://t.co/sUsgnQZZCb,2.0,2.0
 30.632183,-92.039792,Flood Emergency declared in New Orleans; Water now entering homes,https://t.co/xEXj3pBj37,2.0,2.0
 40.711634,-73.936331,Thick smoke seen rising near ConEd power plant in New York City,https://t.co/C4emx8AIqS,2.0,2.0
-40.1,-71.2,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000815,3.0,3.0
--8.3539,-74.3764,earthquake occurred in Peru (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282858,3.0,3.0
-25.1,125.3,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
--57.4351,-24.7183,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282845,3.0,3.0
-37.5479,141.8542,earthquake occurred in Japan (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282839,3.0,3.0
--60.1218,-24.3444,earthquake occurred in South Georgia and the South Sandwich Islands (6.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282826,3.0,3.0
+23.5,-50.8,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000819,3.0,3.0
+-57.0435,-25.1732,earthquake occurred in South Georgia and the South Sandwich Islands (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284033,3.0,3.0
+-13.7269,167.5028,earthquake occurred in Vanuatu (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284030,3.0,3.0
+-13.5113,-75.9269,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284012,3.0,3.0
+39.0216,30.1878,earthquake occurred in Turkey (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284007,3.0,3.0
+-18.1109,-178.232,earthquake occurred in Fiji (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284004,3.0,3.0
+-3.3573,-78.0254,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283993,3.0,3.0
+-58.0285,-25.6328,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283977,3.0,3.0
+-60.7953,-25.7863,earthquake occurred in South Georgia and the South Sandwich Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283979,3.0,3.0
+55.9409,113.3451,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283974,3.0,3.0
+-29.9168,-177.3691,"earthquake occurred in Kermadec Islands, New Zealand (6.3M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283964,3.0,3.0
+-3.4543,32.3215,earthquake occurred in Tanzania (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283962,3.0,3.0
+-18.0,-177.4355,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283958,3.0,3.0
 -33.694,-70.093,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -6.099,-50.359,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
@@ -48,12 +56,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -18.184,-55.449,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--18.1998,-70.2889,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282816,3.0,3.0
-36.0225,142.5698,earthquake occurred in Japan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282815,3.0,3.0
-19.6,-100.1,Tropical Storm( 194 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000814,3.0,3.0
-33.7467,141.5326,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282804,3.0,3.0
--58.6114,-23.9192,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282784,3.0,3.0
-1.1812,127.144,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282779,3.0,3.0
--58.7333,-23.8441,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282786,3.0,3.0
--58.4319,-23.4028,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282787,3.0,3.0
--59.6072,-23.9219,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282789,3.0,3.0
+-13.7529,167.7876,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283937,3.0,3.0
+0.0338,124.4525,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283927,3.0,3.0
+-13.6666,167.647,earthquake occurred in Vanuatu (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283928,3.0,3.0
+32.6,-90.3,Tropical Storm( 241 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000818,3.0,3.0
+-60.3127,-27.6082,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283917,3.0,3.0
