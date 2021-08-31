@@ -41,7 +41,12 @@ fig.update_layout(title_text='Earth\'s Current Events', title_x=0.5, title_font_
                   yaxis=dict(color='#353535'), xaxis=dict(color='#353535'))
 
 
-c19fig = px.area(c19_df, x="date", y="total_deaths", color_discrete_sequence=['#3c6e71'])
+c19fig = px.area(c19_df, x="date", y="deaths weekly change", color_discrete_sequence=['#3c6e71'])
+c19fig.add_scatter(
+    x=c19_df["date"],
+    y=c19_df["+2 Sigma"],
+    mode='lines',
+)
 c19fig["layout"][
     "uirevision"
 ] = "The User is always right"
@@ -138,12 +143,30 @@ app.layout = html.Div(
 )
 def data_display(chart_dropdown):
     if chart_dropdown == "covid":
-        c19fig = px.area(c19_df, x="date", y="total_deaths", color_discrete_sequence=['#3c6e71'])
+
+        c19fig = px.area(c19_df, x="date", y="deaths weekly change", color_discrete_sequence=['#3c6e71'])
+
+        c19fig.add_scatter(
+         x=c19_df["date"],
+         y=c19_df["+2 Sigma"],
+         mode='lines',
+         line=dict(color='#d40f33'),
+         name='+4 Sigma',
+        )
+
+        c19fig.add_scatter(
+         x=c19_df["date"],
+         y=c19_df["-2 Sigma"],
+         mode='lines',
+         line=dict(color='#edac15'),
+         name='+2 Sigma',
+        )
+
         c19fig["layout"][
              "uirevision"
         ] = "The User is always right"
         c19fig["layout"]["height"] = 590
-        c19fig["layout"]["yaxis"]["title"] = 'Deaths'
+        c19fig["layout"]["yaxis"]["title"] = 'Change in Deaths'
         c19fig["layout"]["xaxis"]["title"] = 'Dates'
         c19fig["layout"]["yaxis"]["gridcolor"] = "#ffffff"
         c19fig["layout"]["xaxis"]["gridcolor"] = "#ffffff"
@@ -151,7 +174,7 @@ def data_display(chart_dropdown):
         c19fig["layout"].update(paper_bgcolor="#ffffff", plot_bgcolor="#d9d9d9")
         c19fig.update_yaxes(title_font=dict(color='#353535'))
         c19fig.update_xaxes(title_font=dict(color='#353535'))
-        c19fig.update_layout(title_text='COVID-19 Death\'s Global', title_x=0.5,
+        c19fig.update_layout(title_text='COVID-19 Change in Deaths', title_x=0.5,
                              title_font_color='#353535', yaxis=dict(color='#353535'),
                              xaxis=dict(color='#353535'))
         return c19fig
