@@ -47,3 +47,7 @@ which will output:
 ```
 
 Go to the link `http://127.0.0.1:5000/`
+
+### Updating gDash
+Run the following command at the root of the gDash folder
+`git pull origin main`
