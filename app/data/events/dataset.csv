@@ -58,34 +58,31 @@ Lat,Lon,Title,Link,Condition,Impact
 30.632183,-92.039792,Emerging report of 200+ people trapped following overtopping of levee in Lafitte,https://t.co/sUsgnQZZCb,2.0,2.0
 30.632183,-92.039792,Flood Emergency declared in New Orleans; Water now entering homes,https://t.co/xEXj3pBj37,2.0,2.0
 40.711634,-73.936331,Thick smoke seen rising near ConEd power plant in New York City,https://t.co/C4emx8AIqS,2.0,2.0
-23.5,-50.8,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000819,3,3
--57.0435,-25.1732,earthquake occurred in South Georgia and the South Sandwich Islands (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284033,3,3
--13.7269,167.5028,earthquake occurred in Vanuatu (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284030,3,3
--13.5113,-75.9269,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284012,3,3
-39.0216,30.1878,earthquake occurred in Turkey (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284007,3,3
--18.1109,-178.232,earthquake occurred in Fiji (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284004,3,3
--3.3573,-78.0254,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283993,3,3
--58.0285,-25.6328,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283977,3,3
--60.7953,-25.7863,earthquake occurred in South Georgia and the South Sandwich Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283979,3,3
-55.9409,113.3451,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283974,3,3
--29.9168,-177.3691,"earthquake occurred in Kermadec Islands, New Zealand (6.3M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283964,3,3
--3.4543,32.3215,earthquake occurred in Tanzania (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283962,3,3
--18.0,-177.4355,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283958,3,3
--33.694,-70.093,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
-44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
--6.099,-50.359,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
-26.229,95.357,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
-8.487,7.754,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
-39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
--0.266,41.459,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
-47.946,-103.82,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
-48.41,61.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
--13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
--18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
-37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-59.0224,-25.6259,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284129,3,3
+-59.0666,-25.631,earthquake occurred in South Georgia and the South Sandwich Islands (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284125,3,3
+25.7,-51.7,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000819,3,3
+12.3,-24.8,Tropical Storm( 194 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000821,3,3
+-18.7298,-174.0911,earthquake occurred in Tonga (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284123,3,3
+-6.1657,130.6369,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284118,3,3
+-42.6502,-82.4673,earthquake occurred in West Chile Rise (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284107,3,3
+-22.3048,171.5771,earthquake occurred in Vanuatu (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284105,3,3
 -18.184,-55.449,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
--13.7529,167.7876,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283937,3,3
-0.0338,124.4525,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283927,3,3
--13.6666,167.647,earthquake occurred in Vanuatu (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283928,3,3
-32.6,-90.3,Tropical Storm( 241 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000818,3,3
--60.3127,-27.6082,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1283917,3,3
+37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
+-13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
+48.41,61.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
+47.946,-103.82,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
+-0.266,41.459,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
+39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
+8.487,7.754,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
+26.229,95.357,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
+-6.099,-50.359,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
+44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
+-33.694,-70.093,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
+29.8274,-42.6887,earthquake occurred in Northern Mid-Atlantic Ridge (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284077,3,3
+-61.1822,-39.1059,earthquake occurred in Antarctica (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284076,3,3
+7.1271,125.6224,earthquake occurred in Philippines (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284075,3,3
+29.753,-42.6686,earthquake occurred in Northern Mid-Atlantic Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284073,3,3
+29.8416,-42.7374,earthquake occurred in Northern Mid-Atlantic Ridge (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284071,3,3
+-60.1686,-24.0502,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284052,3,3
+40.9205,-114.9459,earthquake occurred in United States (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284045,3,3
