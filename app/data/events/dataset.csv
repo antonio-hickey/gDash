@@ -82,6 +82,7 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+40.011891,-74.505838,Emergency services unable to reach neighborhood fire in New Jersey,https://t.co/sJZwoVutCE,2.0,2.0
 40.711634,-73.936331,NYC Subway Service suspended on all lines,https://t.co/pu7d7xhbYR,2.0,2.0
 40.011891,-74.505838,"Flood Emergency underway in Lambertville, New Jersey",https://t.co/zbWhN98Pkx,2.0,2.0
 40.011891,-74.505838,"Rare Tornado Emergency declared for populated city of Trenton, New Jersey",https://t.co/twQEZbdgJw,2.0,2.0
@@ -89,7 +90,6 @@ Lat,Lon,Title,Link,Condition,Impact
 39.356961,-76.9165257,"Damaging tornado on the ground in Annapolis, Maryland",https://t.co/fnu71xF5n8,2.0,2.0
 35.777766,-78.912974,Shooter reportedly en route to Richard Reynolds Highschool,https://t.co/My7Osjju5v,2.0,2.0
 40.708446,-77.797431,Flash Flood Emergency declared following dam failure in Central Pennsylvania,https://t.co/N1SSB5OqBn,2.0,2.0
-35.777766,-78.912974,Active situation unfolding at Mount Tabor Highschool in North Carolina,https://t.co/JcLWvVaGKf,2.0,2.0
 13.0,-32.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000821,3,3
 -58.9156,-25.4957,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284245,3,3
 -3.8701,-76.2769,earthquake occurred in Peru (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284243,3,3
