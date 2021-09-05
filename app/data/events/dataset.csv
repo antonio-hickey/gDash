@@ -138,6 +138,7 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+47.120741,-100.355791,"Active situation unfolding in Downtown Fargo, North Dakota",https://t.co/LJutf9zELd,2.0,2.0
 40.708446,-77.797431,Confirmed building collapse with multiple people trapped in Philadelphia,https://t.co/OLkQIjk2FJ,2.0,2.0
 40.011891,-74.505838,Emergency services unable to reach neighborhood fire in New Jersey,https://t.co/sJZwoVutCE,2.0,2.0
 40.711634,-73.936331,NYC Subway Service suspended on all lines,https://t.co/pu7d7xhbYR,2.0,2.0
@@ -145,7 +146,6 @@ Lat,Lon,Title,Link,Condition,Impact
 40.011891,-74.505838,"Rare Tornado Emergency declared for populated city of Trenton, New Jersey",https://t.co/twQEZbdgJw,2.0,2.0
 40.708446,-77.797431,Confirmed large and damaging tornado on the ground south of Downtown Philadelphia,https://t.co/tb2ysBoHbz,2.0,2.0
 39.356961,-76.9165257,"Damaging tornado on the ground in Annapolis, Maryland",https://t.co/fnu71xF5n8,2.0,2.0
-35.777766,-78.912974,Shooter reportedly en route to Richard Reynolds Highschool,https://t.co/My7Osjju5v,2.0,2.0
 16.3,-44.6,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000821,3,3
 -17.2401,167.7321,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284478,3,3
 -58.9767,-25.5222,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284477,3,3
