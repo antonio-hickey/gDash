@@ -11,8 +11,11 @@ df = pd.read_csv('app/data/events/geoConflicts.csv')
 df2 = pd.read_csv('app/data/events/usEvents.csv')
 df3 = pd.read_csv('app/data/events/GND.csv')
 
-sets = [df, df2, df3]
-merged = pd.concat(sets)
+merged = pd.concat([
+    df,
+    df2.values,
+    df3.values,
+])
 
 APP_PATH = str(pathlib.Path(__file__).parent.resolve())
 filename = (os.path.join(APP_PATH, "../../data/events/dataset.csv"))
