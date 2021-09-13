@@ -26,37 +26,174 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
-39.356961,-76.9165257,Pursuit  underway through Baltimore; Shots are being fired,https://t.co/ZqwthIgT5E,2.0,2.0
-40.711634,-73.936331,Confirmed child abduction at Yankee Stadium in New York City.,https://t.co/CYahkFdCql,2.0,2.0
-38.885778,-77.013282,Massive police response underway for ‘security incident’ in Washington DC,https://t.co/y7nRHkH3lo,2.0,2.0
-31.21155,-99.087012,"Bomb Squad responding to suspicious package in downtown Austin, Texas",https://t.co/nNVadLnrUY,2.0,2.0
--36.2045,-98.0411,earthquake occurred in Southeast Of Easter Island (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285002,3,3
-16.9087,-99.8584,earthquake occurred in Mexico (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284998,3,3
-26.5,-57.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000821,3,3
-18.5,-107.1,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000825,3,3
-14.1,120.8,Tropical Storm( 130 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000823,2,2
-15.6,131.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,2,2
-16.6267,-99.7482,earthquake occurred in Mexico (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284982,3,3
-38.1508,73.2564,earthquake occurred in Tajikistan (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284980,3,3
-17.0575,-99.8813,earthquake occurred in Mexico (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284973,3,3
-55.5052,166.3955,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284965,3,3
-17.0047,-99.7911,earthquake occurred in Mexico (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284961,3,3
-16.994,-99.7829,earthquake occurred in Mexico (7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284957,3,3
-36.4642,27.1918,earthquake occurred in Turkey (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284954,3,3
-18.6486,145.811,earthquake occurred in Northern Mariana Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284956,3,3
--7.5379,128.3759,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284933,3,3
+Lat,Lon,Title,Link,Condition,Impact
+34.307143856288,66.181640625,War in Afghanistan,https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan,3,1
+35.317366329238,38.49609375,Civil War in Syria,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-syria,2,2
+12.811801316583,112.67578125,Territorial Disputes in the South China Sea,https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea,2,1
+25.800133,123.595626,Tensions in the East China Sea,https://www.cfr.org/global-conflict-tracker/conflict/tensions-east-china-sea,2,1
+39.038212,125.756281,North Korea Crisis,https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis,2,1
+33.284619968888,42.1875,Political Instability in Iraq,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-iraq,2,2
+30.448673679288,70.13671875,Islamist Militancy in Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/islamist-militancy-pakistan,2,2
+34.23451236237,36.045112609863,Political Instability in Lebanon,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,3,2
+27.449790329784,31.201171875,Instability in Egypt,https://www.cfr.org/global-conflict-tracker/conflict/instability-egypt,2,2
+49.410973199696,30.673828125,Conflict in Ukraine,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine,2,2
+39.6018419,34.5562563,Conflict Between Turkey and Armed Kurdish Groups,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups,2,2
+23.885837699862,-102.3046875,Criminal Violence in Mexico,https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico,2,2
+31.674212,34.795588,Israeli-Palestinian Conflict,https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict,2,2
+10.833305983642,8.0859375,Boko Haram in Nigeria,https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria,2,2
+29.190533,17.27051,Civil War in Libya,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya,2,3
+32.768800484882,74.70703125,Conflict Between India and Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan,2,2
+15.961329081597,46.40625,War in Yemen,https://www.cfr.org/global-conflict-tracker/conflict/war-yemen,3,3
+39.8153,46.7519,Nagorno-Karabakh Conflict,https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict,2,3
+17.978733095556,-2.4609375,Destabilization of Mali,https://www.cfr.org/global-conflict-tracker/conflict/destabilization-mali,2,3
+6.8391696263428,19.3359375,Violence in the Central African Republic,https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic,2,3
+26.688647,56.502372,Confrontation Between the United States and Iran,https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran,2,1
+10.480594,-66.903603,Instability in Venezuela ,https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela,2,2
+-1.9332268264771,22.641792297363,Violence in the Democratic Republic of Congo,https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo,2,3
+21.77990534253,96.328125,Rohingya Crisis in Myanmar,https://www.cfr.org/global-conflict-tracker/conflict/rohingya-crisis-myanmar,3,3
+4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
+5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
+8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+Lat,Lon,Title,Link,Condition,Impact
+34.307143856288,66.181640625,War in Afghanistan,https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan,3,1
+35.317366329238,38.49609375,Civil War in Syria,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-syria,2,2
+12.811801316583,112.67578125,Territorial Disputes in the South China Sea,https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea,2,1
+25.800133,123.595626,Tensions in the East China Sea,https://www.cfr.org/global-conflict-tracker/conflict/tensions-east-china-sea,2,1
+39.038212,125.756281,North Korea Crisis,https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis,2,1
+33.284619968888,42.1875,Political Instability in Iraq,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-iraq,2,2
+30.448673679288,70.13671875,Islamist Militancy in Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/islamist-militancy-pakistan,2,2
+34.23451236237,36.045112609863,Political Instability in Lebanon,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,3,2
+27.449790329784,31.201171875,Instability in Egypt,https://www.cfr.org/global-conflict-tracker/conflict/instability-egypt,2,2
+49.410973199696,30.673828125,Conflict in Ukraine,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine,2,2
+39.6018419,34.5562563,Conflict Between Turkey and Armed Kurdish Groups,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups,2,2
+23.885837699862,-102.3046875,Criminal Violence in Mexico,https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico,2,2
+31.674212,34.795588,Israeli-Palestinian Conflict,https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict,2,2
+10.833305983642,8.0859375,Boko Haram in Nigeria,https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria,2,2
+29.190533,17.27051,Civil War in Libya,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya,2,3
+32.768800484882,74.70703125,Conflict Between India and Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan,2,2
+15.961329081597,46.40625,War in Yemen,https://www.cfr.org/global-conflict-tracker/conflict/war-yemen,3,3
+39.8153,46.7519,Nagorno-Karabakh Conflict,https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict,2,3
+17.978733095556,-2.4609375,Destabilization of Mali,https://www.cfr.org/global-conflict-tracker/conflict/destabilization-mali,2,3
+6.8391696263428,19.3359375,Violence in the Central African Republic,https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic,2,3
+26.688647,56.502372,Confrontation Between the United States and Iran,https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran,2,1
+10.480594,-66.903603,Instability in Venezuela ,https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela,2,2
+-1.9332268264771,22.641792297363,Violence in the Democratic Republic of Congo,https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo,2,3
+21.77990534253,96.328125,Rohingya Crisis in Myanmar,https://www.cfr.org/global-conflict-tracker/conflict/rohingya-crisis-myanmar,3,3
+4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
+5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
+8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+Lat,Lon,Title,Link,Condition,Impact
+34.307143856288,66.181640625,War in Afghanistan,https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan,3,1
+35.317366329238,38.49609375,Civil War in Syria,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-syria,2,2
+12.811801316583,112.67578125,Territorial Disputes in the South China Sea,https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea,2,1
+25.800133,123.595626,Tensions in the East China Sea,https://www.cfr.org/global-conflict-tracker/conflict/tensions-east-china-sea,2,1
+39.038212,125.756281,North Korea Crisis,https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis,2,1
+33.284619968888,42.1875,Political Instability in Iraq,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-iraq,2,2
+30.448673679288,70.13671875,Islamist Militancy in Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/islamist-militancy-pakistan,2,2
+34.23451236237,36.045112609863,Political Instability in Lebanon,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,3,2
+27.449790329784,31.201171875,Instability in Egypt,https://www.cfr.org/global-conflict-tracker/conflict/instability-egypt,2,2
+49.410973199696,30.673828125,Conflict in Ukraine,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine,2,2
+39.6018419,34.5562563,Conflict Between Turkey and Armed Kurdish Groups,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups,2,2
+23.885837699862,-102.3046875,Criminal Violence in Mexico,https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico,2,2
+31.674212,34.795588,Israeli-Palestinian Conflict,https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict,2,2
+10.833305983642,8.0859375,Boko Haram in Nigeria,https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria,2,2
+29.190533,17.27051,Civil War in Libya,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya,2,3
+32.768800484882,74.70703125,Conflict Between India and Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan,2,2
+15.961329081597,46.40625,War in Yemen,https://www.cfr.org/global-conflict-tracker/conflict/war-yemen,3,3
+39.8153,46.7519,Nagorno-Karabakh Conflict,https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict,2,3
+17.978733095556,-2.4609375,Destabilization of Mali,https://www.cfr.org/global-conflict-tracker/conflict/destabilization-mali,2,3
+6.8391696263428,19.3359375,Violence in the Central African Republic,https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic,2,3
+26.688647,56.502372,Confrontation Between the United States and Iran,https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran,2,1
+10.480594,-66.903603,Instability in Venezuela ,https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela,2,2
+-1.9332268264771,22.641792297363,Violence in the Democratic Republic of Congo,https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo,2,3
+21.77990534253,96.328125,Rohingya Crisis in Myanmar,https://www.cfr.org/global-conflict-tracker/conflict/rohingya-crisis-myanmar,3,3
+4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
+5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
+8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+Lat,Lon,Title,Link,Condition,Impact
+34.307143856288,66.181640625,War in Afghanistan,https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan,3,1
+35.317366329238,38.49609375,Civil War in Syria,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-syria,2,2
+12.811801316583,112.67578125,Territorial Disputes in the South China Sea,https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea,2,1
+25.800133,123.595626,Tensions in the East China Sea,https://www.cfr.org/global-conflict-tracker/conflict/tensions-east-china-sea,2,1
+39.038212,125.756281,North Korea Crisis,https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis,2,1
+33.284619968888,42.1875,Political Instability in Iraq,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-iraq,2,2
+30.448673679288,70.13671875,Islamist Militancy in Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/islamist-militancy-pakistan,2,2
+34.23451236237,36.045112609863,Political Instability in Lebanon,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,3,2
+27.449790329784,31.201171875,Instability in Egypt,https://www.cfr.org/global-conflict-tracker/conflict/instability-egypt,2,2
+49.410973199696,30.673828125,Conflict in Ukraine,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine,2,2
+39.6018419,34.5562563,Conflict Between Turkey and Armed Kurdish Groups,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups,2,2
+23.885837699862,-102.3046875,Criminal Violence in Mexico,https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico,2,2
+31.674212,34.795588,Israeli-Palestinian Conflict,https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict,2,2
+10.833305983642,8.0859375,Boko Haram in Nigeria,https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria,2,2
+29.190533,17.27051,Civil War in Libya,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya,2,3
+32.768800484882,74.70703125,Conflict Between India and Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan,2,2
+15.961329081597,46.40625,War in Yemen,https://www.cfr.org/global-conflict-tracker/conflict/war-yemen,3,3
+39.8153,46.7519,Nagorno-Karabakh Conflict,https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict,2,3
+17.978733095556,-2.4609375,Destabilization of Mali,https://www.cfr.org/global-conflict-tracker/conflict/destabilization-mali,2,3
+6.8391696263428,19.3359375,Violence in the Central African Republic,https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic,2,3
+26.688647,56.502372,Confrontation Between the United States and Iran,https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran,2,1
+10.480594,-66.903603,Instability in Venezuela ,https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela,2,2
+-1.9332268264771,22.641792297363,Violence in the Democratic Republic of Congo,https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo,2,3
+21.77990534253,96.328125,Rohingya Crisis in Myanmar,https://www.cfr.org/global-conflict-tracker/conflict/rohingya-crisis-myanmar,3,3
+4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
+5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
+8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+Lat,Lon,Title,Link,Condition,Impact
+34.307143856288,66.181640625,War in Afghanistan,https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan,3,1
+35.317366329238,38.49609375,Civil War in Syria,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-syria,2,2
+12.811801316583,112.67578125,Territorial Disputes in the South China Sea,https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea,2,1
+25.800133,123.595626,Tensions in the East China Sea,https://www.cfr.org/global-conflict-tracker/conflict/tensions-east-china-sea,2,1
+39.038212,125.756281,North Korea Crisis,https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis,2,1
+33.284619968888,42.1875,Political Instability in Iraq,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-iraq,2,2
+30.448673679288,70.13671875,Islamist Militancy in Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/islamist-militancy-pakistan,2,2
+34.23451236237,36.045112609863,Political Instability in Lebanon,https://www.cfr.org/global-conflict-tracker/conflict/political-instability-lebanon,3,2
+27.449790329784,31.201171875,Instability in Egypt,https://www.cfr.org/global-conflict-tracker/conflict/instability-egypt,2,2
+49.410973199696,30.673828125,Conflict in Ukraine,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine,2,2
+39.6018419,34.5562563,Conflict Between Turkey and Armed Kurdish Groups,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups,2,2
+23.885837699862,-102.3046875,Criminal Violence in Mexico,https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico,2,2
+31.674212,34.795588,Israeli-Palestinian Conflict,https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict,2,2
+10.833305983642,8.0859375,Boko Haram in Nigeria,https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria,2,2
+29.190533,17.27051,Civil War in Libya,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya,2,3
+32.768800484882,74.70703125,Conflict Between India and Pakistan,https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan,2,2
+15.961329081597,46.40625,War in Yemen,https://www.cfr.org/global-conflict-tracker/conflict/war-yemen,3,3
+39.8153,46.7519,Nagorno-Karabakh Conflict,https://www.cfr.org/global-conflict-tracker/conflict/nagorno-karabakh-conflict,2,3
+17.978733095556,-2.4609375,Destabilization of Mali,https://www.cfr.org/global-conflict-tracker/conflict/destabilization-mali,2,3
+6.8391696263428,19.3359375,Violence in the Central African Republic,https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic,2,3
+26.688647,56.502372,Confrontation Between the United States and Iran,https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran,2,1
+10.480594,-66.903603,Instability in Venezuela ,https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela,2,2
+-1.9332268264771,22.641792297363,Violence in the Democratic Republic of Congo,https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo,2,3
+21.77990534253,96.328125,Rohingya Crisis in Myanmar,https://www.cfr.org/global-conflict-tracker/conflict/rohingya-crisis-myanmar,3,3
+4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
+5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
+8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
+32.876795,-83.483814,Explosion reported at apartment complex in Atlanta’s northern suburb,https://t.co/ptWabm4OqK,2.0,2.0
+41.242098,-99.318614,"Shelter-In-Place still in effect for the entire town of Kenesaw, Nebraska",https://t.co/I05VVjmBtl,2.0,2.0
+-17.953,-178.465,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285479,3,3
+-37.2841,-74.9746,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285477,3,3
+24.1344,120.9873,earthquake occurred in China (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285473,3,3
+-24.201,-66.9545,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285471,3,3
+25.5,-96.6,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000827,3,3
+-0.6053,127.5348,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285470,3,3
+74.1663,10.6539,earthquake occurred in Svalbard and Jan Mayen (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285452,3,3
+30.7,123.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3,3
+-23.8884,-67.0152,earthquake occurred in Argentina (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285453,3,3
+39.3218,142.8017,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285454,3,3
+-30.0389,-72.0226,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285455,3,3
+37.2841,58.8846,earthquake occurred in Islamic Republic of Iran (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285456,3,3
+-59.8313,-26.304,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285457,3,3
 63.285,130.266,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015084,3,3
--18.284,-55.272,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
-37.505,42.557,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
--18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
--13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
-48.367,61.78,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
-49.02,-103.53,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
-0.04,41.407,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
-39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
-8.349,7.734,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
-26.282,95.419,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
--6.186,-50.305,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
-44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
 -35.988,-71.184,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
-8.3362,126.6537,earthquake occurred in Philippines (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1284910,3,3
+44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
+-6.186,-50.305,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
+26.282,95.419,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
+8.349,7.734,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
+39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
+0.04,41.407,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
+49.02,-103.53,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
+48.367,61.78,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
+-13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
+-18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
+37.505,42.557,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-18.284,-55.272,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
+15.4,109.1,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000823,3,3
+53.4017,-163.5375,earthquake occurred in United States (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285458,3,3
