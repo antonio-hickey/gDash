@@ -198,19 +198,15 @@ Lat,Lon,Title,Link,Condition,Impact
 39.06688,-111.276458,Shots fired at officers during pursuit in Utah; Numerous agencies responding,https://t.co/85Afh2i8Dj,2.0,2.0
 31.21155,-99.087012,"‘Active Attack’ reported at LBJ Early College Highschool in Austin, Texas",https://t.co/nFvZ2vf2RT,2.0,2.0
 32.876795,-83.483814,Explosion reported at apartment complex in Atlanta’s northern suburb,https://t.co/ptWabm4OqK,2.0,2.0
--17.953,-178.465,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285479,3,3
--37.2841,-74.9746,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285477,3,3
-24.1344,120.9873,earthquake occurred in China (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285473,3,3
--24.201,-66.9545,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285471,3,3
-25.5,-96.6,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000827,3,3
--0.6053,127.5348,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285470,3,3
-74.1663,10.6539,earthquake occurred in Svalbard and Jan Mayen (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285452,3,3
-30.7,123.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3,3
--23.8884,-67.0152,earthquake occurred in Argentina (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285453,3,3
-39.3218,142.8017,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285454,3,3
--30.0389,-72.0226,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285455,3,3
-37.2841,58.8846,earthquake occurred in Islamic Republic of Iran (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285456,3,3
--59.8313,-26.304,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285457,3,3
+37.7279,20.377,earthquake occurred in Greece (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285602,3,3
+33.2664,72.2158,earthquake occurred in Pakistan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285603,3,3
+-15.0478,-173.8958,earthquake occurred in Samoa (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285604,3,3
+29.3,-95.6,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000827,3,3
+30.7,124.3,Tropical Storm( 287 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3,3
+64.4374,-146.737,earthquake occurred in United States (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285578,3,3
+79.307,5.971,earthquake occurred in Svalbard and Jan Mayen (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285565,3,3
+-31.731,-71.9478,earthquake occurred in Chile (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285560,3,3
+-15.2978,-73.7777,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285538,3,3
 63.285,130.266,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015084,3,3
 -35.988,-71.184,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
 44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
@@ -225,5 +221,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
 37.505,42.557,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
 -18.284,-55.272,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
-15.4,109.1,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000823,3,3
-53.4017,-163.5375,earthquake occurred in United States (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285458,3,3
+-58.7497,-25.1731,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285540,3,3
+32.455,137.8589,earthquake occurred in Japan (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285531,3,3
+-15.7419,167.8489,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285520,3,3
+-2.9129,147.5066,earthquake occurred in Papua New Guinea (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285515,3,3
+-22.6265,-177.7822,earthquake occurred in Tonga (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285511,3,3
