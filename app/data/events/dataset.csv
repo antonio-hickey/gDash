@@ -283,30 +283,28 @@ Lat,Lon,Title,Link,Condition,Impact
 39.06688,-111.276458,Shots fired at officers during pursuit in Utah; Numerous agencies responding,https://t.co/85Afh2i8Dj,2.0,2.0
 31.21155,-99.087012,"‘Active Attack’ reported at LBJ Early College Highschool in Austin, Texas",https://t.co/nFvZ2vf2RT,2.0,2.0
 32.876795,-83.483814,Explosion reported at apartment complex in Atlanta’s northern suburb,https://t.co/ptWabm4OqK,2.0,2.0
-37.4695,137.2229,earthquake occurred in Japan (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285866,3,3
--32.1244,-72.2363,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285865,3,3
--1.2679,120.5718,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285855,3,3
--17.539,-56.513,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
--1.035,40.423,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
-40.5,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
-49.519,-103.523,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
-44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
-38.535,42.986,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-13.4057,167.368,earthquake occurred in Vanuatu (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286012,3,3
+-13.4301,167.4095,earthquake occurred in Vanuatu (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286007,3,3
+-58.8803,-24.6626,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286001,3,3
+-58.8597,-24.7349,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285998,3,3
+33.4,129.2,Tropical Storm( 287 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3,3
+-11.4909,162.1619,earthquake occurred in Solomon Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285958,3,3
 63.503,130.833,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015084,3,3
-49.106,60.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
+-36.429,-71.367,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
+44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
+-6.199,-50.195,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
 26.789,95.208,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3,3
 6.501,8.819,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3,3
+40.5,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3,3
+-1.035,40.423,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2,2
+49.519,-103.523,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3,3
+49.106,60.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2,2
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2,2
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
--36.429,-71.367,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
--6.199,-50.195,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3,3
-52.6874,152.7537,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285850,3,3
--32.1368,-72.4406,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285848,3,3
--59.6184,-26.0723,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285843,3,3
--56.3914,-36.2678,earthquake occurred in South Georgia and the South Sandwich Islands (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285827,3,3
--26.2957,-70.995,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285826,3,3
--24.0348,-66.8557,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285821,3,3
--27.9372,-177.5516,earthquake occurred in Kermadec Islands Region (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285825,3,3
-15.5296,-92.968,earthquake occurred in Mexico (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285815,3,3
-29.2165,105.4067,earthquake occurred in China (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285804,2,2
-30.3,125.2,Tropical Storm( 287 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3,3
+38.535,42.986,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2,2
+-17.539,-56.513,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
+54.9112,-156.2753,earthquake occurred in United States (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285953,3,3
+16.9835,-96.1409,earthquake occurred in Mexico (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285952,3,3
+-23.8225,-179.7156,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285934,3,3
+-31.8107,-72.219,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285929,3,3
+55.0291,-156.4898,earthquake occurred in United States (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285924,3,3
