@@ -1,10 +1,8 @@
-import plotly.express as px
 import pandas as pd
-from typing import TypeVar
+import plotly.express as px
 
-px_Figure = TypeVar('plotly.graph_objs._figure.Figure')
 
-def figure(link_2_data: str, mapbox_token: str) -> px_Figure:
+def figure(link_2_data: str, mapbox_token: str) -> px.scatter_mapbox:
     data = pd.read_csv(link_2_data)
 
     px.set_mapbox_access_token(mapbox_token)
@@ -24,7 +22,5 @@ def figure(link_2_data: str, mapbox_token: str) -> px_Figure:
     fig["layout"].update(paper_bgcolor="#d9d9d9", plot_bgcolor="#d9d9d9")
     fig.update_layout(title_text='Earth\'s Current Events', title_x=0.5, title_font_color='#353535',
                       yaxis=dict(color='#353535'), xaxis=dict(color='#353535'))
-            
+
     return fig
- 
-    

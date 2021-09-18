@@ -1,11 +1,8 @@
-import plotly.express as px
-from typing import TypeVar
 import pandas as pd
+import plotly.express as px
 
 
-px_Figure = TypeVar('plotly.graph_objs._figure.Figure')
-
-def Figure(link_2_data: str) -> px_Figure:
+def Figure(link_2_data: str) -> px.bar:
     data = pd.read_csv(link_2_data)
 
     fig = px.bar(data, x="Economy", y="value", color_discrete_sequence=['#3c6e71'])
@@ -22,7 +19,6 @@ def Figure(link_2_data: str) -> px_Figure:
     fig.update_yaxes(title_font=dict(color='#353535'))
     fig.update_xaxes(title_font=dict(color='#353535'))
     fig.update_layout(title_text='GDP of Top 20 Nation\'s', title_x=0.5,
-                          title_font_color='#353535', yaxis=dict(color='#353535'),
-                          xaxis=dict(color='#353535'))
+                      title_font_color='#353535', yaxis=dict(color='#353535'),
+                      xaxis=dict(color='#353535'))
     return fig
-

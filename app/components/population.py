@@ -1,13 +1,10 @@
-import plotly.express as px
-from typing import TypeVar
 import pandas as pd
+import plotly.express as px
 
 
-px_Figure = TypeVar('plotly.graph_objs._figure.Figure')
-
-def Figure(link_2_data: str) -> px_Figure:
+def Figure(link_2_data: str) -> px.pie:
     data = pd.read_csv(link_2_data)
-    
+
     fig = px.pie(data, values='Net Change', names='Country (or dependency)')
     fig["layout"][
         "uirevision"
