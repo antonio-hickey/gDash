@@ -31,12 +31,11 @@ Lat,Lon,Title,Link,Condition,Impact
 39.06688,-111.276458,Shots fired at officers during pursuit in Utah; Numerous agencies responding,https://t.co/85Afh2i8Dj,2.0,2.0
 31.21155,-99.087012,"‘Active Attack’ reported at LBJ Early College Highschool in Austin, Texas",https://t.co/nFvZ2vf2RT,2.0,2.0
 32.876795,-83.483814,Explosion reported at apartment complex in Atlanta’s northern suburb,https://t.co/ptWabm4OqK,2.0,2.0
--13.4057,167.368,earthquake occurred in Vanuatu (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286012,3.0,3.0
--13.4301,167.4095,earthquake occurred in Vanuatu (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286007,3.0,3.0
--58.8803,-24.6626,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286001,3.0,3.0
--58.8597,-24.7349,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285998,3.0,3.0
-33.4,129.2,Tropical Storm( 287 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3.0,3.0
--11.4909,162.1619,earthquake occurred in Solomon Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285958,3.0,3.0
+50.4489,159.2777,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286140,3.0,3.0
+38.0,-69.3,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000828,3.0,3.0
+-7.8859,104.1747,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286119,3.0,3.0
+-15.712,-173.7088,earthquake occurred in Samoa (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286109,3.0,3.0
+34.1,136.6,Tropical Storm( 287 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000824,3.0,3.0
 63.503,130.833,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015084,3.0,3.0
 -36.429,-71.367,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -51,8 +50,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.535,42.986,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -17.539,-56.513,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-54.9112,-156.2753,earthquake occurred in United States (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285953,3.0,3.0
-16.9835,-96.1409,earthquake occurred in Mexico (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285952,3.0,3.0
--23.8225,-179.7156,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285934,3.0,3.0
--31.8107,-72.219,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285929,3.0,3.0
-55.0291,-156.4898,earthquake occurred in United States (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1285924,3.0,3.0
+38.5006,73.4455,earthquake occurred in Tajikistan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286074,3.0,3.0
+48.2348,153.9605,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286064,3.0,3.0
+30.1198,69.3124,earthquake occurred in Pakistan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286060,3.0,3.0
+-11.1869,162.0632,earthquake occurred in Solomon Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286063,3.0,3.0
+-28.2292,-177.6052,earthquake occurred in Kermadec Islands Region (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286052,3.0,3.0
