@@ -41,4 +41,3 @@ def convert_abbreviation(abbrev: str) -> str:
         converted = 'Turkey'
 
     return converted
-
