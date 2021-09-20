@@ -31,14 +31,9 @@ Lat,Lon,Title,Link,Condition,Impact
 36.270146,-119.650223,"Multiple people shot at Pizzeria in Merced, California",https://t.co/WodaX6CuOH,2.0,2.0
 39.06688,-111.276458,Shots fired at officers during pursuit in Utah; Numerous agencies responding,https://t.co/85Afh2i8Dj,2.0,2.0
 31.21155,-99.087012,"‘Active Attack’ reported at LBJ Early College Highschool in Austin, Texas",https://t.co/nFvZ2vf2RT,2.0,2.0
-28.7099,96.3797,earthquake occurred in India (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286290,3.0,3.0
-18.0,-53.5,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000829,3.0,3.0
-36.2962,137.7158,earthquake occurred in Japan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286283,3.0,3.0
--13.4463,167.4636,earthquake occurred in Vanuatu (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286261,3.0,3.0
--15.8115,-72.0314,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286254,3.0,3.0
--37.5252,179.3382,earthquake occurred in New Zealand (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286246,3.0,3.0
--30.0188,-71.6736,earthquake occurred in Chile (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286230,3.0,3.0
--20.068,-175.6226,earthquake occurred in Tonga (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286227,3.0,3.0
+15.9,-32.6,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000830,3.0,3.0
+19.1,-59.5,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000829,3.0,3.0
+-23.4578,179.1657,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286401,3.0,3.0
 63.503,130.833,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015084,3.0,3.0
 -36.429,-71.367,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -53,11 +48,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.535,42.986,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -17.539,-56.513,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--7.3315,106.6143,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286223,3.0,3.0
--7.0925,155.682,earthquake occurred in Solomon Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286219,3.0,3.0
-39.1,-65.1,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000828,3.0,3.0
--9.7763,148.564,earthquake occurred in Papua New Guinea (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286211,3.0,3.0
-34.2903,141.1386,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286214,3.0,3.0
--8.4439,127.8745,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286193,3.0,3.0
--50.0698,120.0012,earthquake occurred in Western Indian-Antarctic Ridge (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286184,3.0,3.0
-13.2668,-89.5872,earthquake occurred in El Salvador (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286168,3.0,3.0
+-58.7163,-23.7511,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286357,3.0,3.0
+25.2231,94.8718,earthquake occurred in Myanmar (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286343,3.0,3.0
+3.4879,-82.6684,earthquake occurred in Ecuador (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286330,3.0,3.0
