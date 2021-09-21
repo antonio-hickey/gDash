@@ -33,23 +33,31 @@ Lat,Lon,Title,Link,Condition,Impact
 36.270146,-119.650223,Emergency crews responding to possible plane crash north of Los Angeles,https://t.co/IoC2s6fH4c,2.0,2.0
 36.270146,-119.650223,"Multiple people shot at Pizzeria in Merced, California",https://t.co/WodaX6CuOH,2.0,2.0
 39.06688,-111.276458,Shots fired at officers during pursuit in Utah; Numerous agencies responding,https://t.co/85Afh2i8Dj,2.0,2.0
-15.9,-32.6,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000830,3.0,3.0
-19.1,-59.5,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000829,3.0,3.0
--23.4578,179.1657,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286401,3.0,3.0
-63.503,130.833,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015084,3.0,3.0
--36.429,-71.367,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
-44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
--6.199,-50.195,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
-26.789,95.208,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
-6.501,8.819,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
-40.5,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
--1.035,40.423,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
-49.519,-103.523,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
-49.106,60.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+40.1,-71.2,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000815,3.0,3.0
+-8.3539,-74.3764,earthquake occurred in Peru (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282858,3.0,3.0
+25.1,125.3,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000813,3.0,3.0
+-57.4351,-24.7183,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282845,3.0,3.0
+37.5479,141.8542,earthquake occurred in Japan (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282839,3.0,3.0
+-60.1218,-24.3444,earthquake occurred in South Georgia and the South Sandwich Islands (6.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282826,3.0,3.0
+-33.694,-70.093,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
+44.391,17.976,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
+-6.099,-50.359,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
+26.229,95.357,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
+8.487,7.754,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
+39.996,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
+-0.266,41.459,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
+47.946,-103.82,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
+48.41,61.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
-38.535,42.986,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
--17.539,-56.513,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--58.7163,-23.7511,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286357,3.0,3.0
-25.2231,94.8718,earthquake occurred in Myanmar (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286343,3.0,3.0
-3.4879,-82.6684,earthquake occurred in Ecuador (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286330,3.0,3.0
+37.602,42.576,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
+-18.184,-55.449,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
+-18.1998,-70.2889,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282816,3.0,3.0
+36.0225,142.5698,earthquake occurred in Japan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282815,3.0,3.0
+19.6,-100.1,Tropical Storm( 194 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000814,3.0,3.0
+33.7467,141.5326,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282804,3.0,3.0
+-58.6114,-23.9192,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282784,3.0,3.0
+1.1812,127.144,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282779,3.0,3.0
+-58.7333,-23.8441,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282786,3.0,3.0
+-58.4319,-23.4028,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282787,3.0,3.0
+-59.6072,-23.9219,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1282789,3.0,3.0
