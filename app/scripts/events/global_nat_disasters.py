@@ -8,8 +8,6 @@ Targeted output data:
     - [Lat, Lon, Title, Link, Condition, Impact]
  """
 import csv
-import os
-import pathlib
 
 import requests as req
 from bs4 import BeautifulSoup as bs
@@ -101,8 +99,7 @@ for ith in range(len(event)):
     _list = [lats[ith], lons[ith], descrips[ith], links[ith], scores[ith], scores[ith]]
     rows.append(_list)
 
-APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-filename = (os.path.join(APP_PATH, '../../data/events/GND.csv'))
+filename = 'app/data/events/GND.csv'
 with open(filename, 'w') as csvfile:
     csvwrite = csv.writer(csvfile)
     csvwrite.writerow(col)

@@ -11,10 +11,7 @@ Targeted output data:
 
 import csv
 import json
-import os
-import pathlib
 
-# Import Modules
 import requests as req
 
 from app.util.links import CFR_API
@@ -49,10 +46,9 @@ for dp in data:
 
     rows.append([lat, lon, title, link, condition, impact])
 
-APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-filename = (os.path.join(APP_PATH, "../../data/events/geoConflicts.csv"))
+filename = "app/data/events/geoConflicts.csv"
 cols = ['Lat', 'Lon', 'Title', 'Link', 'Condition', 'Impact']
-with open(filename, 'a') as csvfile:
+with open(filename, 'w') as csvfile:
     csvwriter = csv.writer(csvfile)
     csvwriter.writerow(cols)
     for row in rows:

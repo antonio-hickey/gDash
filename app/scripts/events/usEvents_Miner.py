@@ -19,10 +19,7 @@ and active incidents as they occur in the US. https://twitter.com/IntelPointAler
 
 
 import csv
-# Import modules
 import datetime as dt
-import os
-import pathlib
 
 import tweepy
 
@@ -946,8 +943,7 @@ for tweet in tweets:
             descrip.append(filtered)
 
 # Export to csv
-APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-filename = (os.path.join(APP_PATH, "../../data/events/usEvents.csv"))
+filename = "app/data/events/usEvents.csv"
 cols = ['Lat', 'Lon', 'Title', 'Link', 'Condition', 'Impact']
 nRows = len(lat)
 with open(filename, 'w') as csvfile:

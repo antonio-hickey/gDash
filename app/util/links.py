@@ -1,4 +1,3 @@
-
 OWID_COVID = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv"
 CFR_API = "https://microsites-live-backend.cfr.org/conflict/map/json"
 GDACS = "https://www.gdacs.org/xml/rss_24h.xml"

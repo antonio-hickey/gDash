@@ -1,6 +1,3 @@
-import os
-import pathlib
-
 import pandas as pd
 
 df = pd.read_csv('app/data/covid/world_c19.csv')
@@ -19,9 +16,7 @@ new_df = pd.DataFrame({
     '-2 Sigma': down_sigma,
 })
 
-APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-filename = (os.path.join(APP_PATH, "../../data/covid/dataset.csv"))
-
+filename = "app/data/covid/dataset.csv"
 new_df.to_csv(
     filename,
     mode='w',
