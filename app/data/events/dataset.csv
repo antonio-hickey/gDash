@@ -28,19 +28,15 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 35.843349,-86.584571,Active shooter situation leaves multiple injured at Kroger Grocery in Tennessee,https://t.co/iAFsr51Xsc,2.0,2.0
 30.632183,-92.039792,Smoke seen billowing from Superdome Stadium in New Orleans,https://t.co/HuA74B3nTt,2.0,2.0
-51.1957,-179.0286,earthquake occurred in United States (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287047,3.0,3.0
-2.8614,127.2309,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287044,3.0,3.0
-12.064,-88.1588,earthquake occurred in Nicaragua (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287033,3.0,3.0
-11.5,-42.2,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000833,3.0,3.0
--27.7704,-176.833,earthquake occurred in Kermadec Islands Region (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287021,3.0,3.0
-51.1938,-179.0569,earthquake occurred in United States (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287013,3.0,3.0
-2.1098,126.7,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287011,3.0,3.0
-18.8,92.1,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000834,2.0,2.0
-15.4,140.3,Tropical Storm( 241 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000831,3.0,3.0
-15.2573,-93.1335,earthquake occurred in Mexico (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286990,3.0,3.0
--21.3951,-173.7673,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286970,3.0,3.0
+34.5,-65.5,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000835,3.0,3.0
+12.8,-46.7,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000833,3.0,3.0
+18.2,89.1,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000834,2.0,2.0
+17.6,137.6,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000831,3.0,3.0
+-53.4104,23.5811,earthquake occurred in South Of Africa (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287150,3.0,3.0
+30.3316,94.775,earthquake occurred in China (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287148,3.0,3.0
+16.8242,-61.1636,earthquake occurred in Guadeloupe (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287145,3.0,3.0
+70.1457,129.7257,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287144,3.0,3.0
 -4.766,22.404,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
-28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
 -36.372,-71.317,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -6.166,-50.079,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
@@ -53,8 +49,5 @@ Lat,Lon,Title,Link,Condition,Impact
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.647,43.369,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
--29.7695,-177.0295,"earthquake occurred in Kermadec Islands, New Zealand (4.7M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286968,3.0,3.0
-12.1795,-87.8633,earthquake occurred in Nicaragua (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286960,3.0,3.0
--7.111,155.8488,earthquake occurred in Solomon Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286940,3.0,3.0
-23.1857,-108.0914,earthquake occurred in Mexico (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286922,3.0,3.0
--59.8405,-26.652,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1286935,3.0,3.0
+22.9267,-107.9445,earthquake occurred in Mexico (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287098,3.0,3.0
+8.6254,94.1289,earthquake occurred in India (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287077,3.0,3.0
