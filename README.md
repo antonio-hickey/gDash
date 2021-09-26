@@ -9,7 +9,7 @@
 
 <img src="https://i.ibb.co/2szdHtP/2021-09-25-19-17.png" width="800" />
 
-Open Source Intelligence Dashboard for watching current event's unfold. Leveraging osint, python, and web framework's for user's to spectate the macro world.
+Open Source Intelligence Dashboard for watching current event's unfold. Leveraging osint, python, and web frameworks for user's to spectate the macro world.
 
 ## Getting Started
 
