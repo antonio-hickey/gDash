@@ -1,4 +1,5 @@
 """
+
 Collecting data on conflict worldwide
 
 Source:

@@ -1,6 +1,4 @@
-"""
-Handler.py : Concatenate individual datsets into one dataset
-"""
+"""Handler.py : Concatenate individual datsets into one dataset"""
 
 import pandas as pd
 
