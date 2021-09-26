@@ -3,6 +3,7 @@ import plotly.express as px
 
 
 class Model:
+    '''Mapbox Plotly Figure Model'''
     def __init__(self, link: str, token: str) -> None:
         self.data = pd.read_csv(link)
         self.token = token

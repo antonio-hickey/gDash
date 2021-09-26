@@ -3,6 +3,7 @@ import plotly.express as px
 
 
 class Model:
+    '''GDP Plotly Figure Model'''
     def __init__(self, link: str) -> None:
         self.data = pd.read_csv(link)
 
