@@ -221,8 +221,8 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
     font-size: 50%;
     background-color: #ffffff;
-    max-width: 100% !important;
-    width: 100% !important;
+    max-width: 100%;
+    width: 100%;
     margin: 0;
 }
 
@@ -332,7 +332,7 @@ p {
 }
 
 #slider-text, #chart-selector {
-    margin-bottom: 2rem !important;
+    margin-bottom: 2rem;
     font-size: 2rem;
 }
 
@@ -650,15 +650,15 @@ hr {
 }
 
 .rc-slider-dot-active, .rc-slider-handle {
-    border-color: #3c6e71 !important;
+    border-color: #3c6e71;
 }
 
 .rc-slider-track {
-    background-color: #3c6e71 !important
+    background-color: #3c6e71;
 }
 
 .rc-slider-rail {
-    background-color: #1d2731 !important
+    background-color: #1d2731;
 }
 
 /* Heatmap
@@ -762,11 +762,11 @@ hr {
     }
 
     #selected-data .xtick text{
-        font-size: 1.1rem !important;
+        font-size: 1.1rem;
     }
 
     #selected-data .gtitle{
-        font-size: 1.7rem !important;
+        font-size: 1.7rem;
     }
 }
 
@@ -782,34 +782,34 @@ hr {
 }
 
 .Select-control {
-    color: #353535 !important;
+    color: #353535;
 }
 
 .Select {
-    color: #353535 !important;
+    color: #353535;
 }
 
 .Select-menu-outer {
-    background-color: #ffffff !important;
-    border: 1px solid #353535 !important;
+    background-color: #ffffff;
+    border: 1px solid #353535;
 }
 
 .Select div {
-    background-color: #ffffff !important;
+    background-color: #ffffff;
 }
 
 .Select-menu-outer div:hover {
-    background-color: rgba(255, 255, 255, 0.01) !important;
+    background-color: rgba(60, 110, 113, 0.05);
     cursor: pointer;
 }
 
 .Select-value-label {
-    color: #353535 !important;
+    color: #353535;
 }
 
 .Select--single > .Select-control .Select-value, .Select-placeholder {
-    border: 1px solid #353535 !important;
-    border-radius: 4px !important;
+    border: 1px solid #353535;
+    border-radius: 4px;
 }
 
 /* Placement
@@ -844,7 +844,7 @@ hr {
 
 
 div, svg {
-    user-select: none !important;
+    user-select: none;
 }
 
 ._dash-undo-redo {
