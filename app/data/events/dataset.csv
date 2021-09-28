@@ -27,14 +27,13 @@ Lat,Lon,Title,Link,Condition,Impact
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 35.843349,-86.584571,Active shooter situation leaves multiple injured at Kroger Grocery in Tennessee,https://t.co/iAFsr51Xsc,2.0,2.0
-36.6806,141.1992,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287404,3.0,3.0
-35.032,25.208,earthquake occurred in Greece (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287399,3.0,3.0
-15.2,-51.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000833,3.0,3.0
-35.3375,25.2595,earthquake occurred in Greece (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287375,3.0,3.0
-35.1689,25.2732,earthquake occurred in Greece (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287366,3.0,3.0
-35.2523,25.2595,earthquake occurred in Greece (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287361,3.0,3.0
-19.9,136.6,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000831,3.0,3.0
-38.2061,73.0761,earthquake occurred in Tajikistan (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287357,3.0,3.0
+17.2,-53.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000833,3.0,3.0
+0.4953,126.449,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287533,3.0,3.0
+21.7,135.7,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000831,3.0,3.0
+35.1583,25.2234,earthquake occurred in Greece (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287523,3.0,3.0
+-23.7592,-67.8277,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287514,3.0,3.0
+8.0008,-38.6786,earthquake occurred in Central Mid-Atlantic Ridge (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287512,3.0,3.0
+18.8,-69.416,earthquake occurred in Dominican Republic (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287494,3.0,3.0
 -4.766,22.404,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
 -36.372,-71.317,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
@@ -49,10 +48,7 @@ Lat,Lon,Title,Link,Condition,Impact
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.647,43.369,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
--30.0954,-177.4451,"earthquake occurred in Kermadec Islands, New Zealand (4.7M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287325,3.0,3.0
--5.3439,146.626,earthquake occurred in Papua New Guinea (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287319,3.0,3.0
-10.5114,138.8761,earthquake occurred in (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287308,3.0,3.0
-18.3,83.5,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000834,3.0,3.0
-13.8988,120.7583,earthquake occurred in Philippines (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287297,3.0,3.0
-13.9269,120.5419,earthquake occurred in Philippines (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287293,3.0,3.0
--30.0224,-177.4764,"earthquake occurred in Kermadec Islands, New Zealand (4.6M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287298,3.0,3.0
+-6.852,-72.7301,earthquake occurred in Brazil (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287497,3.0,3.0
+35.2381,25.3162,earthquake occurred in Greece (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287474,3.0,3.0
+35.2448,25.2176,earthquake occurred in Greece (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287468,3.0,3.0
+-24.1912,-67.1409,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287455,3.0,3.0
