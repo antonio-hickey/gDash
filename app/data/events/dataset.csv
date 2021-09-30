@@ -29,16 +29,15 @@ Lat,Lon,Title,Link,Condition,Impact
 36.270146,-119.650223,Emergency crews responding to reports of a plane crash along San Diego’s coastline,https://t.co/r35qUoxDzF,2.0,2.0
 31.21155,-99.087012,"Emerging reports of an explosion and partial building collapse in Dallas, Texas",https://t.co/M7bo6gp7Je,2.0,2.0
 39.356961,-76.9165257,Stabbing incident reported at Annapolis High School in Maryland,https://t.co/Tq2dGkSL5Y,2.0,2.0
-18.9,-56.2,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000833,3.0,3.0
-38.8721,135.4642,earthquake occurred in Japan (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287722,3.0,3.0
--33.1658,-68.1304,earthquake occurred in Argentina (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287716,3.0,3.0
--17.025,-56.602,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--18.3283,-177.8163,earthquake occurred in Fiji (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287713,3.0,3.0
-24.2,135.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000831,3.0,3.0
--59.112,-25.6267,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287700,3.0,3.0
-56.3648,117.5404,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287690,3.0,3.0
--21.5729,170.5708,earthquake occurred in Vanuatu (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287684,3.0,3.0
--15.8555,166.4728,earthquake occurred in Vanuatu (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287668,3.0,3.0
+-21.5885,-66.6785,earthquake occurred in Bolivia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287882,3.0,3.0
+8.7,-27.3,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000836,3.0,3.0
+21.5,-59.1,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000833,3.0,3.0
+18.9946,122.234,earthquake occurred in Philippines (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287877,3.0,3.0
+38.5428,141.9819,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287876,3.0,3.0
+-29.998,-177.2751,"earthquake occurred in Kermadec Islands, New Zealand (4.8M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287868,3.0,3.0
+28.0,137.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000831,3.0,3.0
+18.4059,145.9504,earthquake occurred in Northern Mariana Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287848,3.0,3.0
+19.421,-155.287,Volcano Kilauea is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000032,3.0,3.0
 8.248,30.501,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -4.936,22.509,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
@@ -54,8 +53,10 @@ Lat,Lon,Title,Link,Condition,Impact
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.647,43.369,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
--59.7008,-26.2701,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287657,3.0,3.0
--22.4306,179.5925,earthquake occurred in Fiji (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287637,3.0,3.0
--24.6204,-178.865,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287629,3.0,3.0
-10.4573,139.0239,earthquake occurred in (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287623,3.0,3.0
-35.2721,25.3055,earthquake occurred in Greece (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287613,3.0,3.0
+-17.025,-56.602,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
+53.2692,170.9639,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287820,3.0,3.0
+36.4645,27.1807,earthquake occurred in Greece (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287809,3.0,3.0
+27.7044,127.679,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287812,3.0,3.0
+-22.8358,171.7233,earthquake occurred in Vanuatu (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287793,3.0,3.0
+-1.3278,123.6876,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287783,3.0,3.0
+5.5514,124.7931,earthquake occurred in Philippines (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1287779,3.0,3.0
