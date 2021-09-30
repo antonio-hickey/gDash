@@ -3,7 +3,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antonio-hickey/gDash/pre-commit)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/22cde5cda31d4f62ad1c627c715574b1)](https://www.codacy.com/gh/antonio-hickey/gDash/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=antonio-hickey/gDash&amp;utm_campaign=Badge_Grade)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/antonio-hickey/gDash)
-![XMR Address For Tips](https://img.shields.io/badge/Send%20Tip%20Via%20XMR-47piAitS3GiizBzZGywkyM7AEk5pnUGdYCCppXniARzoTuZ1fCSEiAYS1zPzdCdNuoC9wHVphYWJihTjyBesyEid5cojbZj-brightgreen)
+![XMR Address For Tips](https://img.shields.io/badge/Send%20Tip%20Via%20XMR-47piAitS3GiizBzZGywkyM7AEk5pnUGdYCCppXniARzoTuZ1fCSEiAYS1zPzdCdNuoC9wHVphYWJihTjyBesyEid5cojbZj-blue)
 
 
 
