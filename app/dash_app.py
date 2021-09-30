@@ -41,7 +41,7 @@ app.layout = html.Div(
                             children=[
                                 dcc.Graph(
                                     id="map",
-                                    figure=mapbox.figure(CE_DF, MAPBOX_TOKEN),
+                                    figure=mapbox.Model(CE_DF, MAPBOX_TOKEN).Figure(),
                                 ),
                             ],
                         ),
@@ -96,11 +96,11 @@ app.layout = html.Div(
 )
 def data_display(chart_dropdown):
     if chart_dropdown == "covid":
-        return covid.Figure(C19_DF)
+        return covid.Model(C19_DF).Figure()
     elif chart_dropdown == "econ":
-        return economics.Figure(GDP_DF)
+        return economics.Model(GDP_DF).Figure()
     elif chart_dropdown == "pop":
-        return population.Figure(POP_DF)
+        return population.Model(POP_DF).Figure()
     elif chart_dropdown == "elec":
         # TODO (just a placeholder for now)
-        return covid.Figure(C19_DF)
+        return covid.Model(C19_DF).Figure()

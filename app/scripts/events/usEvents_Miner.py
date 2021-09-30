@@ -1,4 +1,5 @@
 """
+
 gDash
 By: Antonio Hickey
 
@@ -15,6 +16,7 @@ and active incidents as they occur in the US. https://twitter.com/IntelPointAler
         - Store data
 2. Export collected data to csv for use in app
     - filename: "local_events.csv"
+
 """
 
 

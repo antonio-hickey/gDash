@@ -1,8 +1,15 @@
 # gDash ( g- ) Open Source Intelligence Dashboard
+![GitHub](https://img.shields.io/github/license/antonio-hickey/gDash)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antonio-hickey/gDash/pre-commit)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/22cde5cda31d4f62ad1c627c715574b1)](https://www.codacy.com/gh/antonio-hickey/gDash/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=antonio-hickey/gDash&amp;utm_campaign=Badge_Grade)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/antonio-hickey/gDash)
+![XMR Address For Tips](https://img.shields.io/badge/Send%20Tip%20Via%20XMR-47piAitS3GiizBzZGywkyM7AEk5pnUGdYCCppXniARzoTuZ1fCSEiAYS1zPzdCdNuoC9wHVphYWJihTjyBesyEid5cojbZj-brightgreen)
 
-![alt text](https://i.ibb.co/9ckGBZp/2021-04-13-05-09.png)
 
-Open Source Intelligence Dashboard for watching current event's unfold. Leveraging osint, python, and web framework's for user's to spectate the macro world.
+
+<img src="https://i.ibb.co/2szdHtP/2021-09-25-19-17.png" width="800" />
+
+Open Source Intelligence Dashboard for watching current event's unfold. Leveraging osint, python, and web frameworks for user's to spectate the macro world.
 
 ## Getting Started
 
