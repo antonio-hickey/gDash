@@ -28,18 +28,16 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 36.270146,-119.650223,"Active shooter firing towards police in downtown Los Angeles, California",https://t.co/FCn3blnn8Y,2.0,2.0
 34.446561,-86.636516,Major pileup crash reported with several vehicles on fire south of Phoenix,https://t.co/tdWLjRHEoL,2.0,2.0
-3.3673,122.9645,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289475,3.0,3.0
--16.6077,-72.1844,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289456,3.0,3.0
-14.3,-102.9,Tropical Storm( 176 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000840,2.0,2.0
-17.5,127.9,Tropical Storm( 130 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000839,1.0,1.0
-17.1,159.6,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000838,3.0,3.0
-20.8,106.6,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000837,3.0,3.0
--56.6922,-27.3418,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289440,3.0,3.0
--8.7782,-74.6782,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289425,3.0,3.0
-30.3576,94.824,earthquake occurred in China (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289412,3.0,3.0
--11.7378,-71.7073,earthquake occurred in Peru (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289391,3.0,3.0
+56.2584,-156.5532,earthquake occurred in United States (6.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289632,3.0,3.0
+-7.0554,156.051,earthquake occurred in Solomon Islands (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289631,3.0,3.0
+18.9,123.1,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000839,2.0,2.0
+18.6,155.9,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000838,3.0,3.0
+-9.0314,122.3758,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289602,3.0,3.0
+15.9,-106.8,Tropical Storm( 185 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000840,1.0,1.0
+-22.3845,-67.4727,earthquake occurred in Bolivia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289598,3.0,3.0
 8.248,30.501,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -4.936,22.509,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
+28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
 -36.124,-71.068,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -6.166,-50.079,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
@@ -53,7 +51,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.647,43.369,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -17.025,-56.602,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--21.1246,-68.884,earthquake occurred in Chile (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289385,3.0,3.0
--4.6488,153.0318,earthquake occurred in Papua New Guinea (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289353,3.0,3.0
--15.6589,-71.8162,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289340,3.0,3.0
--15.6781,-72.1257,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289315,3.0,3.0
+18.8203333333333,-155.527166666667,earthquake occurred in United States (6.21M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289561,3.0,3.0
+30.4075,94.7766,earthquake occurred in China (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289534,3.0,3.0
+27.4402,55.2379,earthquake occurred in Islamic Republic of Iran (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289532,3.0,3.0
+57.8816,-32.7245,earthquake occurred in Reykjanes Ridge (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289531,3.0,3.0
+30.05,67.9376,earthquake occurred in Pakistan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1289517,3.0,3.0
