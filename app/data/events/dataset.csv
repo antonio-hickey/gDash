@@ -27,15 +27,11 @@ Lat,Lon,Title,Link,Condition,Impact
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 36.270146,-119.650223,"Emerging report of a plane crash into several homes near San Diego, California",https://t.co/kIG2vGUFui,2.0,2.0
-6.0204,126.0136,earthquake occurred in Philippines (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290132,3.0,3.0
--24.3206,-179.7496,earthquake occurred in South Of Fiji Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290126,3.0,3.0
-19.5,106.7,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000839,3.0,3.0
-24.2,157.2,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000838,3.0,3.0
--15.0851,167.4023,earthquake occurred in Vanuatu (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290123,3.0,3.0
--36.3642,52.4068,earthquake occurred in Southwest Indian Ridge (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290116,3.0,3.0
--16.3201,-73.1125,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290114,3.0,3.0
-18.4056,-68.2769,earthquake occurred in Dominican Republic (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290112,3.0,3.0
-27.5,-101.5,Tropical Storm( 130 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000840,3.0,3.0
+26.2,161.6,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000838,3.0,3.0
+-8.5508,32.1898,earthquake occurred in Tanzania (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290301,3.0,3.0
+-24.4347,-68.9389,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290287,3.0,3.0
+3.6021,123.2846,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290288,3.0,3.0
+-8.8768,158.4815,earthquake occurred in Solomon I(6.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290280,3.0,3.0
 8.248,30.501,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -4.936,22.509,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
@@ -52,5 +48,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.647,43.369,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -17.025,-56.602,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--14.148,167.3859,earthquake occurred in Vanuatu (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290070,3.0,3.0
--62.9348,-161.209,earthquake occurred in Pacific-Antarctic Ridge (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290048,3.0,3.0
+6.7359,127.3306,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290229,3.0,3.0
+-7.1103,130.0229,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290225,3.0,3.0
+1.2099,126.1761,earthquake occurred in Indonesia (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290182,3.0,3.0
