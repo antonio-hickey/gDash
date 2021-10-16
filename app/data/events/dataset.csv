@@ -28,14 +28,15 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 32.816427,-86.636516,"Several people shot at highschool football game in Mobile, Alabama",https://t.co/cdjuDHuZjV,2.0,2.0
 36.270146,-119.650223,"Emerging report of a plane crash into several homes near San Diego, California",https://t.co/kIG2vGUFui,2.0,2.0
-26.2,161.6,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000838,3.0,3.0
--8.5508,32.1898,earthquake occurred in Tanzania (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290301,3.0,3.0
--24.4347,-68.9389,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290287,3.0,3.0
-3.6021,123.2846,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290288,3.0,3.0
--8.8768,158.4815,earthquake occurred in Solomon I(6.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290280,3.0,3.0
+31.0265,56.4279,earthquake occurred in Islamic Republic of Iran (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290512,3.0,3.0
+0.8485,126.2646,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290505,3.0,3.0
+11.5443,-60.0351,earthquake occurred in Trinidad and Tobago (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290478,3.0,3.0
+-42.2793,-72.2643,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290479,3.0,3.0
+30.8,165.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000838,3.0,3.0
+45.8468,149.2681,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290450,3.0,3.0
+-0.328,29.8201,earthquake occurred in Uganda (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290426,3.0,3.0
 8.248,30.501,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -4.936,22.509,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
-28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
 -36.124,-71.068,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
 -6.166,-50.079,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014268,3.0,3.0
@@ -49,6 +50,9 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 38.647,43.369,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,2.0,2.0
 -17.025,-56.602,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-6.7359,127.3306,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290229,3.0,3.0
--7.1103,130.0229,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290225,3.0,3.0
-1.2099,126.1761,earthquake occurred in Indonesia (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290182,3.0,3.0
+-5.0628,102.885,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290422,3.0,3.0
+-8.3484,115.461,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290394,3.0,3.0
+17.1528,-85.131,earthquake occurred in Honduras (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290384,3.0,3.0
+5.4921,126.9907,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290375,3.0,3.0
+9.9933,41.6294,earthquake occurred in Ethiopia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290377,3.0,3.0
+8.8327,126.3554,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1290368,3.0,3.0
