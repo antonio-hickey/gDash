@@ -30,15 +30,10 @@ Lat,Lon,Title,Link,Condition,Impact
 31.21155,-99.087012,"Airplane crash reported near Houston Executive Airport in Houston, Texas",https://t.co/DFIK4ObUGE,2.0,2.0
 40.385585,-88.99722,"Chicago Police officer shot in face by gunman, suspect now in custody",https://t.co/g97tiYd92M,2.0,2.0
 36.270146,-119.650223,"Major fire and explosion reported at industrial complex in Los Angeles, California",https://t.co/orhPAqqjsH,2.0,2.0
--6.9231,129.9346,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291750,3.0,3.0
-13.9,-101.4,Tropical Storm( 185 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000841,2.0,2.0
--24.1692,-67.187,earthquake occurred in Argentina (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291731,3.0,3.0
--57.4893,-25.7397,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291730,3.0,3.0
-24.0245,121.785,earthquake occurred in China (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291708,3.0,3.0
-51.5135,178.8367,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291707,3.0,3.0
--33.2638,-71.7769,earthquake occurred in Chile (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291697,3.0,3.0
--36.9426,-72.8481,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291691,3.0,3.0
--56.2695,-27.9672,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291674,3.0,3.0
+15.6,-101.7,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000841,2.0,2.0
+12.5,139.3,Tropical Storm( 148 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
+24.5714,121.8303,earthquake occurred in China (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291896,3.0,3.0
+1.5675,126.4385,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291881,3.0,3.0
 8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -7.353,21.512,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 -35.692,-71.279,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
@@ -53,5 +48,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 39.5,46.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,3.0,3.0
 -18.084,-56.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-51.3611,90.8294,earthquake occurred in Russian Federation (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291661,3.0,3.0
--17.0933,-173.8304,earthquake occurred in Tonga (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291650,3.0,3.0
+-4.6319,102.0482,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291844,3.0,3.0
+8.5344,127.1032,earthquake occurred in Philippines (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291840,3.0,3.0
+17.3016,-62.1067,earthquake occurred in Antigua and Barbuda (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291836,3.0,3.0
