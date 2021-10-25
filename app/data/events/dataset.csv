@@ -29,10 +29,13 @@ Lat,Lon,Title,Link,Condition,Impact
 40.385585,-88.99722,"Major damage reported following tornado emergency in Chester, Illinois",https://t.co/9mbVHF6bB6,2.0,2.0
 38.735015,-92.480738,"Large, violent tornado spotted moving through the town of Purdin, Missouri",https://t.co/i6sKNWH46A,2.0,2.0
 40.708446,-77.797431,Man armed with machete and propane tanks blocking traffic on I-95 in Philadelphia,https://t.co/f0g5FoFOvW,2.0,2.0
-15.6,-101.7,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000841,2.0,2.0
-12.5,139.3,Tropical Storm( 148 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
-24.5714,121.8303,earthquake occurred in China (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291896,3.0,3.0
-1.5675,126.4385,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291881,3.0,3.0
+17.7,-101.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000841,2.0,2.0
+-9.3149,107.8242,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292159,3.0,3.0
+18.3,138.4,Tropical Storm( 148 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
+-5.3964,152.5386,earthquake occurred in Papua New Guinea (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292150,3.0,3.0
+-29.8228,-177.4283,"earthquake occurred in Kermadec Islands, New Zealand (4.9M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292143,3.0,3.0
+0.5299,123.5554,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292127,3.0,3.0
+28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
 8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -7.353,21.512,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 -35.692,-71.279,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
@@ -47,6 +50,7 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 39.5,46.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,3.0,3.0
 -18.084,-56.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--4.6319,102.0482,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291844,3.0,3.0
-8.5344,127.1032,earthquake occurred in Philippines (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291840,3.0,3.0
-17.3016,-62.1067,earthquake occurred in Antigua and Barbuda (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1291836,3.0,3.0
+3.0379,127.9743,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292078,3.0,3.0
+-21.965,179.9548,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292070,3.0,3.0
+86.307,34.585,earthquake occurred in North Of Svalbard (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292038,3.0,3.0
+-57.3052,-25.3153,earthquake occurred in South Georgia and the South Sandwich Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292026,3.0,3.0
