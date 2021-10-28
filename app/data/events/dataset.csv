@@ -31,16 +31,11 @@ Lat,Lon,Title,Link,Condition,Impact
 32.816427,-86.636516,"Active shooter reported at Boise Towne Square Mall in Boise, Idaho",https://t.co/8v2r4CViBG,2.0,2.0
 40.385585,-88.99722,"Major damage reported following tornado emergency in Chester, Illinois",https://t.co/9mbVHF6bB6,2.0,2.0
 38.735015,-92.480738,"Large, violent tornado spotted moving through the town of Purdin, Missouri",https://t.co/i6sKNWH46A,2.0,2.0
-1.4308,127.109,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292382,3.0,3.0
--59.3975,-25.0135,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292378,3.0,3.0
-55.8464,113.5363,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292376,3.0,3.0
-11.7,111.0,Tropical Storm( 56 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000843,3.0,3.0
-19.5,138.7,Tropical Storm( 148 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
-7.5211,126.6716,earthquake occurred in Philippines (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292365,3.0,3.0
--58.3404,-14.8131,earthquake occurred in East Of South Sandwich Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292363,3.0,3.0
--32.8438,-70.7042,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292346,3.0,3.0
-20.4,-103.1,Tropical Storm( 167 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000841,3.0,3.0
-33.2066,76.8525,earthquake occurred in India (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292321,3.0,3.0
+-6.2811,130.1942,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292819,3.0,3.0
+-22.8447,-174.9461,earthquake occurred in Tonga (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292810,3.0,3.0
+24.8,141.5,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
+12.868,124.5322,earthquake occurred in Philippines (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292807,3.0,3.0
+-7.4529,128.4986,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292785,3.0,3.0
 8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -7.353,21.512,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 -35.692,-71.279,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
@@ -55,10 +50,4 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 39.5,46.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,3.0,3.0
 -18.084,-56.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-35.7758333,-121.3043333,earthquake occurred in United States (4.65M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292312,3.0,3.0
-49.8267,155.8366,earthquake occurred in Russian Federation (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292319,3.0,3.0
--3.2945,140.9239,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292303,3.0,3.0
--8.7572,67.127,earthquake occurred in Mid-Indian Ridge (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292292,3.0,3.0
--24.1326,179.9771,earthquake occurred in South Of Fiji Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292254,3.0,3.0
-19.3302,144.6343,earthquake occurred in Northern Mariana Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292247,3.0,3.0
-2.8204,95.4374,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292238,3.0,3.0
+-5.9615,128.7543,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292725,3.0,3.0
