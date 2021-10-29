@@ -30,11 +30,14 @@ Lat,Lon,Title,Link,Condition,Impact
 31.21155,-99.087012,"Major damage reported following direct tornado hit in Deweyville, Texas",https://t.co/bzO7wtejie,2.0,2.0
 32.816427,-86.636516,"Active shooter reported at Boise Towne Square Mall in Boise, Idaho",https://t.co/8v2r4CViBG,2.0,2.0
 40.385585,-88.99722,"Major damage reported following tornado emergency in Chester, Illinois",https://t.co/9mbVHF6bB6,2.0,2.0
--6.2811,130.1942,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292819,3.0,3.0
--22.8447,-174.9461,earthquake occurred in Tonga (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292810,3.0,3.0
-24.8,141.5,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
-12.868,124.5322,earthquake occurred in Philippines (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292807,3.0,3.0
--7.4529,128.4986,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292785,3.0,3.0
+21.0783,145.3232,earthquake occurred in Mariana Islands Region (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293066,3.0,3.0
+14.921,54.8694,earthquake occurred in Oman (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293054,3.0,3.0
+-59.3025,-25.5752,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293034,3.0,3.0
+-59.1257,-25.6974,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293031,3.0,3.0
+41.5128,20.3157,earthquake occurred in Albania (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293019,3.0,3.0
+32.0,146.7,Tropical Storm( 157 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000842,3.0,3.0
+5.2456,125.5778,earthquake occurred in Philippines (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293006,3.0,3.0
+28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
 8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -7.353,21.512,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 -35.692,-71.279,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
@@ -49,4 +52,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 39.5,46.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,3.0,3.0
 -18.084,-56.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--5.9615,128.7543,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292725,3.0,3.0
+9.8784,138.1142,earthquake occurred in Palau (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292970,3.0,3.0
+-15.9975,-172.0555,earthquake occurred in Samoa (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292963,3.0,3.0
+55.0754,-158.8547,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1292936,3.0,3.0
