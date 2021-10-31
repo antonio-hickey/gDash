@@ -29,12 +29,12 @@ Lat,Lon,Title,Link,Condition,Impact
 31.21155,-99.087012,"Gunman has set home ablaze and is firing at police in Austin, Texas",https://t.co/ipKdEr2BjI,2.0,2.0
 31.21155,-99.087012,"Major damage reported following direct tornado hit in Deweyville, Texas",https://t.co/bzO7wtejie,2.0,2.0
 32.816427,-86.636516,"Active shooter reported at Boise Towne Square Mall in Boise, Idaho",https://t.co/8v2r4CViBG,2.0,2.0
--7.7089,125.4201,earthquake occurred in Indonesia (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293243,3.0,3.0
--51.441,139.1069,earthquake occurred in Western Indian-Antarctic Ridge (5.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293230,3.0,3.0
-44.0246,148.1128,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293228,3.0,3.0
--19.5798,-177.6581,earthquake occurred in Tonga (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293224,3.0,3.0
--41.4329,-83.3544,earthquake occurred in West Chile Rise (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293207,3.0,3.0
--57.0364,-27.1306,earthquake occurred in South Georgia and the South Sandwich Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293183,3.0,3.0
+-28.1924,-177.3586,earthquake occurred in Kermadec Islands Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293376,3.0,3.0
+36.5,-43.9,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000844,3.0,3.0
+19.5474,101.2802,earthquake occurred in Thailand (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293348,3.0,3.0
+-8.9021,158.481,earthquake occurred in Solomon Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293349,3.0,3.0
+-7.1095,129.0465,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293343,3.0,3.0
+-29.2754,-176.8077,earthquake occurred in Kermadec Islands Region (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293339,3.0,3.0
 8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
 -7.353,21.512,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
 -35.692,-71.279,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
@@ -49,9 +49,5 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 39.5,46.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,3.0,3.0
 -18.084,-56.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--15.2488,-74.1298,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293159,3.0,3.0
-2.1778,-76.6109,earthquake occurred in Colombia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293152,3.0,3.0
--15.0824,-74.0054,earthquake occurred in Peru (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293129,3.0,3.0
--29.44,-176.3001,earthquake occurred in Kermadec Islands Region (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293128,3.0,3.0
--22.7973,171.6169,earthquake occurred in Vanuatu (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293133,3.0,3.0
--23.8315,-179.6933,earthquake occurred in South Of Fiji Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293105,3.0,3.0
+-27.6546,73.924,earthquake occurred in Mid-Indian Ridge (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293302,3.0,3.0
+20.6483,121.2917,earthquake occurred in Philippines (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293280,3.0,3.0
