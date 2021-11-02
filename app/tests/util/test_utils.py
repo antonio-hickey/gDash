@@ -2,7 +2,6 @@ import unittest
 from unittest import TestCase, mock
 
 from app.util import Nations, geo, links
-from app.util.geo_locate import parse_data
 
 
 class TestUtils(unittest.TestCase):
@@ -52,7 +51,7 @@ s="keynav-mode-off" jstrack="1" tabindex="-1"> <script nonce="mZc0poUX8q+JcQhccz
             self.assertEqual(result, [30.267153, -97.7430608])
 
     def test_parse_data(self) -> None:
-        result = parse_data(str(self.demo_content))
+        result = geo.parse_data(str(self.demo_content))
         self.assertEqual(result, [30.267153, -97.7430608])
 
 
