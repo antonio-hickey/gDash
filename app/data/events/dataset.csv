@@ -29,37 +29,86 @@ Lat,Lon,Title,Link,Condition,Impact
 37.519345,-78.23024,Manhunt underway for gunman following mass shooting in southern Virginia,https://t.co/jPSIefw40S,2.0,2.0
 35.843349,-86.584571,Multiple people shot at Applebee’s restaurant in Tennessee,https://t.co/wPerA6BPOx,2.0,2.0
 40.708446,-77.797431,Numerous children injured following serious school bus crash in Pittsburgh,https://t.co/xloidms9ST,2.0,2.0
-28.1701,127.6382,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293985,3.0,3.0
-1.8544,126.6616,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293963,3.0,3.0
-38.0,-40.0,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000844,3.0,3.0
--60.3961,-24.2685,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293950,3.0,3.0
--24.1836,-175.8391,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293949,3.0,3.0
--24.4482,-176.106,earthquake occurred in Tonga (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293927,3.0,3.0
--32.7206,-70.172,earthquake occurred in Chile (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293926,3.0,3.0
-37.0394,141.3118,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293920,3.0,3.0
-0.2509,96.6579,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293884,3.0,3.0
--20.7707,-178.5253,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293882,3.0,3.0
-0.9201,98.5404,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293878,3.0,3.0
-28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
-8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
--7.353,21.512,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
--35.692,-71.279,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
+24.2538,68.412,earthquake occurred in Pakistan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294155,3.0,3.0
+41.5,-39.5,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000844,3.0,3.0
+52.7099,-167.9897,earthquake occurred in United States (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294151,3.0,3.0
+-12.2126,167.0594,earthquake occurred in Solomon Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294149,3.0,3.0
 44.5,18.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
-26.629,94.735,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
-8.492,7.212,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
+50.562,-106.465,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
 40.5,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
+-7.353,21.512,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
+8.25,27.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015040,3.0,3.0
+26.58,95.338,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
 -1.337,40.037,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
-50.622,-106.702,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
-49.362,57.535,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+-35.814,-71.098,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 -13.599,12.777,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,2.0,2.0
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
+9.126,7.503,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
+49.153,57.972,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
 39.5,46.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014392,3.0,3.0
--18.084,-56.327,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
--12.0944,65.489,earthquake occurred in Mid-Indian Ridge (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293860,3.0,3.0
--62.632,155.4959,earthquake occurred in Balleny Islands Region (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293842,3.0,3.0
--6.91,130.504,earthquake occurred in Indonesia (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293836,3.0,3.0
--16.6025,-173.6598,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293846,3.0,3.0
-0.1278,96.6676,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293825,3.0,3.0
-0.5777,67.1509,earthquake occurred in Carlsberg Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293822,3.0,3.0
-0.2945,96.6429,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293800,3.0,3.0
-26.6333,96.8048,earthquake occurred in Myanmar (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1293799,3.0,3.0
+-18.181,-55.915,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
+-6.8101,129.5299,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294144,3.0,3.0
+-30.3314,-71.2862,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294114,3.0,3.0
+-2.9296,129.3494,earthquake occurred in Indonesia (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294089,3.0,3.0
+-13.806725830193038,143.0463031104706,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003030,3.0,3.0
+-17.465123859808195,35.673558489926286,forest fire started in Mozambique,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003024,3.0,3.0
+10.345291737490518,22.22826489531334,forest fire started in Central African Republic,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003022,3.0,3.0
+30.30042057978491,74.51211547837345,forest fire started in India,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003019,3.0,3.0
+-14.332212459375889,134.10522978880812,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003016,3.0,3.0
+-16.50015156521309,137.10958375292796,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003015,3.0,3.0
+-14.676105473857373,132.1651601571264,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003014,3.0,3.0
+-16.211162312249986,36.50751673105727,forest fire started in Mozambique,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003012,3.0,3.0
+-14.890121870672813,134.18367473967325,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003009,3.0,3.0
+-12.268317019124,136.4879629636157,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1003007,3.0,3.0
+-19.20238351861637,34.83285362399256,forest fire started in Mozambique,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002989,3.0,3.0
+-14.034171300113336,133.58149427045237,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002988,3.0,3.0
+-16.83415573713988,38.84669088907416,forest fire started in Mozambique,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002983,3.0,3.0
+-11.529689919556873,142.22792371088124,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002979,3.0,3.0
+10.956741074425103,13.137968803353072,forest fire started in Nigeria,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002978,3.0,3.0
+-10.54977186762938,33.61789444796904,forest fire started in Zambia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002974,3.0,3.0
+30.192952088941425,75.42326348661844,forest fire started in India,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002968,3.0,3.0
+12.126364377231186,14.496091876450908,forest fire started in Nigeria,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002967,3.0,3.0
+12.258199402375215,14.082564987753129,forest fire started in Nigeria,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002966,3.0,3.0
+13.95223893892692,-12.342046448491317,forest fire started in Senegal,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002960,3.0,3.0
+-15.59711885076682,143.35605744996536,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002958,3.0,3.0
+-17.57954331435103,123.7360016692322,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002956,3.0,3.0
+-16.603967692683174,142.58653088529752,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002955,3.0,3.0
+-23.65538504194443,114.83525455551508,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002954,3.0,3.0
+-21.84437939600215,28.97956683764241,forest fire started in Botswana,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002953,3.0,3.0
+-24.373082114846454,27.701640799470585,forest fire started in South Africa,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002952,3.0,3.0
+-24.45504976320035,31.42510824056385,forest fire started in South Africa,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002951,3.0,3.0
+48.3581706384232,132.96288153046424,forest fire started in Russian Federation,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002950,3.0,3.0
+-12.400736766960618,142.67870391747294,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002948,3.0,3.0
+-16.26283949587402,144.630415119307,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002947,3.0,3.0
+-15.232007990519906,133.33853848960763,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002945,3.0,3.0
+-15.074929418512458,134.17591447686195,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002944,3.0,3.0
+-15.96628235739708,38.64046321896836,forest fire started in Mozambique,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002943,3.0,3.0
+-16.044749300977145,134.27013826899233,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002942,3.0,3.0
+-15.259760205096777,133.16689491212713,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002941,3.0,3.0
+-12.365465874570935,142.7168623509083,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002940,3.0,3.0
+-15.725827316474442,134.7562369388718,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002939,3.0,3.0
+-18.094251641230084,123.03241372332018,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002936,3.0,3.0
+-16.041113164788413,135.0815413819103,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002935,3.0,3.0
+-15.263806776642426,129.5134266013982,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002934,3.0,3.0
+-16.367170582619444,135.26473815198472,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002933,3.0,3.0
+-13.452856711851432,131.23474278384123,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002932,3.0,3.0
+-15.26207758553017,142.4380339970276,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002930,3.0,3.0
+-15.932135039555764,133.71911247758464,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002929,3.0,3.0
+-15.983902868104703,133.77532012872751,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002926,3.0,3.0
+-15.132633795878707,128.8707373424115,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002925,3.0,3.0
+-15.649638988073075,133.58762082660013,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002924,3.0,3.0
+-15.824518043858156,134.74318601323492,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002923,3.0,3.0
+-14.065726660613134,143.4387448773664,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002922,3.0,3.0
+-15.128834801955747,126.09288596472176,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002921,3.0,3.0
+-18.21564741841739,123.22908986381051,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002920,3.0,3.0
+-18.36272795776064,25.22670896099878,forest fire started in Botswana,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002919,3.0,3.0
+-12.002497039974502,133.52877411101315,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002865,3.0,3.0
+-14.125896384913306,142.00103050964458,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002859,3.0,3.0
+-16.724170565761746,142.06254748000455,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002856,3.0,3.0
+-14.1620925783381,142.75992025206136,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002852,3.0,3.0
+-15.822856908796096,143.26714520407413,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002846,3.0,3.0
+-15.002875353182953,143.93078133626773,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002777,3.0,3.0
+-14.830444967730164,132.6173251489548,forest fire started in Australia,https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1002772,3.0,3.0
+28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
+29.9614,-113.6855,earthquake occurred in Mexico (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294022,3.0,3.0
+-0.2883,123.9886,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1294000,3.0,3.0
