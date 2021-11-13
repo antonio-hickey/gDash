@@ -30,17 +30,10 @@ Lat,Lon,Title,Link,Condition,Impact
 40.708446,-77.797431,Emergency crews responding to major fire at Philadelphia recycling plant,https://t.co/Jq2SUbm5L3,2.0,2.0
 40.711634,-73.936331,NYC Columbia University evacuating due to significant security threat,https://t.co/iRF5wKKkPv,2.0,2.0
 44.238824,-89.492394,"Police responding to shots fired inside Renaissance Hotel in Milwaukee, Wisconsin",https://t.co/NyTdLAfxF9,2.0,2.0
-1.2867,98.8807,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295433,3.0,3.0
-38.1843,38.7856,earthquake occurred in Turkey (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295423,3.0,3.0
-2.1409,96.2074,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295420,3.0,3.0
-18.3787,-74.2953,earthquake occurred in Haiti (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295414,3.0,3.0
-0.1897,98.5197,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295406,3.0,3.0
--58.8728,-25.0681,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295393,3.0,3.0
--58.0318,-25.5869,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295392,3.0,3.0
-35.6389,140.215,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295386,3.0,3.0
-28.1529,105.2446,earthquake occurred in China (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295377,3.0,3.0
--26.5632,-13.6867,earthquake occurred in Southern Mid-Atlantic Ridge (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295368,3.0,3.0
--21.6281,-66.7844,earthquake occurred in Bolivia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295372,3.0,3.0
+-4.1062,129.1182,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295537,3.0,3.0
+46.0499,144.8432,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295534,3.0,3.0
+31.2215,130.3553,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295530,3.0,3.0
+-20.6131,-177.6924,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295526,3.0,3.0
 -9.752,19.752,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -36.427,-71.63,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -54,7 +47,7 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.541,-60.942,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.101,8.099,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-33.8351,141.9324,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295361,3.0,3.0
-32.2587,49.3673,earthquake occurred in Islamic Republic of Iran (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295357,3.0,3.0
-23.2932,126.3361,earthquake occurred in Japan (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295356,3.0,3.0
--4.9976,152.9604,earthquake occurred in Papua New Guinea (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295340,3.0,3.0
+21.6834,119.9058,earthquake occurred in China (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295498,3.0,3.0
+-16.2625,-74.5431,earthquake occurred in Peru (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295486,3.0,3.0
+-24.2436,-175.0807,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295470,3.0,3.0
+41.4827,20.1674,earthquake occurred in Albania (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295456,3.0,3.0
