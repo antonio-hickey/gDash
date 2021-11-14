@@ -30,10 +30,12 @@ Lat,Lon,Title,Link,Condition,Impact
 40.708446,-77.797431,Emergency crews responding to major fire at Philadelphia recycling plant,https://t.co/Jq2SUbm5L3,2.0,2.0
 40.711634,-73.936331,NYC Columbia University evacuating due to significant security threat,https://t.co/iRF5wKKkPv,2.0,2.0
 44.238824,-89.492394,"Police responding to shots fired inside Renaissance Hotel in Milwaukee, Wisconsin",https://t.co/NyTdLAfxF9,2.0,2.0
--4.1062,129.1182,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295537,3.0,3.0
-46.0499,144.8432,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295534,3.0,3.0
-31.2215,130.3553,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295530,3.0,3.0
--20.6131,-177.6924,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295526,3.0,3.0
+-60.1048,-24.9053,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295688,3.0,3.0
+-26.4129,-13.7053,earthquake occurred in Southern Mid-Atlantic Ridge (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295669,3.0,3.0
+-14.6555,-176.4707,earthquake occurred in Wallis and Futuna (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295657,3.0,3.0
+-57.7599,-25.2466,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295655,3.0,3.0
+-26.6017,-13.7185,earthquake occurred in Southern Mid-Atlantic Ridge (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295627,3.0,3.0
+-29.9815,-177.3925,"earthquake occurred in Kermadec Islands, New Zealand (4.7M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295645,3.0,3.0
 -9.752,19.752,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -36.427,-71.63,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -47,7 +49,13 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.541,-60.942,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.101,8.099,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-21.6834,119.9058,earthquake occurred in China (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295498,3.0,3.0
--16.2625,-74.5431,earthquake occurred in Peru (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295486,3.0,3.0
--24.2436,-175.0807,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295470,3.0,3.0
-41.4827,20.1674,earthquake occurred in Albania (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295456,3.0,3.0
+-26.3574,-13.6257,earthquake occurred in Southern Mid-Atlantic Ridge (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295616,3.0,3.0
+32.1881,68.779,earthquake occurred in Afghanistan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295612,3.0,3.0
+28.4572,54.0798,earthquake occurred in Islamic Republic of Iran (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295610,3.0,3.0
+-23.567,-179.7721,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295607,3.0,3.0
+-57.8385,-23.9263,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295605,3.0,3.0
+57.8407,-32.6543,earthquake occurred in Reykjanes Ridge (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295596,3.0,3.0
+-15.8321,-173.1145,earthquake occurred in Samoa (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295594,3.0,3.0
+-26.4103,-13.7073,earthquake occurred in Southern Mid-Atlantic Ridge (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295584,3.0,3.0
+-14.8751,-176.0335,earthquake occurred in Wallis and Futuna (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295586,3.0,3.0
+1.6969,127.4477,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1295571,3.0,3.0
