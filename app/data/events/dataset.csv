@@ -30,10 +30,11 @@ Lat,Lon,Title,Link,Condition,Impact
 40.708446,-77.797431,Emergency crews responding to major fire at Philadelphia recycling plant,https://t.co/Jq2SUbm5L3,2.0,2.0
 40.711634,-73.936331,NYC Columbia University evacuating due to significant security threat,https://t.co/iRF5wKKkPv,2.0,2.0
 44.238824,-89.492394,"Police responding to shots fired inside Renaissance Hotel in Milwaukee, Wisconsin",https://t.co/NyTdLAfxF9,2.0,2.0
--58.69,-23.5462,earthquake occurred in South Georgia and the South Sandwich Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296999,3.0,3.0
--8.9428,88.1216,earthquake occurred in [unknown] (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296980,3.0,3.0
--57.7067,-25.7139,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296968,3.0,3.0
-22.2081,101.7469,earthquake occurred in Laos (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296963,3.0,3.0
+-23.7981,179.4235,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297190,3.0,3.0
+-4.5768,153.5274,earthquake occurred in Papua New Guinea (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297185,3.0,3.0
+33.531,121.1581,earthquake occurred in China (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297163,3.0,3.0
+-3.5813,101.5623,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297128,3.0,3.0
+24.7351,122.2096,earthquake occurred in China (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297120,3.0,3.0
 -9.752,19.752,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -36.427,-71.63,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -47,10 +48,5 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.541,-60.942,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.101,8.099,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
--24.1464,-67.3736,earthquake occurred in Argentina (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296909,3.0,3.0
--37.554,51.0543,earthquake occurred in South Indian Ocean (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296911,3.0,3.0
--6.2437,130.1903,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296905,3.0,3.0
-27.6557,56.0556,earthquake occurred in Islamic Republic of Iran (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296889,3.0,3.0
-5.128,126.8503,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296882,3.0,3.0
--34.9595,-111.2705,earthquake occurred in Southern East Pacific Rise (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296891,3.0,3.0
-27.7098,56.026,earthquake occurred in Islamic Republic of Iran (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1296847,3.0,3.0
+6.2751,126.7864,earthquake occurred in Philippines (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297041,3.0,3.0
+12.0876,-88.2362,earthquake occurred in Nicaragua (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297033,3.0,3.0
