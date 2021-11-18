@@ -28,11 +28,11 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 40.711634,-73.936331,Bomb Squad responding to suspicious van at FBI Building in New York City,https://t.co/dSRwzG3mtW,2.0,2.0
 37.519345,-78.23024,Emerging reports of a crash involving an occupied school bus and train in Virginia,https://t.co/iFpK5kFdyf,2.0,2.0
--23.7981,179.4235,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297190,3.0,3.0
--4.5768,153.5274,earthquake occurred in Papua New Guinea (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297185,3.0,3.0
-33.531,121.1581,earthquake occurred in China (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297163,3.0,3.0
--3.5813,101.5623,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297128,3.0,3.0
-24.7351,122.2096,earthquake occurred in China (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297120,3.0,3.0
+-23.1457,-66.6202,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297449,3.0,3.0
+51.3993,-178.338,earthquake occurred in United States (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297447,3.0,3.0
+-20.7944,169.9025,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297434,3.0,3.0
+-7.3542,128.4461,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297425,3.0,3.0
+0.6081,-78.9332,earthquake occurred in Ecuador (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297412,3.0,3.0
 -9.752,19.752,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -36.427,-71.63,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -46,5 +46,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.541,-60.942,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.101,8.099,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-6.2751,126.7864,earthquake occurred in Philippines (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297041,3.0,3.0
-12.0876,-88.2362,earthquake occurred in Nicaragua (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297033,3.0,3.0
+-10.6176,165.2378,earthquake occurred in Solomon Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297355,3.0,3.0
+-26.3334,-63.3403,earthquake occurred in Argentina (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297333,3.0,3.0
+13.8536,-89.9971,earthquake occurred in El Salvador (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297310,3.0,3.0
+-16.1737,-176.1766,earthquake occurred in Wallis and Futuna (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297264,3.0,3.0
+-37.8172,179.6531,earthquake occurred in New Zealand (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1297245,3.0,3.0
