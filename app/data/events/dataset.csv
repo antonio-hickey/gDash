@@ -26,17 +26,10 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
-24.0251,122.4574,earthquake occurred in China (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298306,3,3
-29.9057,-113.7897,earthquake occurred in Mexico (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298305,3,3
-26.895,106.712,earthquake occurred in China (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298300,3,3
-39.3903,142.0686,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298292,3,3
--14.2,106.4,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000848,3,3
--16.9403,175.2363,earthquake occurred in Fiji (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298283,3,3
-36.7338,141.2984,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298285,3,3
-29.8971,-113.7879,earthquake occurred in Mexico (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298275,3,3
--16.6458,175.1156,earthquake occurred in Fiji (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298273,3,3
--16.6816,175.1156,earthquake occurred in Fiji (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298272,3,3
-7.1814,93.9671,earthquake occurred in India (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298261,3,3
+-10.7464,166.4849,earthquake occurred in Solomon Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298426,3,3
+-58.0025,-25.7264,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298396,3,3
+14.7122,52.2422,earthquake occurred in Yemen (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298372,3,3
+28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2,2
 -9.752,19.752,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2,2
 -36.427,-71.63,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3,3
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3,3
@@ -50,11 +43,10 @@ Lat,Lon,Title,Link,Condition,Impact
 -18.506,48.505,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
 -13.541,-60.942,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
 35.101,8.099,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3,3
--6.1818,153.9184,"earthquake occurred in New Britain Region, (4.5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298238,3,3
-28.2355,59.27,earthquake occurred in Islamic Republic of Iran (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298227,3,3
--33.9918,55.8206,earthquake occurred in Southwest Indian Ridge (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298225,3,3
--0.1488,123.9416,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298220,3,3
-49.1551,153.939,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298221,3,3
--49.1632,126.1689,earthquake occurred in Western Indian-Antarctic Ridge (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298215,3,3
-52.3676,157.2575,earthquake occurred in Russian Federation (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298199,3,3
--0.1759,-78.3803,earthquake occurred in Ecuador (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298195,3,3
+-20.5475,-69.056,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298367,3,3
+-10.6046,166.1096,earthquake occurred in Solomon Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298368,3,3
+-22.4801,-68.5367,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298355,3,3
+-36.1899,53.6114,earthquake occurred in South Indian Ocean (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298354,3,3
+-21.2728,-67.5108,earthquake occurred in Bolivia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298351,3,3
+-22.8994,172.0621,earthquake occurred in Vanuatu (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298341,3,3
+-29.6914,-176.5777,earthquake occurred in Kermadec Islands Region (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1298338,3,3
