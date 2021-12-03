@@ -28,9 +28,14 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 42.86629,-84.514843,Several students injured following shooting at Oxford Highschool in Michaigan,https://t.co/XCTjbqkyVX,2.0,2.0
 35.777766,-78.912974,"Emerging reports of shots fired at Southpoint Mall in Durham, North Carolina",https://t.co/2TdjnVwROa,2.0,2.0
-37.7076,141.8191,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299645,3.0,3.0
-51.3539,178.5063,earthquake occurred in United States (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299644,3.0,3.0
-50.9884,179.6145,earthquake occurred in United States (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299642,3.0,3.0
+52.1424,178.2468,earthquake occurred in United States (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299823,3.0,3.0
+-23.5144,-175.2182,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299818,3.0,3.0
+-23.4732,-175.0065,earthquake occurred in Tonga (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299807,3.0,3.0
+-60.4583,-27.1115,earthquake occurred in South Georgia and the South Sandwich Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299804,3.0,3.0
+14.2,85.2,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000851,2.0,2.0
+-28.6292,-112.2613,earthquake occurred in Chile (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299788,3.0,3.0
+-22.0344,-67.2286,earthquake occurred in Bolivia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299761,3.0,3.0
+33.8302,135.0996,earthquake occurred in Japan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299753,3.0,3.0
 -9.056,16.495,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -35.403,-71.306,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -44,10 +49,9 @@ Lat,Lon,Title,Link,Condition,Impact
 -23.628,44.205,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.832,-59.87,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.002,7.829,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-12.5946,-89.4101,earthquake occurred in El Salvador (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299640,3.0,3.0
--60.0125,-24.0763,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299636,3.0,3.0
--19.2616,-69.2241,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299634,3.0,3.0
--10.3,101.6,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000850,3.0,3.0
--10.3692,161.3168,earthquake occurred in Solomon Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299632,3.0,3.0
-36.2037,140.0476,earthquake occurred in Japan (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299629,3.0,3.0
-40.314,140.86,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299606,3.0,3.0
+-9.8834,108.2323,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299737,3.0,3.0
+35.561,138.9954,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299732,3.0,3.0
+45.5563,150.5465,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299729,3.0,3.0
+45.7785,142.5889,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299725,3.0,3.0
+35.5454,139.0111,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299707,3.0,3.0
+7.3949,-76.944,earthquake occurred in Colombia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299679,3.0,3.0
