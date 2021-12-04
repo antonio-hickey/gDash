@@ -28,14 +28,14 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 42.86629,-84.514843,Several students injured following shooting at Oxford Highschool in Michaigan,https://t.co/XCTjbqkyVX,2.0,2.0
 35.777766,-78.912974,"Emerging reports of shots fired at Southpoint Mall in Durham, North Carolina",https://t.co/2TdjnVwROa,2.0,2.0
-52.1424,178.2468,earthquake occurred in United States (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299823,3.0,3.0
--23.5144,-175.2182,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299818,3.0,3.0
--23.4732,-175.0065,earthquake occurred in Tonga (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299807,3.0,3.0
--60.4583,-27.1115,earthquake occurred in South Georgia and the South Sandwich Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299804,3.0,3.0
-14.2,85.2,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000851,2.0,2.0
--28.6292,-112.2613,earthquake occurred in Chile (6.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299788,3.0,3.0
--22.0344,-67.2286,earthquake occurred in Bolivia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299761,3.0,3.0
-33.8302,135.0996,earthquake occurred in Japan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299753,3.0,3.0
+-10.1607,161.1419,earthquake occurred in Solomon Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299960,3.0,3.0
+24.9673,-109.3304,earthquake occurred in Mexico (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299952,3.0,3.0
+44.8554,149.1156,earthquake occurred in Russian Federation (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299954,3.0,3.0
+29.9036,-113.6376,earthquake occurred in Mexico (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299953,3.0,3.0
+-6.6516,130.3585,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299948,3.0,3.0
+16.1,84.9,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000851,3.0,3.0
+0.5882,67.2226,earthquake occurred in Carlsberg Ridge (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299936,3.0,3.0
+-7.0934,150.9617,earthquake occurred in Papua New Guinea (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299902,3.0,3.0
 -9.056,16.495,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -35.403,-71.306,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -49,9 +49,5 @@ Lat,Lon,Title,Link,Condition,Impact
 -23.628,44.205,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.832,-59.87,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.002,7.829,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
--9.8834,108.2323,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299737,3.0,3.0
-35.561,138.9954,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299732,3.0,3.0
-45.5563,150.5465,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299729,3.0,3.0
-45.7785,142.5889,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299725,3.0,3.0
-35.5454,139.0111,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299707,3.0,3.0
-7.3949,-76.944,earthquake occurred in Colombia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299679,3.0,3.0
+9.9611,57.0855,earthquake occurred in Yemen (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299887,3.0,3.0
+-22.8562,171.7883,earthquake occurred in Vanuatu (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1299877,3.0,3.0
