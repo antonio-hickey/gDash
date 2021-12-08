@@ -27,30 +27,46 @@ Lat,Lon,Title,Link,Condition,Impact
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 42.86629,-84.514843,Several students injured following shooting at Oxford Highschool in Michaigan,https://t.co/XCTjbqkyVX,2.0,2.0
--9.9634,161.0433,earthquake occurred in Solomon Islands (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300345,3.0,3.0
--27.9593,-66.5584,earthquake occurred in Argentina (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300343,3.0,3.0
--18.6378,-71.0691,earthquake occurred in Peru (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300337,3.0,3.0
--38.327,175.912,earthquake occurred in New Zealand (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300336,3.0,3.0
--21.6281,-66.6734,earthquake occurred in Bolivia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300324,3.0,3.0
--38.5497,78.2341,earthquake occurred in Mid-Indian Ridge (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300313,3.0,3.0
-29.3598,129.4843,earthquake occurred in Japan (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300311,3.0,3.0
-36.6507,141.61,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300316,3.0,3.0
--19.2078,-174.812,earthquake occurred in Tonga (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300292,3.0,3.0
-28.57,-17.83,Volcano La Palma is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000031,2.0,2.0
--9.056,16.495,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
+44.3193,-129.4371,earthquake occurred in United States (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300535,3.0,3.0
+44.3814,-129.4194,earthquake occurred in United States (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300530,3.0,3.0
+44.27,-129.4552,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300527,3.0,3.0
+-20.8337,-178.5352,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300525,3.0,3.0
+-19.0518,-177.9195,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300522,3.0,3.0
+39.0464,20.6039,earthquake occurred in Greece (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300506,3.0,3.0
+14.7359,-93.7184,earthquake occurred in Mexico (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300504,3.0,3.0
+37.7433,141.6215,earthquake occurred in Japan (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300502,3.0,3.0
+44.274,-129.4425,earthquake occurred in United States (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300499,3.0,3.0
+44.303,-129.2183,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300495,3.0,3.0
+-13.1,105.8,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000850,3.0,3.0
+44.1954,-129.2727,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300490,3.0,3.0
+44.4165,-129.6213,earthquake occurred in United States (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300489,3.0,3.0
+44.5065,-129.5548,earthquake occurred in United States (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300487,3.0,3.0
+44.3674,-129.3794,earthquake occurred in United States (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300483,3.0,3.0
+44.4719,-129.8687,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300470,3.0,3.0
+44.4369,-128.9672,earthquake occurred in United States (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300446,3.0,3.0
+44.4012,-129.5319,earthquake occurred in United States (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300443,3.0,3.0
+44.5804,-129.0473,earthquake occurred in United States (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300439,3.0,3.0
+-59.731,-26.3721,earthquake occurred in South Georgia and the South Sandwich Islands (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300440,3.0,3.0
+-8.391,16.001,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -35.403,-71.306,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
-26.409,95.134,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
-9.624,8.13,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
+26.301,95.098,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014718,3.0,3.0
+9.641,8.363,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014509,3.0,3.0
 40.5,-122.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014821,3.0,3.0
--1.606,39.971,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
+-1.003,39.586,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
 50.817,-110.45,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
-52.387,56.879,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
--13.599,12.777,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014416,3.0,3.0
--23.628,44.205,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
--13.832,-59.87,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
+52.081,56.835,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,2.0,2.0
+-23.0,44.788,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
+-13.597,-60.405,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.002,7.829,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
--48.4165,31.4202,earthquake occurred in South Africa (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300289,3.0,3.0
-41.4382,142.0386,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300260,3.0,3.0
--27.5074,-177.1521,earthquake occurred in Kermadec Islands Region (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300263,3.0,3.0
--9.3179,-110.0246,earthquake occurred in Central East Pacific Rise (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300262,3.0,3.0
+44.3657,-129.5308,earthquake occurred in United States (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300428,3.0,3.0
+44.3959,-129.4693,earthquake occurred in United States (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300426,3.0,3.0
+-4.7224,153.5238,earthquake occurred in Papua New Guinea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300425,3.0,3.0
+10.4944,-62.3843,earthquake occurred in Venezuela (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300414,3.0,3.0
+14.2496,-93.0327,earthquake occurred in Mexico (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300406,3.0,3.0
+37.1547,141.3168,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300400,3.0,3.0
+10.2996,-62.3266,earthquake occurred in Venezuela (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300396,3.0,3.0
+-18.1077,168.0583,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300395,3.0,3.0
+-7.8871,123.0778,earthquake occurred in Indonesia (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300392,3.0,3.0
+-57.5123,-25.8175,earthquake occurred in South Georgia and the South Sandwich Islands (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300389,3.0,3.0
+-28.3572,-176.3582,earthquake occurred in Kermadec Islands Region (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300374,3.0,3.0
