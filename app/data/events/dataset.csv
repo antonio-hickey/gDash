@@ -29,8 +29,17 @@ Lat,Lon,Title,Link,Condition,Impact
 37.55795,-84.475312,"50+ dead, dozens injured after tornado flattens town of Mayfield, Kentucky",https://t.co/20WXYN8Hmq,2.0,2.0
 34.79593,-92.36205,Mass Casualty Incident reported after tornado strikes Arkansas nursing home,https://t.co/SHFLcAKptQ,2.0,2.0
 34.79593,-92.36205,"Destructive tornado now moving through the populated city of Jonesboro, Arkansas",https://t.co/XVDZb9Zqao,2.0,2.0
--24.1288,-67.4877,earthquake occurred in Argentina (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300992,3.0,3.0
-18.7094,145.8001,earthquake occurred in Northern Mariana Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300958,3.0,3.0
+31.1062,142.2867,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301146,3.0,3.0
+55.434,-157.5165,earthquake occurred in United States (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301144,3.0,3.0
+-17.4242,66.4837,earthquake occurred in Mauritius (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301142,3.0,3.0
+-60.6915,154.1065,earthquake occurred in West Of Macquarie Island (6.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301140,3.0,3.0
+-59.4012,-25.8042,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301139,3.0,3.0
+24.1643,126.6628,earthquake occurred in Japan (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301133,3.0,3.0
+24.1969,126.6873,earthquake occurred in Japan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301132,3.0,3.0
+-14.8,157.7,Tropical Storm( 157 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000852,3.0,3.0
+44.6597,148.3097,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301113,3.0,3.0
+36.1274,139.8208,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301112,3.0,3.0
+44.4812,140.9577,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301109,3.0,3.0
 -8.391,16.001,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,2.0,2.0
 -35.403,-71.306,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
 43.938,11.459,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014614,3.0,3.0
@@ -43,12 +52,10 @@ Lat,Lon,Title,Link,Condition,Impact
 -23.0,44.788,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -13.597,-60.405,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 35.002,7.829,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
--24.1057,-67.3316,earthquake occurred in Argentina (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300928,3.0,3.0
--58.9906,-26.015,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300936,3.0,3.0
-51.8462,178.2813,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300924,3.0,3.0
--17.6772,-70.6266,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300920,3.0,3.0
--0.0424,122.9915,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300915,3.0,3.0
-27.6386,56.1163,earthquake occurred in Islamic Republic of Iran (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300907,3.0,3.0
-5.2688,126.9262,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300906,3.0,3.0
-44.1976,-129.3394,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300903,3.0,3.0
--31.5487,-178.1433,earthquake occurred in Kermadec Islands Region (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1300875,3.0,3.0
+31.2133,142.1774,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301087,3.0,3.0
+43.2929,146.3403,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301069,3.0,3.0
+30.7716,56.8365,earthquake occurred in Islamic Republic of Iran (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301052,3.0,3.0
+-50.136,127.6332,earthquake occurred in Western Indian-Antarctic Ridge (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301048,3.0,3.0
+-7.0759,128.6983,earthquake occurred in Indonesia (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301036,3.0,3.0
+-29.548,-71.198,earthquake occurred in Chile (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301028,3.0,3.0
+-56.1026,-27.5821,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1301027,3.0,3.0
