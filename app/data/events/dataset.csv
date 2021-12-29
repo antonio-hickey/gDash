@@ -29,10 +29,14 @@ Lat,Lon,Title,Link,Condition,Impact
 36.270146,-119.650223,"Massive fire reported following plane crash in San Diego, California",https://t.co/TKjIyKSasJ,2.0,2.0
 39.026163,105.781686,Several shot dead following shooting spree across Denver Metro Area,https://t.co/1x0dr3NhCh,2.0,2.0
 36.270146,-119.650223,Police currently in standoff with armed man on Metro Bus in Downtown Los Angeles,https://t.co/981EGHzxJi,2.0,2.0
--2.0119,68.1568,earthquake occurred in Carlsberg Ridge (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303759,3.0,3.0
--7.6221,127.6601,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303755,3.0,3.0
-8.313,93.8615,earthquake occurred in India (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303743,3.0,3.0
--4.7027,128.9561,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303742,3.0,3.0
+-23.9768,-68.1072,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303880,3.0,3.0
+54.4978,170.6438,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303879,3.0,3.0
+42.0445,48.6731,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303883,3.0,3.0
+5.968,126.2497,earthquake occurred in Philippines (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303873,3.0,3.0
+34.8666,25.1168,earthquake occurred in Greece (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303863,3.0,3.0
+54.58,170.667,earthquake occurred in Russian Federation (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303860,3.0,3.0
+54.6472,170.6251,earthquake occurred in Russian Federation (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303856,3.0,3.0
+9.8262,93.5344,earthquake occurred in India (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303834,3.0,3.0
 -14.677,38.912,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,3.0,3.0
 35.742,37.745,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
 14.598,-86.933,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015187,3.0,3.0
@@ -45,7 +49,10 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.596,46.264,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -14.57,-59.111,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 34.978,8.451,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-22.9279,94.0807,earthquake occurred in Myanmar (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303689,3.0,3.0
--22.4861,170.0958,earthquake occurred in New Caledonia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303687,3.0,3.0
-35.589,74.9825,earthquake occurred in Pakistan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303637,3.0,3.0
-35.558,74.8289,earthquake occurred in Pakistan (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303636,3.0,3.0
+-1.0691,-77.8682,earthquake occurred in Ecuador (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303812,3.0,3.0
+-13.1586,167.792,earthquake occurred in Vanuatu (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303810,3.0,3.0
+3.5144,63.8789,earthquake occurred in Carlsberg Ridge (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303799,3.0,3.0
+-18.1278,-178.3388,earthquake occurred in Fiji (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303801,3.0,3.0
+-41.6717,174.2047,earthquake occurred in New Zealand (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303796,3.0,3.0
+-41.7459,174.197,earthquake occurred in New Zealand (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303791,3.0,3.0
+-12.3742,167.1615,earthquake occurred in Solomon Islands (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1303790,3.0,3.0
