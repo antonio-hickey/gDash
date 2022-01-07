@@ -26,11 +26,10 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
--5.4153,152.3652,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304786,3,3
--5.4618,152.1891,earthquake occurred in Papua New Guinea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304783,3,3
--5.3523,152.1971,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304785,3,3
-40.3846667,-124.8643333,earthquake occurred in United States (4.58M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304769,3,3
-37.3274994,-117.9014969,earthquake occurred in United States (4.75M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304748,3,3
+-30.1831,-177.4908,"earthquake occurred in Kermadec Islands, New Zealand (4.9M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304916,3,3
+-17.5207,-69.7758,earthquake occurred in Peru (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304914,3,3
+-30.2474,-177.5304,"earthquake occurred in Kermadec Islands, New Zealand (5.1M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304910,3,3
+-37.6525,-75.1287,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304899,3,3
 -14.677,38.912,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,3,3
 35.742,37.745,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3,3
 14.598,-86.933,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015187,3,3
@@ -43,8 +42,10 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.596,46.264,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
 -14.57,-59.111,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
 34.978,8.451,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3,3
--65.3619,-71.5096,earthquake occurred in Antarctica (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304747,3,3
--32.2862,-174.853,earthquake occurred in South Of Kermadec Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304737,3,3
-54.4193,168.8911,earthquake occurred in Russia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304732,3,3
--11.5596,166.4817,earthquake occurred in Solomon Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304729,3,3
--18.9596,169.6054,earthquake occurred in Vanuatu (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304720,3,3
+-16.3031,-172.8418,earthquake occurred in Samoa (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304876,3,3
+13.1872,50.9982,earthquake occurred in Somalia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304873,3,3
+27.4437,128.6121,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304867,3,3
+-9.2166,113.2228,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304863,3,3
+15.8318,-93.2289,earthquake occurred in Mexico (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304862,3,3
+-22.4773,-67.793,earthquake occurred in Bolivia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304836,3,3
+11.9754,-87.1178,earthquake occurred in Nicaragua (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1304825,3,3
