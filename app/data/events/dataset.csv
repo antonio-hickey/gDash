@@ -29,8 +29,18 @@ Lat,Lon,Title,Link,Condition,Impact
 37.55795,-84.475312,"Several people stabbed during domestic dispute incident in Walton, Kentucky",https://t.co/yL1RSdAXbn,2.0,2.0
 40.711634,-73.936331,"New York City highrise fire leaves 60+ people injured, 19 Dead",https://t.co/nWt84NNM5b,2.0,2.0
 31.21155,-99.087012,"Confirmed tornado on the ground racing east of Houston, Texas",https://t.co/z7bcwUqrYt,2.0,2.0
--13.9,146.7,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000857,3.0,3.0
--18.8,176.2,Tropical Storm( 93 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000856,3.0,3.0
+-18.1289,-178.1817,earthquake occurred in Fiji (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305314,3.0,3.0
+-24.8444,-175.9496,earthquake occurred in Tonga (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305310,3.0,3.0
+-26.0926,-65.4096,earthquake occurred in Argentina (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305297,3.0,3.0
+-30.7939,-71.4586,earthquake occurred in Chile (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305287,3.0,3.0
+-33.7624,179.5061,earthquake occurred in New Zealand (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305284,3.0,3.0
+-14.6,143.8,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000857,3.0,3.0
+-20.3,175.8,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000856,3.0,3.0
+-4.7535,153.1413,earthquake occurred in Papua New Guinea (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305313,3.0,3.0
+-19.9359,-177.9958,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305267,3.0,3.0
+-33.897,179.748,earthquake occurred in New Zealand (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305252,3.0,3.0
+-33.8502,179.6074,earthquake occurred in New Zealand (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305250,3.0,3.0
+-33.7854,179.5471,earthquake occurred in New Zealand (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305247,3.0,3.0
 39.097,-103.313,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015088,3.0,3.0
 -13.554,38.606,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,3.0,3.0
 36.165,37.831,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
@@ -44,6 +54,11 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.691,46.28,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -15.313,-58.879,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 34.978,8.451,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-38.6976,73.7327,earthquake occurred in Tajikistan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305116,3.0,3.0
--58.815,-24.9718,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305102,3.0,3.0
--4.8536,133.7813,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305093,3.0,3.0
+2.7591,128.5241,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305244,3.0,3.0
+1.4888,127.8667,earthquake occurred in Indonesia (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305230,3.0,3.0
+40.9116,21.3813,earthquake occurred in The Republic of North Macedonia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305227,3.0,3.0
+40.8416,21.3763,earthquake occurred in Greece (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305226,3.0,3.0
+-32.8845,-179.0206,earthquake occurred in South Of Kermadec Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305229,3.0,3.0
+1.4118,127.8455,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305224,3.0,3.0
+11.9822,-87.1375,earthquake occurred in Nicaragua (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305209,3.0,3.0
+-23.0762,-179.6411,earthquake occurred in Fiji (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1305205,3.0,3.0
