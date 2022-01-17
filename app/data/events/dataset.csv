@@ -30,15 +30,13 @@ Lat,Lon,Title,Link,Condition,Impact
 31.21155,-99.087012,"Several hostages reported at Jewish temple in Colleyville, Texas",https://t.co/L6aBrTPX5U,2.0,2.0
 43.655112,-120.709186,"Mass shooting reported at concert inside W.O.W. Music Hall in Eugene, Oregon",https://t.co/atriH5HHBr,2.0,2.0
 37.55795,-84.475312,"Several people stabbed during domestic dispute incident in Walton, Kentucky",https://t.co/yL1RSdAXbn,2.0,2.0
-40.0507,24.3665,earthquake occurred in Greece (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306192,3.0,3.0
-24.1853,122.2645,earthquake occurred in China (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306180,3.0,3.0
-3.4987,96.5659,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306178,3.0,3.0
--13.3098,167.129,earthquake occurred in Vanuatu (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306167,3.0,3.0
-29.1535,50.246,earthquake occurred in Islamic Republic of Iran (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306161,3.0,3.0
-29.2011,50.3087,earthquake occurred in Islamic Republic of Iran (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306156,3.0,3.0
--60.0472,-27.9688,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306136,3.0,3.0
-13.4734,144.5439,earthquake occurred in Guam (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306138,3.0,3.0
--31.0502,-71.6696,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306133,3.0,3.0
+34.9479,63.5686,earthquake occurred in Afghanistan (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306314,2.0,2.0
+34.8854,63.6704,earthquake occurred in Afghanistan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306308,3.0,3.0
+-17.9575,-73.4001,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306309,3.0,3.0
+-29.9563,-72.0921,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306290,3.0,3.0
+85.2101,91.82,earthquake occurred in Russian Federation (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306285,3.0,3.0
+85.2458,91.5293,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306284,3.0,3.0
+-7.5145,105.8539,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306260,3.0,3.0
 39.097,-103.313,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015088,3.0,3.0
 -13.554,38.606,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,3.0,3.0
 36.165,37.831,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
@@ -52,8 +50,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.691,46.28,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -15.313,-58.879,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 34.978,8.451,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
--57.9882,-25.8434,earthquake occurred in South Georgia and the South Sandwich Islands (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306134,3.0,3.0
--16.1588,-173.7742,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306119,3.0,3.0
--58.0492,-23.7713,earthquake occurred in South Georgia and the South Sandwich Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306109,3.0,3.0
-43.1251,146.1146,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306089,3.0,3.0
-30.4033,57.3352,earthquake occurred in Islamic Republic of Iran (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306075,3.0,3.0
+16.0612,-95.6786,earthquake occurred in Mexico (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306254,3.0,3.0
+40.1468,24.4808,earthquake occurred in Greece (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306250,3.0,3.0
+-17.4266,-174.2131,earthquake occurred in Tonga (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306227,3.0,3.0
