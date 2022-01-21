@@ -30,15 +30,10 @@ Lat,Lon,Title,Link,Condition,Impact
 27.451115,-81.255174,"Major damage reported following destructive tornado in Fort Myers, Florida",https://t.co/GjKZJUwfpA,2.0,2.0
 31.21155,-99.087012,"Several hostages reported at Jewish temple in Colleyville, Texas",https://t.co/L6aBrTPX5U,2.0,2.0
 43.655112,-120.709186,"Mass shooting reported at concert inside W.O.W. Music Hall in Eugene, Oregon",https://t.co/atriH5HHBr,2.0,2.0
--14.9375,167.9377,earthquake occurred in Vanuatu (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306741,3.0,3.0
--2.4518,140.0548,earthquake occurred in Indonesia (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306740,3.0,3.0
--57.2654,-25.2069,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306723,3.0,3.0
--58.9,-23.9049,earthquake occurred in South Georgia and the South Sandwich Islands (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306718,3.0,3.0
--10.2085,-75.4936,earthquake occurred in Peru (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306716,3.0,3.0
-36.5611,70.9655,earthquake occurred in Afghanistan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306715,3.0,3.0
--31.8944,57.5642,earthquake occurred in Southwest Indian Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306710,3.0,3.0
-11.3148,-86.8882,earthquake occurred in Nicaragua (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306703,3.0,3.0
-34.2431,51.7567,earthquake occurred in Islamic Republic of Iran (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306687,3.0,3.0
+23.0717,93.7385,earthquake occurred in Myanmar (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306888,3.0,3.0
+12.9047,144.1948,earthquake occurred in Guam (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306874,3.0,3.0
+-20.7481,-175.3195,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306867,3.0,3.0
+60.3208,-152.372,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306861,3.0,3.0
 39.505,-103.0,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015088,3.0,3.0
 -12.989,38.316,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,2.0,2.0
 36.501,38.0,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
@@ -51,11 +46,9 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.517,46.369,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -12.793,-60.286,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 34.908,8.445,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-50.8775,-179.0932,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306678,3.0,3.0
--21.0661,-175.482,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306680,3.0,3.0
--3.3257,137.7045,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306676,3.0,3.0
--37.4117,-74.2157,earthquake occurred in Chile (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306670,3.0,3.0
--25.2555,179.6155,earthquake occurred in South Of Fiji Islands (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306659,3.0,3.0
--4.5725,124.0524,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306639,3.0,3.0
--7.77,118.4432,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306626,3.0,3.0
--3.5158,130.8974,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306624,3.0,3.0
+44.0575,148.0745,earthquake occurred in Russian Federation (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306820,3.0,3.0
+-20.4834,-175.4169,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306823,3.0,3.0
+-3.6688,130.9338,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306810,3.0,3.0
+-20.3512,-175.3802,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306807,3.0,3.0
+15.8039,-94.9036,earthquake occurred in Mexico (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306805,3.0,3.0
+-20.4535,-175.2501,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306819,3.0,3.0
