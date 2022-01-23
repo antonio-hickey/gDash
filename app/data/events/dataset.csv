@@ -30,10 +30,11 @@ Lat,Lon,Title,Link,Condition,Impact
 27.451115,-81.255174,"Major damage reported following destructive tornado in Fort Myers, Florida",https://t.co/GjKZJUwfpA,2.0,2.0
 31.21155,-99.087012,"Several hostages reported at Jewish temple in Colleyville, Texas",https://t.co/L6aBrTPX5U,2.0,2.0
 43.655112,-120.709186,"Mass shooting reported at concert inside W.O.W. Music Hall in Eugene, Oregon",https://t.co/atriH5HHBr,2.0,2.0
-23.0717,93.7385,earthquake occurred in Myanmar (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306888,3.0,3.0
-12.9047,144.1948,earthquake occurred in Guam (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306874,3.0,3.0
--20.7481,-175.3195,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306867,3.0,3.0
-60.3208,-152.372,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306861,3.0,3.0
+6.9609,127.1277,earthquake occurred in Philippines (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307159,3.0,3.0
+6.9868,127.1204,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307157,3.0,3.0
+38.4832,97.3963,earthquake occurred in China (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307141,3.0,3.0
+3.5827,126.7536,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307128,3.0,3.0
+34.5616,26.33,earthquake occurred in Greece (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307125,3.0,3.0
 39.505,-103.0,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015088,3.0,3.0
 -12.989,38.316,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,2.0,2.0
 36.501,38.0,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
@@ -46,9 +47,13 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.517,46.369,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -12.793,-60.286,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 34.908,8.445,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-44.0575,148.0745,earthquake occurred in Russian Federation (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306820,3.0,3.0
--20.4834,-175.4169,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306823,3.0,3.0
--3.6688,130.9338,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306810,3.0,3.0
--20.3512,-175.3802,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306807,3.0,3.0
-15.8039,-94.9036,earthquake occurred in Mexico (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306805,3.0,3.0
--20.4535,-175.2501,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1306819,3.0,3.0
+38.2724,-118.3325,earthquake occurred in United States (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307116,3.0,3.0
+13.7376,120.8292,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307113,3.0,3.0
+-18.9534,169.3694,earthquake occurred in Vanuatu (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307110,3.0,3.0
+-20.4758,-175.3721,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307114,3.0,3.0
+-22.7477,-68.481,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307104,3.0,3.0
+-22.8174,-68.4723,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307103,3.0,3.0
+39.5667,28.8303,earthquake occurred in Turkey (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307101,3.0,3.0
+-5.9458,-12.4727,earthquake occurred in Ascension Island Region (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307086,3.0,3.0
+-44.0853,-82.0951,earthquake occurred in West Chile Rise (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307082,3.0,3.0
+2.8166,127.4791,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1307068,3.0,3.0
