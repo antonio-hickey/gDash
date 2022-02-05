@@ -27,34 +27,30 @@ Lat,Lon,Title,Link,Condition,Impact
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 37.519345,-78.23024,Active shooter reported on campus at Bridgewater College in Virginia,https://t.co/vV8t0ImHqz,2.0,2.0
+-17.2079,-174.3171,earthquake occurred in Tonga (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308889,3.0,3.0
+-19.4,83.7,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000863,3.0,3.0
+53.6151,-163.3644,earthquake occurred in United States (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308872,3.0,3.0
+36.445,71.1166,earthquake occurred in Afghanistan (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308867,3.0,3.0
+-9.0173,124.0338,earthquake occurred in Timor-Leste (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308863,3.0,3.0
+31.7261,142.4334,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308865,3.0,3.0
+29.806,-42.9099,earthquake occurred in Northern Mid-Atlantic Ridge (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308844,3.0,3.0
 -17.968,13.294,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
-34.768,8.637,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
--28.184,-56.918,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
-5.249,39.249,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
--11.21,34.437,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,2.0,2.0
--20.346,46.14,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
-34.768,37.777,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
 37.856,-3.956,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,3.0,3.0
-15.11,-87.49,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015187,3.0,3.0
+-19.9,51.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000859,1.0,1.0
 39.072,-103.218,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015088,3.0,3.0
+-11.21,34.437,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,2.0,2.0
+34.768,37.777,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
+15.11,-87.49,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015187,3.0,3.0
 -4.499,13.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015039,3.0,3.0
+-38.225,-72.609,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
+5.249,39.249,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014742,2.0,2.0
 47.995,-111.5,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014320,3.0,3.0
 44.684,55.077,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014473,3.0,3.0
--38.225,-72.609,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014958,3.0,3.0
--7.3054,105.9492,earthquake occurred in Indonesia (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308774,3.0,3.0
--32.0218,-178.1479,earthquake occurred in South Of Kermadec Islands (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308772,3.0,3.0
--27.9286,-67.0052,earthquake occurred in Argentina (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308761,3.0,3.0
--29.5265,-176.9464,earthquake occurred in Kermadec Islands Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308752,3.0,3.0
--17.8,83.8,Tropical Storm( 83 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000863,3.0,3.0
--29.4204,-176.9606,earthquake occurred in Kermadec Islands Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308743,3.0,3.0
-2.3485,128.5349,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308726,3.0,3.0
--6.102,105.423,Volcano Krakatau is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000037,3.0,3.0
--19.4,53.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000859,1.0,1.0
-54.2763,-161.6212,earthquake occurred in United States (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308722,3.0,3.0
-36.5222,70.435,earthquake occurred in Afghanistan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308708,3.0,3.0
--18.2,161.4,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000862,3.0,3.0
-0.3342,126.3589,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308703,3.0,3.0
-35.8635,65.3984,earthquake occurred in Afghanistan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308700,3.0,3.0
-12.2318,-88.8598,earthquake occurred in El Salvador (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308698,3.0,3.0
--4.455,-76.9395,earthquake occurred in Peru (6.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308697,3.0,3.0
--9.144,125.7247,earthquake occurred in Timor-Leste (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308696,3.0,3.0
+-20.346,46.14,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
+-28.184,-56.918,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
+34.768,8.637,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
+-15.6403,-171.715,earthquake occurred in American Samoa (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308838,3.0,3.0
+-30.4584,-176.5703,earthquake occurred in Kermadec Islands Region (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308827,3.0,3.0
+8.4261,-83.1154,earthquake occurred in Costa Rica (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308824,3.0,3.0
+-48.0343,99.4981,earthquake occurred in Southeast Indian Ridge (6.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308821,3.0,3.0
+-18.2529,167.7591,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1308811,3.0,3.0
