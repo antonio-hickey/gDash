@@ -28,17 +28,10 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 47.094056,-120.494907,"Active shooter reported at Fred Meyer Grocery in Richland, Washington",https://t.co/nNcPcKiRze,2.0,2.0
 40.711634,-73.936331,Large fire reported at famous Hotel Pennsylvania in New York City,https://t.co/zbCpdqAdLC,2.0,2.0
--0.4008,-19.8676,earthquake occurred in Central Mid-Atlantic Ridge (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309313,3.0,3.0
-84.3054,107.0936,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309300,3.0,3.0
--53.2226,9.4065,earthquake occurred in Norway (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309298,3.0,3.0
--23.7746,-175.6846,earthquake occurred in Tonga (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309295,3.0,3.0
--58.3487,-14.7617,earthquake occurred in East Of South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309281,3.0,3.0
--25.8195,-71.1014,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309276,3.0,3.0
--30.327,-177.8385,"earthquake occurred in Kermadec Islands, New Zealand (5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309269,3.0,3.0
-54.8953,156.5292,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309253,3.0,3.0
+-20.0,169.0,Tropical Storm( 120 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000864,3.0,3.0
+-2.005,-78.341,Volcano Sangay is emitting ash clouds ,https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000038,3.0,3.0
 -17.968,13.294,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 37.856,-3.956,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,3.0,3.0
--26.8,41.6,Tropical Storm( 231 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000859,3.0,3.0
 39.072,-103.218,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015088,3.0,3.0
 -11.21,34.437,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015281,2.0,2.0
 34.768,37.777,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015257,3.0,3.0
@@ -51,8 +44,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -20.346,46.14,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -28.184,-56.918,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 34.768,8.637,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,3.0,3.0
-12.0544,141.6595,earthquake occurred in Guam (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309248,3.0,3.0
-29.7957,141.2201,"earthquake occurred in Southeast Of Honshu, Japan (4.5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309250,3.0,3.0
--59.2778,-25.5841,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309234,3.0,3.0
--15.3313,-177.3521,earthquake occurred in Wallis and Futuna (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309217,3.0,3.0
--20.2707,-67.4793,earthquake occurred in Bolivia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309195,3.0,3.0
+26.8031,126.3683,earthquake occurred in Japan (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309373,3.0,3.0
+48.5347,142.3699,earthquake occurred in Russian Federation (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309372,3.0,3.0
+26.8198,126.5463,earthquake occurred in Japan (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309347,3.0,3.0
