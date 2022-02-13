@@ -26,12 +26,21 @@ Lat,Lon,Title,Link,Condition,Impact
 4.85165,31.58247,Civil War in South Sudan,https://www.cfr.org/global-conflict-tracker/conflict/civil-war-south-sudan,2,3
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2,3
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3,3
-3.3914,126.5505,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309774,3,3
--3.5195,143.8819,earthquake occurred in Papua New Guinea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309769,3,3
--9.8407,160.2241,earthquake occurred in Solomon Islands (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309755,3,3
--23.4352,-175.6328,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309753,3,3
-23.9215,122.3837,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309749,3,3
-20.1411,121.4068,earthquake occurred in Philippines (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309727,3,3
+6.0018,125.5894,earthquake occurred in Philippines (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309908,3,3
+57.5134,-33.1807,earthquake occurred in Reykjanes Ridge (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309907,3,3
+57.6563,-33.4226,earthquake occurred in Reykjanes Ridge (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309905,3,3
+0.8989,126.2493,earthquake occurred in Indonesia (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309898,3,3
+-8.099,122.3125,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309896,3,3
+-56.167,-27.9073,earthquake occurred in South Georgia and the South Sandwich Islands (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309891,3,3
+42.3966,144.2391,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309890,3,3
+-14.9,60.9,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000865,3,3
+14.0085,-91.5107,earthquake occurred in Guatemala (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309882,3,3
+19.1381,121.2133,earthquake occurred in Philippines (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309881,3,3
+-21.3508,-68.6102,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309880,3,3
+2.2457,-97.7478,earthquake occurred in West Of Galapagos Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309883,3,3
+-30.5857,-178.8798,"earthquake occurred in Kermadec Islands, New Zealand (4.8M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309877,3,3
+-25.3088,-178.7459,earthquake occurred in South Of Fiji Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309871,3,3
+18.9529,145.8011,earthquake occurred in Northern Mariana Islands (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309849,3,3
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3,3
 -18.132,12.867,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3,3
 38.8,-7.2,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2,2
@@ -45,11 +54,9 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1,1
 -26.739,-55.914,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2,2
 33.372,-4.146,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2,2
--15.0414,168.0887,earthquake occurred in Vanuatu (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309725,3,3
-26.0748,96.454,earthquake occurred in Myanmar (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309708,3,3
-23.9536,122.3487,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309709,3,3
--31.4,166.1,Tropical Storm( 139 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000864,3,3
-23.9631,122.326,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309706,3,3
-23.9918,122.3219,earthquake occurred in China (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309700,3,3
-5.9121,124.4923,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309690,3,3
--3.5657,144.1881,earthquake occurred in Papua New Guinea (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309688,3,3
+-20.6695,-175.4464,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309845,3,3
+-5.6629,154.5029,earthquake occurred in Papua New Guinea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309841,3,3
+-0.5003,-19.9873,earthquake occurred in Central Mid-Atlantic Ridge (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309833,3,3
+35.4707,70.5973,earthquake occurred in Afghanistan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309827,3,3
+-29.625,-177.0553,"earthquake occurred in Kermadec Islands, New Zealand (4.9M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309823,3,3
+-0.3907,-19.7113,earthquake occurred in Central Mid-Atlantic Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1309812,3,3
