@@ -29,10 +29,9 @@ Lat,Lon,Title,Link,Condition,Impact
 40.385585,-88.99722,Emergency crews responding to massive 100+ car pileup on I-39 in Illinois,https://t.co/JfVKrpzW0u,2.0,2.0
 32.816427,-86.636516,"Large, extremely dangerous tornado on the ground racing towards town of Jasper, Alabama",https://t.co/LQ31ku4j9x,2.0,2.0
 30.632183,-92.039792,US Coast Guard responding to ‘man overboard’ on Carnival Cruise in Gulf of Mexico,https://t.co/ldhgGYGuyK,2.0,2.0
--3.662,131.347,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310494,3.0,3.0
--25.5451,70.1635,earthquake occurred in Mid-Indian Ridge (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310481,3.0,3.0
-38.2463,141.684,earthquake occurred in Japan (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310479,3.0,3.0
--13.4,63.0,Tropical Storm( 176 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000866,2.0,2.0
+28.2549,142.9535,"earthquake occurred in Bonin Islands, Japan Region (5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310618,3.0,3.0
+-6.2352,130.9166,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310578,3.0,3.0
+-16.0,59.5,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000866,1.0,1.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.132,12.867,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.8,-7.2,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -46,10 +45,7 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -26.739,-55.914,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.372,-4.146,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
-12.7876,-88.2957,earthquake occurred in El Salvador (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310448,3.0,3.0
--30.3992,-178.595,"earthquake occurred in Kermadec Islands, New Zealand (5.5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310437,3.0,3.0
-38.8449,90.5232,earthquake occurred in China (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310433,3.0,3.0
--9.3189,107.0131,earthquake occurred in Christmas Island (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310428,3.0,3.0
--23.9139,-175.6598,earthquake occurred in Tonga (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310417,3.0,3.0
--1.5667,-78.0752,earthquake occurred in Ecuador (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310409,3.0,3.0
--20.1396,68.1868,earthquake occurred in Mauritius (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310410,3.0,3.0
+-62.8214,-61.1214,earthquake occurred in Antarctica (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310569,3.0,3.0
+-6.252,142.5632,earthquake occurred in Papua New Guinea (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310566,3.0,3.0
+-6.288,31.0658,earthquake occurred in Tanzania (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310554,3.0,3.0
+-59.8322,149.2968,earthquake occurred in West Of Macquarie Island (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310550,3.0,3.0
