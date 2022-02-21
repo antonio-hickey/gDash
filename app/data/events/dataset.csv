@@ -29,13 +29,19 @@ Lat,Lon,Title,Link,Condition,Impact
 40.711634,-73.936331,"Report of several people trapped inside apartment fire in Bronx, New York",https://t.co/GQHESYFjT9,2.0,2.0
 40.385585,-88.99722,Emergency crews responding to massive 100+ car pileup on I-39 in Illinois,https://t.co/JfVKrpzW0u,2.0,2.0
 32.816427,-86.636516,"Large, extremely dangerous tornado on the ground racing towards town of Jasper, Alabama",https://t.co/LQ31ku4j9x,2.0,2.0
-55.277,-157.8121,earthquake occurred in United States (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310745,3.0,3.0
-23.8919,122.5565,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310742,3.0,3.0
-23.928,122.5581,earthquake occurred in China (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310721,3.0,3.0
--17.2,55.9,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000866,1.0,1.0
--3.5402,131.3474,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310709,3.0,3.0
--15.1427,-173.4848,earthquake occurred in Samoa (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310708,3.0,3.0
--7.6182,117.3405,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310687,3.0,3.0
+11.7456,144.4828,earthquake occurred in Guam (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310882,3.0,3.0
+-5.6728,154.4857,earthquake occurred in Papua New Guinea (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310878,3.0,3.0
+46.9222,152.7805,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310876,3.0,3.0
+13.6264,144.9996,earthquake occurred in Guam (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310873,3.0,3.0
+13.6001,120.8971,earthquake occurred in Philippines (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310870,3.0,3.0
+-17.9,53.5,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000866,1.0,1.0
+53.0042,158.6572,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310853,3.0,3.0
+-41.7892,173.6994,earthquake occurred in New Zealand (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310849,3.0,3.0
+53.1552,-166.7857,earthquake occurred in United States (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310846,3.0,3.0
+28.8117,130.1493,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310845,3.0,3.0
+36.1968,140.9258,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310823,3.0,3.0
+2.2641,-84.5031,earthquake occurred in Off Coast Of Central America (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310821,3.0,3.0
+-8.1111,154.2856,earthquake occurred in Papua New Guinea (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310817,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.132,12.867,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.8,-7.2,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -49,6 +55,13 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -26.739,-55.914,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.372,-4.146,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
--6.0972,154.8729,earthquake occurred in Papua New Guinea (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310680,3.0,3.0
--56.6291,-142.9057,earthquake occurred in Pacific-Antarctic Ridge (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310649,3.0,3.0
--23.7173,-175.5276,earthquake occurred in Tonga (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310644,3.0,3.0
+34.0005,137.2208,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310808,3.0,3.0
+5.9957,126.5786,earthquake occurred in Philippines (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310805,3.0,3.0
+-38.2937,176.2057,earthquake occurred in New Zealand (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310803,3.0,3.0
+6.0541,126.6686,earthquake occurred in Philippines (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310797,3.0,3.0
+6.0307,126.5857,earthquake occurred in Philippines (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310788,3.0,3.0
+48.1247,152.5369,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310799,3.0,3.0
+6.0101,126.6629,earthquake occurred in Philippines (5.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310779,3.0,3.0
+-4.1426,153.7731,earthquake occurred in Papua New Guinea (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310784,3.0,3.0
+-43.0601,173.4077,earthquake occurred in New Zealand (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310774,3.0,3.0
+10.4917,-86.2541,earthquake occurred in Costa Rica (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310767,3.0,3.0
