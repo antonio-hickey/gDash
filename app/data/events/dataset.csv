@@ -29,14 +29,9 @@ Lat,Lon,Title,Link,Condition,Impact
 40.711634,-73.936331,"Report of several people trapped inside apartment fire in Bronx, New York",https://t.co/GQHESYFjT9,2.0,2.0
 40.385585,-88.99722,Emergency crews responding to massive 100+ car pileup on I-39 in Illinois,https://t.co/JfVKrpzW0u,2.0,2.0
 32.816427,-86.636516,"Large, extremely dangerous tornado on the ground racing towards town of Jasper, Alabama",https://t.co/LQ31ku4j9x,2.0,2.0
--16.1408,-174.0505,earthquake occurred in Tonga (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311028,3.0,3.0
-64.6143,-17.8513,earthquake occurred in Iceland (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311023,3.0,3.0
--8.105,120.6904,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311011,3.0,3.0
--22.6625,-66.2673,earthquake occurred in Argentina (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311008,3.0,3.0
--19.8,50.3,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000866,1.0,1.0
-53.3226,-166.7404,earthquake occurred in United States (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311002,3.0,3.0
--8.0517,120.704,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311001,3.0,3.0
-32.7996,141.7087,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310997,3.0,3.0
+-14.9557,167.2541,earthquake occurred in Vanuatu (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311123,3.0,3.0
+-23.6,46.3,Tropical Storm( 204 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000866,3.0,3.0
+-4.9787,144.3493,earthquake occurred in Papua New Guinea (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311109,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.132,12.867,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.8,-7.2,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -50,18 +45,6 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -26.739,-55.914,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.372,-4.146,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
--69.7601,165.4321,earthquake occurred in Antarctica (6.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310970,3.0,3.0
-34.6084,98.9339,earthquake occurred in China (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310968,3.0,3.0
--8.1491,120.7158,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310964,3.0,3.0
--8.1243,120.679,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310958,3.0,3.0
-29.5887,140.8616,"earthquake occurred in Southeast Of Honshu, Japan (5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310957,3.0,3.0
-26.8813,126.4362,earthquake occurred in Japan (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310956,3.0,3.0
--21.0161,-68.766,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310946,3.0,3.0
-37.3562,142.7889,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310945,3.0,3.0
--17.1104,-178.8011,earthquake occurred in Fiji (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310940,3.0,3.0
--8.0652,120.775,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310935,3.0,3.0
-43.2015,145.3091,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310930,3.0,3.0
--8.0817,120.765,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310929,3.0,3.0
--8.0927,120.7872,earthquake occurred in Indonesia (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310925,3.0,3.0
--8.129,120.7815,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310916,3.0,3.0
--24.1494,-67.0676,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1310914,3.0,3.0
+14.6034,54.7638,earthquake occurred in Yemen (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311081,3.0,3.0
+-25.8571,-70.3994,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311076,3.0,3.0
+-8.9821,125.2023,earthquake occurred in Timor-Leste (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311077,3.0,3.0
