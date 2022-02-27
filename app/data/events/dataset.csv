@@ -28,14 +28,9 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 39.026163,105.781686,"Large explosion reported at Stratus Townhomes Complex near Denver, Colorado",https://t.co/SFt3bbM7av,2.0,2.0
 40.711634,-73.936331,"Report of several people trapped inside apartment fire in Bronx, New York",https://t.co/GQHESYFjT9,2.0,2.0
-51.9465,178.3894,earthquake occurred in United States (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311550,3.0,3.0
-5.6838,126.3454,earthquake occurred in Philippines (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311546,3.0,3.0
--13.2,127.2,Tropical Storm( 111 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000869,3.0,3.0
-39.3026,142.5408,earthquake occurred in Japan (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311543,3.0,3.0
--7.5646,156.1498,earthquake occurred in Solomon Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311547,3.0,3.0
--20.5572,169.4261,earthquake occurred in Vanuatu (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311538,3.0,3.0
-30.0493,-42.4878,earthquake occurred in Northern Mid-Atlantic Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311516,3.0,3.0
--14.8,90.8,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000868,3.0,3.0
+42.7416,146.53,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311700,3.0,3.0
+21.9526,143.3335,earthquake occurred in Mariana Islands Region (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311701,3.0,3.0
+-12.3,87.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000868,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.132,12.867,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.8,-7.2,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -49,12 +44,7 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -26.739,-55.914,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.372,-4.146,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
--4.9621,101.7405,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311510,3.0,3.0
-11.7222,144.4929,earthquake occurred in Guam (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311511,3.0,3.0
--3.5383,143.8382,earthquake occurred in Papua New Guinea (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311509,3.0,3.0
-37.2116,142.0414,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311508,3.0,3.0
--59.6281,-26.317,earthquake occurred in South Georgia and the South Sandwich Islands (5.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311502,3.0,3.0
-0.0602,100.0534,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311479,3.0,3.0
--17.0494,-178.6655,earthquake occurred in Fiji (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311471,3.0,3.0
-55.0192,165.904,earthquake occurred in Russian Federation (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311444,3.0,3.0
--20.0149,-174.0184,earthquake occurred in Tonga (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311460,3.0,3.0
+-2.548,126.2835,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311631,3.0,3.0
+0.1955,99.8806,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311616,3.0,3.0
+-21.7328,-178.9265,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311624,3.0,3.0
+-14.2,126.8,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000869,3.0,3.0
