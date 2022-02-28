@@ -28,9 +28,18 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 39.026163,105.781686,"Large explosion reported at Stratus Townhomes Complex near Denver, Colorado",https://t.co/SFt3bbM7av,2.0,2.0
 40.711634,-73.936331,"Report of several people trapped inside apartment fire in Bronx, New York",https://t.co/GQHESYFjT9,2.0,2.0
-42.7416,146.53,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311700,3.0,3.0
-21.9526,143.3335,earthquake occurred in Mariana Islands Region (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311701,3.0,3.0
--12.3,87.4,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000868,3.0,3.0
+44.0431,148.4976,earthquake occurred in Russian Federation (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311868,3.0,3.0
+43.8891,148.585,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311861,3.0,3.0
+44.1064,148.3654,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311863,3.0,3.0
+-37.0879,176.557,earthquake occurred in New Zealand (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311858,3.0,3.0
+-33.2267,-178.1194,earthquake occurred in South Of Kermadec Islands (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311865,3.0,3.0
+22.4741,-45.0251,earthquake occurred in Northern Mid-Atlantic Ridge (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311857,3.0,3.0
+-59.9849,-26.1413,earthquake occurred in South Georgia and the South Sandwich Islands (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311833,3.0,3.0
+-18.1308,-177.8499,earthquake occurred in Fiji (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311829,3.0,3.0
+-21.8913,-68.4179,earthquake occurred in Chile (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311822,3.0,3.0
+-36.9602,-73.9333,earthquake occurred in Chile (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311802,3.0,3.0
+-36.9575,-74.008,earthquake occurred in Chile (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311798,3.0,3.0
+-14.9,87.5,Tropical Storm( 185 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000868,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.132,12.867,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.8,-7.2,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -44,7 +53,8 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -26.739,-55.914,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.372,-4.146,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
--2.548,126.2835,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311631,3.0,3.0
-0.1955,99.8806,earthquake occurred in Indonesia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311616,3.0,3.0
--21.7328,-178.9265,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311624,3.0,3.0
--14.2,126.8,Tropical Storm( 102 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000869,3.0,3.0
+56.8053,124.7741,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311760,3.0,3.0
+41.9593,88.1787,earthquake occurred in China (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311765,3.0,3.0
+26.5544,128.7227,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311739,3.0,3.0
+43.8228,148.6568,earthquake occurred in Russian Federation (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311737,3.0,3.0
+43.6902,148.6762,earthquake occurred in Russian Federation (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1311730,3.0,3.0
