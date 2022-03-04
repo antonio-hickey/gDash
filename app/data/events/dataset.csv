@@ -28,16 +28,13 @@ Lat,Lon,Title,Link,Condition,Impact
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 39.026163,105.781686,"Large explosion reported at Stratus Townhomes Complex near Denver, Colorado",https://t.co/SFt3bbM7av,2.0,2.0
 40.711634,-73.936331,"Report of several people trapped inside apartment fire in Bronx, New York",https://t.co/GQHESYFjT9,2.0,2.0
-12.3391,-87.7538,earthquake occurred in Nicaragua (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312278,3.0,3.0
--27.3809,-67.5252,earthquake occurred in Argentina (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312276,3.0,3.0
-9.9958,-78.545,earthquake occurred in Panama (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312267,3.0,3.0
-19.2842,-65.008,earthquake occurred in Virgin Islands  (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312263,3.0,3.0
-0.0543,99.9982,earthquake occurred in Indonesia (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312261,3.0,3.0
--26.2,175.0,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000871,3.0,3.0
--33.5181,-70.4855,earthquake occurred in Chile (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312254,3.0,3.0
-26.81,126.5908,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312253,3.0,3.0
-53.3748,160.4695,earthquake occurred in Russian Federation (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312250,3.0,3.0
--21.4,82.7,Tropical Storm( 185 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000868,3.0,3.0
+-5.305,150.7244,earthquake occurred in Papua New Guinea (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312414,3.0,3.0
+0.0344,96.6081,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312412,3.0,3.0
+-27.0552,-175.9766,earthquake occurred in Kermadec Islands Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312398,3.0,3.0
+33.6666,81.9193,earthquake occurred in China (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312392,3.0,3.0
+-27.0801,-175.9215,earthquake occurred in Kermadec Islands Region (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312388,3.0,3.0
+-27.2215,-175.9624,earthquake occurred in Kermadec Islands Region (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312382,3.0,3.0
+-25.5,174.2,Tropical Storm( 74 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000871,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.795,13.122,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.146,-4.379,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -51,12 +48,9 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -25.982,-55.819,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.672,-0.985,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
--20.055,-176.0282,earthquake occurred in Tonga (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312222,3.0,3.0
--0.6056,131.4612,earthquake occurred in Indonesia (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312218,3.0,3.0
--3.396,146.3381,earthquake occurred in Papua New Guinea (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312247,3.0,3.0
--4.9103,152.2002,earthquake occurred in Papua New Guinea (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312211,3.0,3.0
-0.2071,-16.9524,earthquake occurred in North Of Ascension Island (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312198,3.0,3.0
--29.9866,-177.9057,"earthquake occurred in Kermadec Islands, New Zealand (5.1M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312191,3.0,3.0
--10.0,111.8,Tropical Storm( 65 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000870,3.0,3.0
-49.4341,155.812,earthquake occurred in Russian Federation (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312184,3.0,3.0
--30.1295,-177.6868,"earthquake occurred in Kermadec Islands, New Zealand (5.5M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312173,3.0,3.0
+-17.0199,-70.1823,earthquake occurred in Peru (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312324,3.0,3.0
+-5.2687,68.6659,earthquake occurred in British Indian Ocean Territory (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312314,3.0,3.0
+30.7229,141.7351,earthquake occurred in Japan (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312317,3.0,3.0
+18.1716,-95.4314,earthquake occurred in Mexico (5.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312307,3.0,3.0
+36.1421,70.5643,earthquake occurred in Afghanistan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312306,3.0,3.0
+-30.0394,-177.8946,"earthquake occurred in Kermadec Islands, New Zealand (5.1M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312287,3.0,3.0
