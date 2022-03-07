@@ -27,14 +27,9 @@ Lat,Lon,Title,Link,Condition,Impact
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 41.857857,-93.268631,"Confirmed violent tornado near the city of Des Moines, Iowa",https://t.co/ARZzI3KFmm,2.0,2.0
--28.5653,-68.8277,earthquake occurred in Argentina (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312667,3.0,3.0
--0.1512,29.8224,earthquake occurred in Uganda (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312666,3.0,3.0
--30.9617,-179.471,earthquake occurred in Kermadec Islands Region (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312662,3.0,3.0
-24.843,122.2398,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312655,3.0,3.0
-16.9706,-95.0836,earthquake occurred in Mexico (5.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312650,3.0,3.0
--22.5851,-176.3623,earthquake occurred in Tonga (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312646,3.0,3.0
-40.6814,-29.1677,earthquake occurred in Portugal (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312643,3.0,3.0
-28.0138,130.1198,earthquake occurred in Japan (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312621,3.0,3.0
+42.0785,144.4153,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312807,3.0,3.0
+-20.3797,-178.4313,earthquake occurred in Tonga (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312786,3.0,3.0
+-13.7855,66.1569,earthquake occurred in Mid-Indian Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312759,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.795,13.122,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.697,-7.503,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -48,9 +43,5 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -25.868,-55.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.732,-1.219,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
-3.5839,126.0575,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312608,3.0,3.0
--21.6167,-173.7901,earthquake occurred in Tonga (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312610,3.0,3.0
--16.8919,-174.2584,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312605,3.0,3.0
-1.368,127.1281,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312582,3.0,3.0
-22.3188,101.6785,earthquake occurred in Laos (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312583,3.0,3.0
-2.6736,99.0195,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312563,3.0,3.0
+70.4013,-134.4761,earthquake occurred in Canada (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312738,3.0,3.0
+-58.7354,-24.8859,earthquake occurred in South Georgia and the South Sandwich Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312731,3.0,3.0
