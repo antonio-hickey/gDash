@@ -27,9 +27,13 @@ Lat,Lon,Title,Link,Condition,Impact
 5.9657536710655,47.98828125,Al-Shabab in Somalia,https://www.cfr.org/global-conflict-tracker/conflict/al-shabab-somalia,2.0,3.0
 8.980603,38.757761,Conflict in Ethiopia,https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia,3.0,3.0
 41.857857,-93.268631,"Confirmed violent tornado near the city of Des Moines, Iowa",https://t.co/ARZzI3KFmm,2.0,2.0
-42.0785,144.4153,earthquake occurred in Japan (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312807,3.0,3.0
--20.3797,-178.4313,earthquake occurred in Tonga (6.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312786,3.0,3.0
--13.7855,66.1569,earthquake occurred in Mid-Indian Ridge (5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312759,3.0,3.0
+70.6557,-14.3298,earthquake occurred in Svalbard and Jan Mayen (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312949,3.0,3.0
+-15.4,49.4,Tropical Storm( 130 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000873,2.0,2.0
+18.7505,-74.168,earthquake occurred in Haiti (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312926,3.0,3.0
+-33.5178,-177.9927,earthquake occurred in South Of Kermadec Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312928,3.0,3.0
+-58.9827,-25.7196,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312927,3.0,3.0
+24.6133,128.6295,earthquake occurred in Japan (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312918,3.0,3.0
+-21.8783,-178.6557,earthquake occurred in Tonga (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312887,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.795,13.122,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.697,-7.503,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -43,5 +47,14 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -25.868,-55.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.732,-1.219,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
-70.4013,-134.4761,earthquake occurred in Canada (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312738,3.0,3.0
--58.7354,-24.8859,earthquake occurred in South Georgia and the South Sandwich Islands (6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312731,3.0,3.0
+27.2084,53.2823,earthquake occurred in Islamic Republic of Iran (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312882,3.0,3.0
+-59.0894,-25.6976,earthquake occurred in South Georgia and the South Sandwich Islands (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312884,3.0,3.0
+-30.0916,-177.8991,"earthquake occurred in Kermadec Islands, New Zealand (5.2M)",https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312881,3.0,3.0
+6.812,-73.0168,earthquake occurred in Colombia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312857,3.0,3.0
+2.7495,125.7467,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312855,3.0,3.0
+24.1534,122.9961,earthquake occurred in Japan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312864,3.0,3.0
+-35.9025,-102.8049,earthquake occurred in Southeast Of Easter Island (5.4M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312853,3.0,3.0
+-5.9336,130.5771,earthquake occurred in Indonesia (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312849,3.0,3.0
+48.4642,154.0845,earthquake occurred in Russian Federation (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312848,3.0,3.0
+37.5216,137.2782,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312843,3.0,3.0
+37.7359,101.4465,earthquake occurred in China (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1312829,3.0,3.0
