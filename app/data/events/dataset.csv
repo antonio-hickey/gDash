@@ -29,15 +29,10 @@ Lat,Lon,Title,Link,Condition,Impact
 31.21155,-99.087012,"Smoke billowing from highrise apartment fire in Dallas, Texas",https://t.co/NY27jO8lL2,2.0,2.0
 35.843349,-86.584571,"Hostage situation unfolding at strip mall in Covington, Tennessee",https://t.co/vwo3JUq3RH,2.0,2.0
 40.711634,-73.936331,Reports of several fires throughout Central Park in New York City,https://t.co/Qxsgkl5osW,2.0,2.0
-35.5867,142.7305,earthquake occurred in Japan (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313304,3.0,3.0
--20.8189,-175.6126,earthquake occurred in Tonga (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313303,3.0,3.0
--24.3654,-67.164,earthquake occurred in Argentina (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313300,3.0,3.0
-34.7536,24.455,earthquake occurred in Greece (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313294,3.0,3.0
--3.788,138.6148,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313293,3.0,3.0
-45.1167,153.5614,earthquake occurred in Russian Federation (5.2M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313292,3.0,3.0
--32.0836,-176.9189,earthquake occurred in South Of Kermadec Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313290,3.0,3.0
--15.2,40.1,Hurricane/Typhoon (74 mph),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000873,3.0,3.0
-12.961,-88.816,earthquake occurred in El Salvador (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313257,3.0,3.0
+-59.6924,-26.1125,earthquake occurred in South Georgia and the South Sandwich Islands (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313434,3.0,3.0
+-15.3,36.7,Tropical Storm( 185 km/h),https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000873,3.0,3.0
+-7.3035,106.0707,earthquake occurred in Indonesia (5.3M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313408,3.0,3.0
+-7.9982,120.7251,earthquake occurred in Indonesia (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313381,3.0,3.0
 19.134,-70.769,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015291,3.0,3.0
 -18.795,13.122,Drought alert level is Green.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015356,3.0,3.0
 38.697,-7.503,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1015249,2.0,2.0
@@ -51,6 +46,10 @@ Lat,Lon,Title,Link,Condition,Impact
 -21.747,44.892,Drought alert level is Red.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014495,1.0,1.0
 -25.868,-55.816,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1013868,2.0,2.0
 33.732,-1.219,Drought alert level is Orange.,https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1014695,2.0,2.0
--23.1764,179.297,earthquake occurred in Fiji (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313237,3.0,3.0
-14.4426,-93.0294,earthquake occurred in Mexico (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313229,3.0,3.0
-35.9021,77.8111,earthquake occurred in China (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313235,3.0,3.0
+-12.2562,25.0924,earthquake occurred in Zambia (4.7M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313375,3.0,3.0
+37.4103,71.9293,earthquake occurred in Tajikistan (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313363,3.0,3.0
+-8.5282,-74.3088,earthquake occurred in Peru (4.5M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313372,3.0,3.0
+0.3181,125.738,earthquake occurred in Indonesia (4.6M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313349,3.0,3.0
+0.5673,126.3221,earthquake occurred in Indonesia (5.1M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313348,3.0,3.0
+-21.5824,170.5466,earthquake occurred in Vanuatu (4.8M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313343,3.0,3.0
+7.8527,125.8294,earthquake occurred in Philippines (4.9M),https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1313330,3.0,3.0
